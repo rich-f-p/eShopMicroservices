@@ -16,7 +16,7 @@ namespace OrderMicroservice.ApplicationCore.Entities
         public string Street2 { get; set; }
         [Column(TypeName = "varchar(50)")]
         public string City { get; set; }
-        [Column(TypeName = "varchar(5)")]
+        [Column(TypeName = "varchar(9)")]
         public string ZipCode { get; set; }
         [Column(TypeName = "varchar(52)")]
         public string State { get; set; }

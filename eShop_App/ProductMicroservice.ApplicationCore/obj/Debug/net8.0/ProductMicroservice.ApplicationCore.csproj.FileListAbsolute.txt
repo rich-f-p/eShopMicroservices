@@ -9,3 +9,15 @@ C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ProductMicroservice.ApplicationC
 C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ProductMicroservice.ApplicationCore\obj\Debug\net8.0\refint\ProductMicroservice.ApplicationCore.dll
 C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ProductMicroservice.ApplicationCore\obj\Debug\net8.0\ProductMicroservice.ApplicationCore.pdb
 C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ProductMicroservice.ApplicationCore\obj\Debug\net8.0\ref\ProductMicroservice.ApplicationCore.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ProductMicroservice.ApplicationCore\bin\Debug\net8.0\ProductMicroservice.ApplicationCore.deps.json
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ProductMicroservice.ApplicationCore\bin\Debug\net8.0\ProductMicroservice.ApplicationCore.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ProductMicroservice.ApplicationCore\bin\Debug\net8.0\ProductMicroservice.ApplicationCore.pdb
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ProductMicroservice.ApplicationCore\obj\Debug\net8.0\ProductMicroservice.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ProductMicroservice.ApplicationCore\obj\Debug\net8.0\ProductMicroservice.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ProductMicroservice.ApplicationCore\obj\Debug\net8.0\ProductMicroservice.ApplicationCore.AssemblyInfo.cs
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ProductMicroservice.ApplicationCore\obj\Debug\net8.0\ProductMicroservice.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ProductMicroservice.ApplicationCore\obj\Debug\net8.0\ProductMicroservice.ApplicationCore.sourcelink.json
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ProductMicroservice.ApplicationCore\obj\Debug\net8.0\ProductMicroservice.ApplicationCore.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ProductMicroservice.ApplicationCore\obj\Debug\net8.0\refint\ProductMicroservice.ApplicationCore.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ProductMicroservice.ApplicationCore\obj\Debug\net8.0\ProductMicroservice.ApplicationCore.pdb
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ProductMicroservice.ApplicationCore\obj\Debug\net8.0\ref\ProductMicroservice.ApplicationCore.dll

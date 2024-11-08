@@ -3,84 +3,96 @@
   "WorkspaceRootPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB9017F9-F3CC-412E-9789-2BD687B2FB81}|OrderMicroservice.API\\OrderMicroservice.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.api\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB9017F9-F3CC-412E-9789-2BD687B2FB81}|OrderMicroservice.API\\OrderMicroservice.API.csproj|solutionrelative:ordermicroservice.api\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.applicationcore\\models\\request\\shoppingcartrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:ordermicroservice.applicationcore\\models\\request\\shoppingcartrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{841BA0C4-1906-44B8-A316-E1F30DEE1D90}|OrderMicroservice.Infrastructure\\OrderMicroservice.Infrastructure.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.infrastructure\\services\\paymentserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{841BA0C4-1906-44B8-A316-E1F30DEE1D90}|OrderMicroservice.Infrastructure\\OrderMicroservice.Infrastructure.csproj|solutionrelative:ordermicroservice.infrastructure\\services\\paymentserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.applicationcore\\models\\response\\shoppingcartresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:ordermicroservice.applicationcore\\models\\response\\shoppingcartresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.applicationcore\\contracts\\services\\ipaymentserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:ordermicroservice.applicationcore\\contracts\\services\\ipaymentserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.applicationcore\\models\\response\\shopping_cart_itemresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:ordermicroservice.applicationcore\\models\\response\\shopping_cart_itemresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.applicationcore\\models\\request\\payment_typerequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:ordermicroservice.applicationcore\\models\\request\\payment_typerequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.applicationcore\\models\\response\\paymentmethodresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:ordermicroservice.applicationcore\\models\\response\\paymentmethodresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB9017F9-F3CC-412E-9789-2BD687B2FB81}|OrderMicroservice.API\\OrderMicroservice.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB9017F9-F3CC-412E-9789-2BD687B2FB81}|OrderMicroservice.API\\OrderMicroservice.API.csproj|solutionrelative:ordermicroservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB9017F9-F3CC-412E-9789-2BD687B2FB81}|OrderMicroservice.API\\OrderMicroservice.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.api\\controllers\\shoppingcartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB9017F9-F3CC-412E-9789-2BD687B2FB81}|OrderMicroservice.API\\OrderMicroservice.API.csproj|solutionrelative:ordermicroservice.api\\controllers\\shoppingcartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB9017F9-F3CC-412E-9789-2BD687B2FB81}|OrderMicroservice.API\\OrderMicroservice.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.api\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB9017F9-F3CC-412E-9789-2BD687B2FB81}|OrderMicroservice.API\\OrderMicroservice.API.csproj|solutionrelative:ordermicroservice.api\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB9017F9-F3CC-412E-9789-2BD687B2FB81}|OrderMicroservice.API\\OrderMicroservice.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB9017F9-F3CC-412E-9789-2BD687B2FB81}|OrderMicroservice.API\\OrderMicroservice.API.csproj|solutionrelative:ordermicroservice.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB9017F9-F3CC-412E-9789-2BD687B2FB81}|OrderMicroservice.API\\OrderMicroservice.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB9017F9-F3CC-412E-9789-2BD687B2FB81}|OrderMicroservice.API\\OrderMicroservice.API.csproj|solutionrelative:ordermicroservice.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{841BA0C4-1906-44B8-A316-E1F30DEE1D90}|OrderMicroservice.Infrastructure\\OrderMicroservice.Infrastructure.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.infrastructure\\services\\shoppingcartserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{841BA0C4-1906-44B8-A316-E1F30DEE1D90}|OrderMicroservice.Infrastructure\\OrderMicroservice.Infrastructure.csproj|solutionrelative:ordermicroservice.infrastructure\\services\\shoppingcartserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.applicationcore\\contracts\\repository\\ipaymentmethodrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:ordermicroservice.applicationcore\\contracts\\repository\\ipaymentmethodrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{841BA0C4-1906-44B8-A316-E1F30DEE1D90}|OrderMicroservice.Infrastructure\\OrderMicroservice.Infrastructure.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.infrastructure\\services\\shopping_cart_itemserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{841BA0C4-1906-44B8-A316-E1F30DEE1D90}|OrderMicroservice.Infrastructure\\OrderMicroservice.Infrastructure.csproj|solutionrelative:ordermicroservice.infrastructure\\services\\shopping_cart_itemserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{841BA0C4-1906-44B8-A316-E1F30DEE1D90}|OrderMicroservice.Infrastructure\\OrderMicroservice.Infrastructure.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.infrastructure\\repository\\paymentmethodrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{841BA0C4-1906-44B8-A316-E1F30DEE1D90}|OrderMicroservice.Infrastructure\\OrderMicroservice.Infrastructure.csproj|solutionrelative:ordermicroservice.infrastructure\\repository\\paymentmethodrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.applicationcore\\contracts\\repository\\ipayment_typerepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:ordermicroservice.applicationcore\\contracts\\repository\\ipayment_typerepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.applicationcore\\entities\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:ordermicroservice.applicationcore\\entities\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{841BA0C4-1906-44B8-A316-E1F30DEE1D90}|OrderMicroservice.Infrastructure\\OrderMicroservice.Infrastructure.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.infrastructure\\services\\orderserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{841BA0C4-1906-44B8-A316-E1F30DEE1D90}|OrderMicroservice.Infrastructure\\OrderMicroservice.Infrastructure.csproj|solutionrelative:ordermicroservice.infrastructure\\services\\orderserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{841BA0C4-1906-44B8-A316-E1F30DEE1D90}|OrderMicroservice.Infrastructure\\OrderMicroservice.Infrastructure.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.infrastructure\\services\\customerserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{841BA0C4-1906-44B8-A316-E1F30DEE1D90}|OrderMicroservice.Infrastructure\\OrderMicroservice.Infrastructure.csproj|solutionrelative:ordermicroservice.infrastructure\\services\\customerserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{841BA0C4-1906-44B8-A316-E1F30DEE1D90}|OrderMicroservice.Infrastructure\\OrderMicroservice.Infrastructure.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.infrastructure\\repository\\orderrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841BA0C4-1906-44B8-A316-E1F30DEE1D90}|OrderMicroservice.Infrastructure\\OrderMicroservice.Infrastructure.csproj|solutionrelative:ordermicroservice.infrastructure\\repository\\orderrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9017F9-F3CC-412E-9789-2BD687B2FB81}|OrderMicroservice.API\\OrderMicroservice.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9017F9-F3CC-412E-9789-2BD687B2FB81}|OrderMicroservice.API\\OrderMicroservice.API.csproj|solutionrelative:ordermicroservice.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841BA0C4-1906-44B8-A316-E1F30DEE1D90}|OrderMicroservice.Infrastructure\\OrderMicroservice.Infrastructure.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.infrastructure\\repository\\customerrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841BA0C4-1906-44B8-A316-E1F30DEE1D90}|OrderMicroservice.Infrastructure\\OrderMicroservice.Infrastructure.csproj|solutionrelative:ordermicroservice.infrastructure\\repository\\customerrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.applicationcore\\contracts\\services\\iorderserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:ordermicroservice.applicationcore\\contracts\\services\\iorderserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.applicationcore\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:ordermicroservice.applicationcore\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.applicationcore\\contracts\\services\\icustomerserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:ordermicroservice.applicationcore\\contracts\\services\\icustomerserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841BA0C4-1906-44B8-A316-E1F30DEE1D90}|OrderMicroservice.Infrastructure\\OrderMicroservice.Infrastructure.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.infrastructure\\services\\customerserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841BA0C4-1906-44B8-A316-E1F30DEE1D90}|OrderMicroservice.Infrastructure\\OrderMicroservice.Infrastructure.csproj|solutionrelative:ordermicroservice.infrastructure\\services\\customerserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.applicationcore\\contracts\\repository\\icustomerrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:ordermicroservice.applicationcore\\contracts\\repository\\icustomerrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.applicationcore\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:ordermicroservice.applicationcore\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.applicationcore\\models\\request\\user_addressrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:ordermicroservice.applicationcore\\models\\request\\user_addressrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.applicationcore\\entities\\user_address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:ordermicroservice.applicationcore\\entities\\user_address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{841BA0C4-1906-44B8-A316-E1F30DEE1D90}|OrderMicroservice.Infrastructure\\OrderMicroservice.Infrastructure.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.infrastructure\\data\\ordermicrodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{841BA0C4-1906-44B8-A316-E1F30DEE1D90}|OrderMicroservice.Infrastructure\\OrderMicroservice.Infrastructure.csproj|solutionrelative:ordermicroservice.infrastructure\\data\\ordermicrodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.applicationcore\\models\\response\\user_addressresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:ordermicroservice.applicationcore\\models\\response\\user_addressresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.applicationcore\\models\\response\\customerresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:ordermicroservice.applicationcore\\models\\response\\customerresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.applicationcore\\models\\request\\addressrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:ordermicroservice.applicationcore\\models\\request\\addressrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.applicationcore\\models\\response\\addressresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:ordermicroservice.applicationcore\\models\\response\\addressresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9017F9-F3CC-412E-9789-2BD687B2FB81}|OrderMicroservice.API\\OrderMicroservice.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.api\\helper\\mapper\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9017F9-F3CC-412E-9789-2BD687B2FB81}|OrderMicroservice.API\\OrderMicroservice.API.csproj|solutionrelative:ordermicroservice.api\\helper\\mapper\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9017F9-F3CC-412E-9789-2BD687B2FB81}|OrderMicroservice.API\\OrderMicroservice.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9017F9-F3CC-412E-9789-2BD687B2FB81}|OrderMicroservice.API\\OrderMicroservice.API.csproj|solutionrelative:ordermicroservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,132 +110,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IPaymentServiceAsync.cs",
-              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Contracts\\Services\\IPaymentServiceAsync.cs",
-              "RelativeDocumentMoniker": "OrderMicroservice.ApplicationCore\\Contracts\\Services\\IPaymentServiceAsync.cs",
-              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Contracts\\Services\\IPaymentServiceAsync.cs",
-              "RelativeToolTip": "OrderMicroservice.ApplicationCore\\Contracts\\Services\\IPaymentServiceAsync.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABxAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ShoppingCartRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Models\\Request\\ShoppingCartRequestModel.cs",
+              "RelativeDocumentMoniker": "OrderMicroservice.ApplicationCore\\Models\\Request\\ShoppingCartRequestModel.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Models\\Request\\ShoppingCartRequestModel.cs",
+              "RelativeToolTip": "OrderMicroservice.ApplicationCore\\Models\\Request\\ShoppingCartRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T06:52:43.517Z",
+              "WhenOpened": "2024-11-08T10:12:44.339Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Payment_TypeRequestModel.cs",
-              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Models\\Request\\Payment_TypeRequestModel.cs",
-              "RelativeDocumentMoniker": "OrderMicroservice.ApplicationCore\\Models\\Request\\Payment_TypeRequestModel.cs",
-              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Models\\Request\\Payment_TypeRequestModel.cs",
-              "RelativeToolTip": "OrderMicroservice.ApplicationCore\\Models\\Request\\Payment_TypeRequestModel.cs",
+              "DocumentIndex": 2,
+              "Title": "Shopping_Cart_ItemResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Models\\Response\\Shopping_Cart_ItemResponseModel.cs",
+              "RelativeDocumentMoniker": "OrderMicroservice.ApplicationCore\\Models\\Response\\Shopping_Cart_ItemResponseModel.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Models\\Response\\Shopping_Cart_ItemResponseModel.cs",
+              "RelativeToolTip": "OrderMicroservice.ApplicationCore\\Models\\Response\\Shopping_Cart_ItemResponseModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T06:52:24.385Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PaymentMethodRepositoryAsync.cs",
-              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.Infrastructure\\Repository\\PaymentMethodRepositoryAsync.cs",
-              "RelativeDocumentMoniker": "OrderMicroservice.Infrastructure\\Repository\\PaymentMethodRepositoryAsync.cs",
-              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.Infrastructure\\Repository\\PaymentMethodRepositoryAsync.cs",
-              "RelativeToolTip": "OrderMicroservice.Infrastructure\\Repository\\PaymentMethodRepositoryAsync.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T06:40:59.246Z",
+              "WhenOpened": "2024-11-08T10:12:32.209Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PaymentServiceAsync.cs",
-              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.Infrastructure\\Services\\PaymentServiceAsync.cs",
-              "RelativeDocumentMoniker": "OrderMicroservice.Infrastructure\\Services\\PaymentServiceAsync.cs",
-              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.Infrastructure\\Services\\PaymentServiceAsync.cs",
-              "RelativeToolTip": "OrderMicroservice.Infrastructure\\Services\\PaymentServiceAsync.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T06:39:49.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PaymentController.cs",
-              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.API\\Controllers\\PaymentController.cs",
-              "RelativeDocumentMoniker": "OrderMicroservice.API\\Controllers\\PaymentController.cs",
-              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.API\\Controllers\\PaymentController.cs",
-              "RelativeToolTip": "OrderMicroservice.API\\Controllers\\PaymentController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAwB8AAACQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T06:45:12.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ShoppingCartController.cs",
-              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.API\\Controllers\\ShoppingCartController.cs",
-              "RelativeDocumentMoniker": "OrderMicroservice.API\\Controllers\\ShoppingCartController.cs",
-              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.API\\Controllers\\ShoppingCartController.cs",
-              "RelativeToolTip": "OrderMicroservice.API\\Controllers\\ShoppingCartController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T06:45:16.012Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IPayment_TypeRepositoryAsync.cs",
-              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Contracts\\Repository\\IPayment_TypeRepositoryAsync.cs",
-              "RelativeDocumentMoniker": "OrderMicroservice.ApplicationCore\\Contracts\\Repository\\IPayment_TypeRepositoryAsync.cs",
-              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Contracts\\Repository\\IPayment_TypeRepositoryAsync.cs",
-              "RelativeToolTip": "OrderMicroservice.ApplicationCore\\Contracts\\Repository\\IPayment_TypeRepositoryAsync.cs",
+              "Title": "ShoppingCartResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Models\\Response\\ShoppingCartResponseModel.cs",
+              "RelativeDocumentMoniker": "OrderMicroservice.ApplicationCore\\Models\\Response\\ShoppingCartResponseModel.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Models\\Response\\ShoppingCartResponseModel.cs",
+              "RelativeToolTip": "OrderMicroservice.ApplicationCore\\Models\\Response\\ShoppingCartResponseModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T06:41:22.272Z",
+              "WhenOpened": "2024-11-08T10:12:26.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentMethodResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Models\\Response\\PaymentMethodResponseModel.cs",
+              "RelativeDocumentMoniker": "OrderMicroservice.ApplicationCore\\Models\\Response\\PaymentMethodResponseModel.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Models\\Response\\PaymentMethodResponseModel.cs",
+              "RelativeToolTip": "OrderMicroservice.ApplicationCore\\Models\\Response\\PaymentMethodResponseModel.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:10:17.173Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.API\\Program.cs",
-              "RelativeDocumentMoniker": "OrderMicroservice.API\\Program.cs",
-              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.API\\Program.cs",
-              "RelativeToolTip": "OrderMicroservice.API\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAkwDIAAAAAAAAAAAAAAA==",
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Entities\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "OrderMicroservice.ApplicationCore\\Entities\\PaymentMethod.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Entities\\PaymentMethod.cs",
+              "RelativeToolTip": "OrderMicroservice.ApplicationCore\\Entities\\PaymentMethod.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T16:36:08.326Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ShoppingCartItemController.cs",
-              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.API\\Controllers\\ShoppingCartItemController.cs",
-              "RelativeDocumentMoniker": "OrderMicroservice.API\\Controllers\\ShoppingCartItemController.cs",
-              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.API\\Controllers\\ShoppingCartItemController.cs",
-              "RelativeToolTip": "OrderMicroservice.API\\Controllers\\ShoppingCartItemController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T06:45:19.983Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IPaymentMethodRepositoryAsync.cs",
-              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Contracts\\Repository\\IPaymentMethodRepositoryAsync.cs",
-              "RelativeDocumentMoniker": "OrderMicroservice.ApplicationCore\\Contracts\\Repository\\IPaymentMethodRepositoryAsync.cs",
-              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Contracts\\Repository\\IPaymentMethodRepositoryAsync.cs",
-              "RelativeToolTip": "OrderMicroservice.ApplicationCore\\Contracts\\Repository\\IPaymentMethodRepositoryAsync.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T06:41:06.839Z",
+              "WhenOpened": "2024-11-08T10:09:38.184Z",
               "EditorCaption": ""
             },
             {
@@ -234,72 +181,85 @@
               "RelativeDocumentMoniker": "OrderMicroservice.API\\Controllers\\OrderController.cs",
               "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.API\\Controllers\\OrderController.cs",
               "RelativeToolTip": "OrderMicroservice.API\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCgAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T06:45:04.145Z",
+              "WhenOpened": "2024-11-08T09:53:31.326Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.API\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "OrderMicroservice.API\\Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.API\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "OrderMicroservice.API\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "OrderRepositoryAsync.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.Infrastructure\\Repository\\OrderRepositoryAsync.cs",
+              "RelativeDocumentMoniker": "OrderMicroservice.Infrastructure\\Repository\\OrderRepositoryAsync.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.Infrastructure\\Repository\\OrderRepositoryAsync.cs",
+              "RelativeToolTip": "OrderMicroservice.Infrastructure\\Repository\\OrderRepositoryAsync.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB4AAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T06:45:05.946Z",
+              "WhenOpened": "2024-11-08T09:50:49.226Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "ShoppingCartServiceAsync.cs",
-              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.Infrastructure\\Services\\ShoppingCartServiceAsync.cs",
-              "RelativeDocumentMoniker": "OrderMicroservice.Infrastructure\\Services\\ShoppingCartServiceAsync.cs",
-              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.Infrastructure\\Services\\ShoppingCartServiceAsync.cs",
-              "RelativeToolTip": "OrderMicroservice.Infrastructure\\Services\\ShoppingCartServiceAsync.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Title": "IOrderServiceAsync.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Contracts\\Services\\IOrderServiceAsync.cs",
+              "RelativeDocumentMoniker": "OrderMicroservice.ApplicationCore\\Contracts\\Services\\IOrderServiceAsync.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Contracts\\Services\\IOrderServiceAsync.cs",
+              "RelativeToolTip": "OrderMicroservice.ApplicationCore\\Contracts\\Services\\IOrderServiceAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T06:42:54.288Z",
+              "WhenOpened": "2024-11-08T09:49:48.275Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "OrderMicroDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.Infrastructure\\Data\\OrderMicroDbContext.cs",
-              "RelativeDocumentMoniker": "OrderMicroservice.Infrastructure\\Data\\OrderMicroDbContext.cs",
-              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.Infrastructure\\Data\\OrderMicroDbContext.cs",
-              "RelativeToolTip": "OrderMicroservice.Infrastructure\\Data\\OrderMicroDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T06:18:51.026Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 5,
               "Title": "OrderServiceAsync.cs",
               "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.Infrastructure\\Services\\OrderServiceAsync.cs",
               "RelativeDocumentMoniker": "OrderMicroservice.Infrastructure\\Services\\OrderServiceAsync.cs",
               "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.Infrastructure\\Services\\OrderServiceAsync.cs",
               "RelativeToolTip": "OrderMicroservice.Infrastructure\\Services\\OrderServiceAsync.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T06:15:40.619Z",
+              "WhenOpened": "2024-11-08T09:48:48.795Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 10,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "OrderMicroservice.ApplicationCore\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Entities\\Order.cs",
+              "RelativeToolTip": "OrderMicroservice.ApplicationCore\\Entities\\Order.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:41:38.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerRepositoryAsync.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.Infrastructure\\Repository\\CustomerRepositoryAsync.cs",
+              "RelativeDocumentMoniker": "OrderMicroservice.Infrastructure\\Repository\\CustomerRepositoryAsync.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.Infrastructure\\Repository\\CustomerRepositoryAsync.cs",
+              "RelativeToolTip": "OrderMicroservice.Infrastructure\\Repository\\CustomerRepositoryAsync.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:28:07.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "CustomerServiceAsync.cs",
               "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.Infrastructure\\Services\\CustomerServiceAsync.cs",
               "RelativeDocumentMoniker": "OrderMicroservice.Infrastructure\\Services\\CustomerServiceAsync.cs",
               "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.Infrastructure\\Services\\CustomerServiceAsync.cs",
               "RelativeToolTip": "OrderMicroservice.Infrastructure\\Services\\CustomerServiceAsync.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABYAAABxAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T06:11:57.911Z",
               "EditorCaption": ""
@@ -307,53 +267,144 @@
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Shopping_Cart_ItemServiceAsync.cs",
-              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.Infrastructure\\Services\\Shopping_Cart_ItemServiceAsync.cs",
-              "RelativeDocumentMoniker": "OrderMicroservice.Infrastructure\\Services\\Shopping_Cart_ItemServiceAsync.cs",
-              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.Infrastructure\\Services\\Shopping_Cart_ItemServiceAsync.cs",
-              "RelativeToolTip": "OrderMicroservice.Infrastructure\\Services\\Shopping_Cart_ItemServiceAsync.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T06:41:54.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
               "Title": "ICustomerServiceAsync.cs",
               "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Contracts\\Services\\ICustomerServiceAsync.cs",
               "RelativeDocumentMoniker": "OrderMicroservice.ApplicationCore\\Contracts\\Services\\ICustomerServiceAsync.cs",
               "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Contracts\\Services\\ICustomerServiceAsync.cs",
               "RelativeToolTip": "OrderMicroservice.ApplicationCore\\Contracts\\Services\\ICustomerServiceAsync.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T06:19:45.772Z",
+              "WhenOpened": "2024-11-08T09:03:56.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICustomerRepositoryAsync.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Contracts\\Repository\\ICustomerRepositoryAsync.cs",
+              "RelativeDocumentMoniker": "OrderMicroservice.ApplicationCore\\Contracts\\Repository\\ICustomerRepositoryAsync.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Contracts\\Repository\\ICustomerRepositoryAsync.cs",
+              "RelativeToolTip": "OrderMicroservice.ApplicationCore\\Contracts\\Repository\\ICustomerRepositoryAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:03:46.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Entities\\Address.cs",
+              "RelativeDocumentMoniker": "OrderMicroservice.ApplicationCore\\Entities\\Address.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Entities\\Address.cs",
+              "RelativeToolTip": "OrderMicroservice.ApplicationCore\\Entities\\Address.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:18:22.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User_AddressRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Models\\Request\\User_AddressRequestModel.cs",
+              "RelativeDocumentMoniker": "OrderMicroservice.ApplicationCore\\Models\\Request\\User_AddressRequestModel.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Models\\Request\\User_AddressRequestModel.cs",
+              "RelativeToolTip": "OrderMicroservice.ApplicationCore\\Models\\Request\\User_AddressRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:23:59.976Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "IOrderServiceAsync.cs",
-              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Contracts\\Services\\IOrderServiceAsync.cs",
-              "RelativeDocumentMoniker": "OrderMicroservice.ApplicationCore\\Contracts\\Services\\IOrderServiceAsync.cs",
-              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Contracts\\Services\\IOrderServiceAsync.cs",
-              "RelativeToolTip": "OrderMicroservice.ApplicationCore\\Contracts\\Services\\IOrderServiceAsync.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Title": "User_Address.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Entities\\User_Address.cs",
+              "RelativeDocumentMoniker": "OrderMicroservice.ApplicationCore\\Entities\\User_Address.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Entities\\User_Address.cs",
+              "RelativeToolTip": "OrderMicroservice.ApplicationCore\\Entities\\User_Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T06:23:33.035Z",
+              "WhenOpened": "2024-11-08T08:25:31.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderMicroDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.Infrastructure\\Data\\OrderMicroDbContext.cs",
+              "RelativeDocumentMoniker": "OrderMicroservice.Infrastructure\\Data\\OrderMicroDbContext.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.Infrastructure\\Data\\OrderMicroDbContext.cs",
+              "RelativeToolTip": "OrderMicroservice.Infrastructure\\Data\\OrderMicroDbContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:24:19.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddressResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Models\\Response\\AddressResponseModel.cs",
+              "RelativeDocumentMoniker": "OrderMicroservice.ApplicationCore\\Models\\Response\\AddressResponseModel.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Models\\Response\\AddressResponseModel.cs",
+              "RelativeToolTip": "OrderMicroservice.ApplicationCore\\Models\\Response\\AddressResponseModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:19:11.836Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "User_AddressResponseModel.cs",
-              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Models\\Response\\User_AddressResponseModel.cs",
-              "RelativeDocumentMoniker": "OrderMicroservice.ApplicationCore\\Models\\Response\\User_AddressResponseModel.cs",
-              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Models\\Response\\User_AddressResponseModel.cs",
-              "RelativeToolTip": "OrderMicroservice.ApplicationCore\\Models\\Response\\User_AddressResponseModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Title": "AddressRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Models\\Request\\AddressRequestModel.cs",
+              "RelativeDocumentMoniker": "OrderMicroservice.ApplicationCore\\Models\\Request\\AddressRequestModel.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Models\\Request\\AddressRequestModel.cs",
+              "RelativeToolTip": "OrderMicroservice.ApplicationCore\\Models\\Request\\AddressRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBQAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T06:13:37.863Z",
+              "WhenOpened": "2024-11-08T08:19:05.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomerResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Models\\Response\\CustomerResponseModel.cs",
+              "RelativeDocumentMoniker": "OrderMicroservice.ApplicationCore\\Models\\Response\\CustomerResponseModel.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Models\\Response\\CustomerResponseModel.cs",
+              "RelativeToolTip": "OrderMicroservice.ApplicationCore\\Models\\Response\\CustomerResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:46:51.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationMapper.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.API\\Helper\\Mapper\\ApplicationMapper.cs",
+              "RelativeDocumentMoniker": "OrderMicroservice.API\\Helper\\Mapper\\ApplicationMapper.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.API\\Helper\\Mapper\\ApplicationMapper.cs",
+              "RelativeToolTip": "OrderMicroservice.API\\Helper\\Mapper\\ApplicationMapper.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwCMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:16:30.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.API\\Program.cs",
+              "RelativeDocumentMoniker": "OrderMicroservice.API\\Program.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.API\\Program.cs",
+              "RelativeToolTip": "OrderMicroservice.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:13:58.985Z",
               "EditorCaption": ""
             }
           ]

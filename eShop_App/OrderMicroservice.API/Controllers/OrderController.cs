@@ -38,7 +38,7 @@ namespace OrderMicroservice.API.Controllers
         [HttpGet]
         public async Task<IActionResult> CheckOrderStatus(int id)
         {
-            return Ok(await orderServiceAsync.CheckOrderHistory(id));
+            return Ok(await orderServiceAsync.CheckOrderStatus(id));
         }
         //CancelOrder
         [HttpPut]

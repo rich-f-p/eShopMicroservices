@@ -12,7 +12,7 @@ namespace OrderMicroservice.ApplicationCore.Models.Request
     {
         public int Id { get; set; }
         public int Payment_Type_Id { get; set; }
-        [Column(TypeName ="varchar(60)")]
+        [Column(TypeName = "varchar(60)")]
         public string Provider { get; set; }
         [Column(TypeName = "varchar(17)")]
         public string AccountNumber { get; set; }
@@ -21,7 +21,7 @@ namespace OrderMicroservice.ApplicationCore.Models.Request
         public bool IsDefault { get; set; }
         public int CustomerId { get; set; }
         //will this need customerId???
-        public Customer? Customer { get; set; }
-        public Payment_Type? Payment_Type { get; set; }
+        //public Customer? Customer { get; set; }
+        //public Payment_Type? Payment_Type { get; set; }
     }
 }

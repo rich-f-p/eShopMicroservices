@@ -11,7 +11,7 @@ namespace OrderMicroservice.ApplicationCore.Contracts.Services
     public interface IPaymentServiceAsync
     {
         Task<PaymentMethodResponseModel> GetPaymentMethodByCustomerId(int id);
-        Task<int> SavePaymentMethod(Payment_TypeRequestModel paymentType, PaymentMethodRequestModel paymentMethod);
+        Task<int> SavePaymentMethod(PaymentMethodRequestModel paymentMethod);
         Task<int> DeletePaymentMethod(int id);
         Task<int> UpdatePaymentMethod(PaymentMethodRequestModel paymentMethod,int id);
     }

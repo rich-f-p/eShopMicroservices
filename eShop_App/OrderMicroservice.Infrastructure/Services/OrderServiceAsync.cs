@@ -35,9 +35,9 @@ namespace OrderMicroservice.Infrastructure.Services
             return mapper.Map<IEnumerable<OrderResponseModel>>( await orderRepo.CheckOrderHistory(customerId));
         }
 
-        public async Task<OrderResponseModel> CheckOrderStatus(int id)
+        public async Task<string> CheckOrderStatus(int id)
         {
-            return mapper.Map<OrderResponseModel>( await orderRepo.CheckOrderStatus(id));
+            return await orderRepo.CheckOrderStatus(id);
         }
 
         public async Task<IEnumerable<OrderResponseModel>> GetAllOrders()
@@ -47,11 +47,13 @@ namespace OrderMicroservice.Infrastructure.Services
 
         public async Task<int> OrderCompleted(int id)
         {
+
             return await orderRepo.OrderCompleted(id);
         }
 
         public async Task<int> SaveOrder(OrderRequestModel order)
         {
+            order.Order_Status = "Order_Recieved_Inprogress";
             return await orderRepo.InsertAsync(mapper.Map<Order>(order));
         }
 

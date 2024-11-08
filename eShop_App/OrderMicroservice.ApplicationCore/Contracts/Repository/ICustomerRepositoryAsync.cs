@@ -9,6 +9,6 @@ namespace OrderMicroservice.ApplicationCore.Contracts.Repository
 {
     public interface ICustomerRepositoryAsync :IRepositoryAsync<Customer>
     {
-        Task<Customer> GetCustomerAddressByUserIdAsync(int id);
+        Task<List<Address>> GetCustomerAddressByUserIdAsync(int id);
     }
 }

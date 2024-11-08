@@ -7,7 +7,7 @@ using OrderMicroservice.Infrastructure.Services;
 
 namespace OrderMicroservice.API.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/[controller]/[action]")]
     [ApiController]
     public class PaymentController : ControllerBase
     {
@@ -27,9 +27,9 @@ namespace OrderMicroservice.API.Controllers
         }
         //SavePayment
         [HttpPost]
-        public async Task<IActionResult> SavePayment(Payment_TypeRequestModel paymentType)
+        public async Task<IActionResult> SavePayment(PaymentMethodRequestModel paymentMethod)
         {
-            return Ok(await paymentServiceAsync.SavePaymentMethod(paymentType,mapper.Map<PaymentMethodRequestModel>( paymentType.PaymentMethod)));
+            return Ok(await paymentServiceAsync.SavePaymentMethod(paymentMethod));
         }
         //DeletePayment
         [HttpDelete]

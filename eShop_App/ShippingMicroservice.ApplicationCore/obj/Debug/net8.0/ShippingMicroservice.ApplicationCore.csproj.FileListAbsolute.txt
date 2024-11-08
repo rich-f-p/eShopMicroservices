@@ -9,3 +9,15 @@ C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ShippingMicroservice.Application
 C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ShippingMicroservice.ApplicationCore\obj\Debug\net8.0\refint\ShippingMicroservice.ApplicationCore.dll
 C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ShippingMicroservice.ApplicationCore\obj\Debug\net8.0\ShippingMicroservice.ApplicationCore.pdb
 C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ShippingMicroservice.ApplicationCore\obj\Debug\net8.0\ref\ShippingMicroservice.ApplicationCore.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ShippingMicroservice.ApplicationCore\bin\Debug\net8.0\ShippingMicroservice.ApplicationCore.deps.json
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ShippingMicroservice.ApplicationCore\bin\Debug\net8.0\ShippingMicroservice.ApplicationCore.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ShippingMicroservice.ApplicationCore\bin\Debug\net8.0\ShippingMicroservice.ApplicationCore.pdb
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ShippingMicroservice.ApplicationCore\obj\Debug\net8.0\ShippingMicroservice.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ShippingMicroservice.ApplicationCore\obj\Debug\net8.0\ShippingMicroservice.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ShippingMicroservice.ApplicationCore\obj\Debug\net8.0\ShippingMicroservice.ApplicationCore.AssemblyInfo.cs
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ShippingMicroservice.ApplicationCore\obj\Debug\net8.0\ShippingMicroservice.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ShippingMicroservice.ApplicationCore\obj\Debug\net8.0\ShippingMicroservice.ApplicationCore.sourcelink.json
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ShippingMicroservice.ApplicationCore\obj\Debug\net8.0\ShippingMicroservice.ApplicationCore.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ShippingMicroservice.ApplicationCore\obj\Debug\net8.0\refint\ShippingMicroservice.ApplicationCore.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ShippingMicroservice.ApplicationCore\obj\Debug\net8.0\ShippingMicroservice.ApplicationCore.pdb
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ShippingMicroservice.ApplicationCore\obj\Debug\net8.0\ref\ShippingMicroservice.ApplicationCore.dll

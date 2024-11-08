@@ -35,10 +35,8 @@ namespace OrderMicroservice.Infrastructure.Services
             return mapper.Map<PaymentMethodResponseModel>(await paymentMethodRepo.GetPaymentMethodByCustomerIdAsync(id));
         }
 
-        public async Task<int> SavePaymentMethod(Payment_TypeRequestModel paymentType, PaymentMethodRequestModel paymentMethod)
+        public async Task<int> SavePaymentMethod(PaymentMethodRequestModel paymentMethod)
         {
-            var typeId = await paymentTypeRepo.InsertAsync(mapper.Map<Payment_Type>(paymentType));
-            paymentMethod.Payment_Type_Id = typeId;
             return await paymentMethodRepo.InsertAsync(mapper.Map<PaymentMethod>(paymentMethod));
         }
 

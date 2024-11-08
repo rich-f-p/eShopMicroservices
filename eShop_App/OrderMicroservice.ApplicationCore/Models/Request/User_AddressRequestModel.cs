@@ -16,7 +16,7 @@ namespace OrderMicroservice.ApplicationCore.Models.Request
         public int Address_Id { get; set; }
         public bool IsDefaultAddress { get; set; }
 
-        public Customer? Customer { get; set; }
+        public Customer Customer { get; set; }
         public Address Address { get; set; }
 
     }

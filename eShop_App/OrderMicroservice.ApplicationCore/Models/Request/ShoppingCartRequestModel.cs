@@ -14,8 +14,6 @@ namespace OrderMicroservice.ApplicationCore.Models.Request
         public int CustomerId { get; set; }
         [Column(TypeName = "varchar(100)")]
         public string CustomerName { get; set; }
-        //shppingcart can have multiple items
-        public ICollection<Shopping_Cart_Item>? Items { get; set; }
 
     }
 }

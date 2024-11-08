@@ -21,7 +21,6 @@ namespace OrderMicroservice.ApplicationCore.Models.Response
         public bool IsDefault { get; set; }
         public int CustomerId { get; set; }
         //will this need customerId???
-        public Customer? Customer { get; set; }
         public Payment_Type? Payment_Type { get; set; }
     }
 }

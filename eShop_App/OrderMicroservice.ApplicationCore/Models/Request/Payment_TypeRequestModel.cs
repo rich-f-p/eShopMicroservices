@@ -10,10 +10,8 @@ namespace OrderMicroservice.ApplicationCore.Models.Request
 {
     public class Payment_TypeRequestModel
     {
-        public int Id { get; set; }
+        //public int Id { get; set; }
         [Column(TypeName ="varchar(100)")]
         public string Name { get; set; }
-        //type can have multiple methods?
-        public ICollection<PaymentMethod>? PaymentMethod { get; set; }
     }
 }

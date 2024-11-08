@@ -13,7 +13,7 @@ namespace OrderMicroservice.ApplicationCore.Contracts.Services
         Task<IEnumerable<OrderResponseModel>> GetAllOrders();
         Task<int> SaveOrder(OrderRequestModel order);
         Task<IEnumerable<OrderResponseModel>> CheckOrderHistory(int customerId);
-        Task<OrderResponseModel> CheckOrderStatus(int id);
+        Task<string> CheckOrderStatus(int id);
         Task<int> CancelOrder(int id);
         Task<int> OrderCompleted(int id);
         Task<int> UpdateOrder(OrderRequestModel order,int id);

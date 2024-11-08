@@ -6,7 +6,7 @@ using OrderMicroservice.Infrastructure.Services;
 
 namespace OrderMicroservice.API.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/[controller]/[action]")]
     [ApiController]
     public class ShoppingCartController : ControllerBase
     {

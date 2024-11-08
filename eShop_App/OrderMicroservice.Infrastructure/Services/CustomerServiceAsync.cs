@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Microsoft.Identity.Client;
 using OrderMicroservice.ApplicationCore.Contracts.Repository;
 using OrderMicroservice.ApplicationCore.Contracts.Services;
 using OrderMicroservice.ApplicationCore.Entities;
@@ -27,14 +28,17 @@ namespace OrderMicroservice.Infrastructure.Services
             this.addressRepo = addressRepo;
             this.userAddressRepo = userAddressRepo;
         }
-        public async Task<CustomerResponseModel> GetCustomerAddressByUserId(int id)
-        {
-            return mapper.Map<CustomerResponseModel>(await customerRepo.GetCustomerAddressByUserIdAsync(id));
+        public async Task<List<AddressResponseModel>> GetCustomerAddressByUserId(int id)
+        { 
+            return mapper.Map<List<AddressResponseModel>>( await customerRepo.GetCustomerAddressByUserIdAsync(id));
         }
 
         public async Task<int> SaveCustomerAddress(AddressRequestModel address, int customerId)
         {
-            var addressId = await addressRepo.InsertAsync(mapper.Map<Address>(address));
+            Console.WriteLine(address.Street2);
+            var test = mapper.Map<Address>(address);
+            
+            var addressId = await addressRepo.InsertAsync(test);
             var model = new User_AddressRequestModel
             {
                 Customer_Id = customerId,

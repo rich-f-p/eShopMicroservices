@@ -12,29 +12,28 @@ namespace OrderMicroservice.API.Helper.Mapper
             CreateMap<Order,OrderResponseModel>().ReverseMap();
             CreateMap<Order, OrderRequestModel>().ReverseMap();
 
-            //CreateMap<Order, OrderResponseModel>();
-            //CreateMap<Address, OrderResponseModel>();
+            CreateMap<Address, AddressResponseModel>().ReverseMap();
+            CreateMap<Address, AddressRequestModel>().ReverseMap();
 
-            //CreateMap<Order, OrderResponseModel>();
-            //CreateMap<Address, OrderResponseModel>();
+            CreateMap<Order_Details, Order_DetailsResponseModel>().ReverseMap();
+            CreateMap<Order_Details, Order_DetailsRequestModel>().ReverseMap();
 
-            //CreateMap<Order, OrderResponseModel>();
-            //CreateMap<Address, OrderResponseModel>();
+            CreateMap<Payment_Type,Payment_TypeResponseModel>().ReverseMap();
+            CreateMap<Payment_Type,Payment_TypeRequestModel>().ReverseMap();
 
-            //CreateMap<Order, OrderResponseModel>();
-            //CreateMap<Address, OrderResponseModel>();
+            CreateMap<PaymentMethod,PaymentMethodResponseModel>().ReverseMap();
+            CreateMap<PaymentMethod,PaymentMethodRequestModel>().ReverseMap();
 
-            //CreateMap<Order, OrderResponseModel>();
-            //CreateMap<Address, OrderResponseModel>();
+            CreateMap<Shopping_Cart_Item, Shopping_Cart_ItemResponseModel>().ReverseMap();
+            CreateMap<Shopping_Cart_Item, Shopping_Cart_ItemRequestModel>().ReverseMap();
 
-            //CreateMap<Order, OrderResponseModel>();
-            //CreateMap<Address, OrderResponseModel>();
+            CreateMap<ShoppingCart, ShoppingCartResponseModel>().ReverseMap();
+            CreateMap<ShoppingCart, ShoppingCartRequestModel>().ReverseMap();
 
-            //CreateMap<Order, OrderResponseModel>();
-            //CreateMap<Address, OrderResponseModel>();
+            CreateMap<User_Address, User_AddressResponseModel>().ReverseMap();
+            CreateMap<User_Address, User_AddressRequestModel>().ReverseMap();
 
-            //CreateMap<Order, OrderResponseModel>();
-            //CreateMap<Address, OrderResponseModel>();
+            CreateMap<Customer, CustomerResponseModel>().ReverseMap();
 
 
         }

@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using OrderMicroservice.ApplicationCore.Contracts.Repository;
 using OrderMicroservice.ApplicationCore.Entities;
+using OrderMicroservice.ApplicationCore.Models.Response;
 using OrderMicroservice.Infrastructure.Data;
 using System;
 using System.Collections.Generic;
@@ -19,12 +20,15 @@ namespace OrderMicroservice.Infrastructure.Repository
             this.context = context;
         }
 
-        public async Task<Customer> GetCustomerAddressByUserIdAsync(int id)
+        public async Task<List<Address>> GetCustomerAddressByUserIdAsync(int id)
         {
-            return await context.Customers
-                .Include(u => u.User_Address)
-                .ThenInclude(a => a.Address)
-                .FirstOrDefaultAsync(c => c.UserId == id);
+            var result = from c in context.Customers
+                         join u in context.User_Addresses on c.Id equals u.Customer_Id
+                         join a in context.Addresses on u.Address_Id equals a.Id
+                         where c.UserId ==id
+                         select a;
+            return await result.ToListAsync();
+                
         }
     }
 }

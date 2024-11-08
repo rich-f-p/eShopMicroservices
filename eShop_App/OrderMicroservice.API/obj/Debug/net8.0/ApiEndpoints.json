@@ -149,8 +149,24 @@
   },
   {
     "ContainingType": "OrderMicroservice.API.Controllers.PaymentController",
+    "Method": "DeletePayment",
+    "RelativePath": "api/Payment/DeletePayment",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OrderMicroservice.API.Controllers.PaymentController",
     "Method": "GetPaymentByCustomerId",
-    "RelativePath": "api/Payment",
+    "RelativePath": "api/Payment/GetPaymentByCustomerId",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -166,14 +182,14 @@
   {
     "ContainingType": "OrderMicroservice.API.Controllers.PaymentController",
     "Method": "SavePayment",
-    "RelativePath": "api/Payment",
+    "RelativePath": "api/Payment/SavePayment",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "paymentType",
-        "Type": "OrderMicroservice.ApplicationCore.Models.Request.Payment_TypeRequestModel",
+        "Name": "paymentMethod",
+        "Type": "OrderMicroservice.ApplicationCore.Models.Request.PaymentMethodRequestModel",
         "IsRequired": true
       }
     ],
@@ -181,24 +197,8 @@
   },
   {
     "ContainingType": "OrderMicroservice.API.Controllers.PaymentController",
-    "Method": "DeletePayment",
-    "RelativePath": "api/Payment",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "OrderMicroservice.API.Controllers.PaymentController",
     "Method": "UpdatePayment",
-    "RelativePath": "api/Payment",
+    "RelativePath": "api/Payment/UpdatePayment",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -218,8 +218,24 @@
   },
   {
     "ContainingType": "OrderMicroservice.API.Controllers.ShoppingCartController",
+    "Method": "DeleteShoppingCart",
+    "RelativePath": "api/ShoppingCart/DeleteShoppingCart",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OrderMicroservice.API.Controllers.ShoppingCartController",
     "Method": "GetShoppingCartByCustomerId",
-    "RelativePath": "api/ShoppingCart",
+    "RelativePath": "api/ShoppingCart/GetShoppingCartByCustomerId",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -235,7 +251,7 @@
   {
     "ContainingType": "OrderMicroservice.API.Controllers.ShoppingCartController",
     "Method": "SaveShoppingCart",
-    "RelativePath": "api/ShoppingCart",
+    "RelativePath": "api/ShoppingCart/SaveShoppingCart",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -244,22 +260,6 @@
         "Name": "cart",
         "Type": "OrderMicroservice.ApplicationCore.Models.Request.ShoppingCartRequestModel",
         "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "OrderMicroservice.API.Controllers.ShoppingCartController",
-    "Method": "DeleteShoppingCart",
-    "RelativePath": "api/ShoppingCart",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": false
       }
     ],
     "ReturnTypes": []

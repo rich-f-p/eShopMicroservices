@@ -9,3 +9,15 @@ C:\Users\richa\Desktop\SEP Full Stack\eShop_App\PromotionsMicroservice.Applicati
 C:\Users\richa\Desktop\SEP Full Stack\eShop_App\PromotionsMicroservice.ApplicationCore\obj\Debug\net8.0\refint\PromotionsMicroservice.ApplicationCore.dll
 C:\Users\richa\Desktop\SEP Full Stack\eShop_App\PromotionsMicroservice.ApplicationCore\obj\Debug\net8.0\PromotionsMicroservice.ApplicationCore.pdb
 C:\Users\richa\Desktop\SEP Full Stack\eShop_App\PromotionsMicroservice.ApplicationCore\obj\Debug\net8.0\ref\PromotionsMicroservice.ApplicationCore.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMicroservice.ApplicationCore\bin\Debug\net8.0\PromotionsMicroservice.ApplicationCore.deps.json
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMicroservice.ApplicationCore\bin\Debug\net8.0\PromotionsMicroservice.ApplicationCore.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMicroservice.ApplicationCore\bin\Debug\net8.0\PromotionsMicroservice.ApplicationCore.pdb
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMicroservice.ApplicationCore\obj\Debug\net8.0\PromotionsMicroservice.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMicroservice.ApplicationCore\obj\Debug\net8.0\PromotionsMicroservice.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMicroservice.ApplicationCore\obj\Debug\net8.0\PromotionsMicroservice.ApplicationCore.AssemblyInfo.cs
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMicroservice.ApplicationCore\obj\Debug\net8.0\PromotionsMicroservice.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMicroservice.ApplicationCore\obj\Debug\net8.0\PromotionsMicroservice.ApplicationCore.sourcelink.json
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMicroservice.ApplicationCore\obj\Debug\net8.0\PromotionsMicroservice.ApplicationCore.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMicroservice.ApplicationCore\obj\Debug\net8.0\refint\PromotionsMicroservice.ApplicationCore.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMicroservice.ApplicationCore\obj\Debug\net8.0\PromotionsMicroservice.ApplicationCore.pdb
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMicroservice.ApplicationCore\obj\Debug\net8.0\ref\PromotionsMicroservice.ApplicationCore.dll
