@@ -1,0 +1,11 @@
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ReviewsMicroservice.Infrastructure\bin\Debug\net8.0\ReviewsMicroservice.Infrastructure.deps.json
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ReviewsMicroservice.Infrastructure\bin\Debug\net8.0\ReviewsMicroservice.Infrastructure.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ReviewsMicroservice.Infrastructure\bin\Debug\net8.0\ReviewsMicroservice.Infrastructure.pdb
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ReviewsMicroservice.Infrastructure\obj\Debug\net8.0\ReviewsMicroservice.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ReviewsMicroservice.Infrastructure\obj\Debug\net8.0\ReviewsMicroservice.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ReviewsMicroservice.Infrastructure\obj\Debug\net8.0\ReviewsMicroservice.Infrastructure.AssemblyInfo.cs
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ReviewsMicroservice.Infrastructure\obj\Debug\net8.0\ReviewsMicroservice.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ReviewsMicroservice.Infrastructure\obj\Debug\net8.0\ReviewsMicroservice.Infrastructure.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ReviewsMicroservice.Infrastructure\obj\Debug\net8.0\refint\ReviewsMicroservice.Infrastructure.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ReviewsMicroservice.Infrastructure\obj\Debug\net8.0\ReviewsMicroservice.Infrastructure.pdb
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ReviewsMicroservice.Infrastructure\obj\Debug\net8.0\ref\ReviewsMicroservice.Infrastructure.dll

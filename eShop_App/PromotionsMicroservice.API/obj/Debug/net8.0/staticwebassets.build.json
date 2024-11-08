@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "s+6C7qvLM0D+Zas64cOZnDuTlUKXOmLNjDY/8Wj+N4c=",
+  "Source": "PromotionsMicroservice.API",
+  "BasePath": "_content/PromotionsMicroservice.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

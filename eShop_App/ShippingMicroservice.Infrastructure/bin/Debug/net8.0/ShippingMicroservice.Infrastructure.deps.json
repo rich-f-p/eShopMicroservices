@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ShippingMicroservice.Infrastructure/1.0.0": {
+        "dependencies": {
+          "ShippingMicroservice.ApplicationCore": "1.0.0"
+        },
+        "runtime": {
+          "ShippingMicroservice.Infrastructure.dll": {}
+        }
+      },
+      "ShippingMicroservice.ApplicationCore/1.0.0": {
+        "runtime": {
+          "ShippingMicroservice.ApplicationCore.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShippingMicroservice.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShippingMicroservice.ApplicationCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

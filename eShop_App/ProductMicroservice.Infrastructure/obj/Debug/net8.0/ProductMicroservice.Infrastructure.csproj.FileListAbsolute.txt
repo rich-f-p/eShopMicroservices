@@ -1,0 +1,11 @@
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ProductMicroservice.Infrastructure\bin\Debug\net8.0\ProductMicroservice.Infrastructure.deps.json
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ProductMicroservice.Infrastructure\bin\Debug\net8.0\ProductMicroservice.Infrastructure.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ProductMicroservice.Infrastructure\bin\Debug\net8.0\ProductMicroservice.Infrastructure.pdb
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ProductMicroservice.Infrastructure\obj\Debug\net8.0\ProductMicroservice.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ProductMicroservice.Infrastructure\obj\Debug\net8.0\ProductMicroservice.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ProductMicroservice.Infrastructure\obj\Debug\net8.0\ProductMicroservice.Infrastructure.AssemblyInfo.cs
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ProductMicroservice.Infrastructure\obj\Debug\net8.0\ProductMicroservice.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ProductMicroservice.Infrastructure\obj\Debug\net8.0\ProductMicroservice.Infrastructure.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ProductMicroservice.Infrastructure\obj\Debug\net8.0\refint\ProductMicroservice.Infrastructure.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ProductMicroservice.Infrastructure\obj\Debug\net8.0\ProductMicroservice.Infrastructure.pdb
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ProductMicroservice.Infrastructure\obj\Debug\net8.0\ref\ProductMicroservice.Infrastructure.dll

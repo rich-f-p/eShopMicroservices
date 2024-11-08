@@ -1,0 +1,6 @@
+@PromotionsMicroservice.API_HostAddress = http://localhost:5172
+
+GET {{PromotionsMicroservice.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

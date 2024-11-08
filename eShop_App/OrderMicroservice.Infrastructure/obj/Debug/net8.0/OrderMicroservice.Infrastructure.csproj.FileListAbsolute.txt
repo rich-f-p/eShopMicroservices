@@ -1,0 +1,17 @@
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\OrderMicroservice.Infrastructure\bin\Debug\net8.0\OrderMicroservice.Infrastructure.deps.json
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\OrderMicroservice.Infrastructure\bin\Debug\net8.0\OrderMicroservice.Infrastructure.runtimeconfig.json
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\OrderMicroservice.Infrastructure\bin\Debug\net8.0\OrderMicroservice.Infrastructure.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\OrderMicroservice.Infrastructure\bin\Debug\net8.0\OrderMicroservice.Infrastructure.pdb
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\OrderMicroservice.Infrastructure\bin\Debug\net8.0\OrderMicroservice.ApplicationCore.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\OrderMicroservice.Infrastructure\bin\Debug\net8.0\OrderMicroservice.ApplicationCore.pdb
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\OrderMicroservice.Infrastructure\obj\Debug\net8.0\OrderMicroservice.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\OrderMicroservice.Infrastructure\obj\Debug\net8.0\OrderMicroservice.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\OrderMicroservice.Infrastructure\obj\Debug\net8.0\OrderMicroservice.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\OrderMicroservice.Infrastructure\obj\Debug\net8.0\OrderMicroservice.Infrastructure.AssemblyInfo.cs
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\OrderMicroservice.Infrastructure\obj\Debug\net8.0\OrderMicroservice.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\OrderMicroservice.Infrastructure\obj\Debug\net8.0\OrderMic.3F9C627B.Up2Date
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\OrderMicroservice.Infrastructure\obj\Debug\net8.0\OrderMicroservice.Infrastructure.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\OrderMicroservice.Infrastructure\obj\Debug\net8.0\refint\OrderMicroservice.Infrastructure.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\OrderMicroservice.Infrastructure\obj\Debug\net8.0\OrderMicroservice.Infrastructure.pdb
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\OrderMicroservice.Infrastructure\obj\Debug\net8.0\OrderMicroservice.Infrastructure.genruntimeconfig.cache
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\OrderMicroservice.Infrastructure\obj\Debug\net8.0\ref\OrderMicroservice.Infrastructure.dll

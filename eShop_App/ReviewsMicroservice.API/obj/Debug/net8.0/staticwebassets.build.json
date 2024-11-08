@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RTWKOTo0pMZ7j74GsWnjF2RwnLphRHWfIKUsLgfqNzU=",
+  "Source": "ReviewsMicroservice.API",
+  "BasePath": "_content/ReviewsMicroservice.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

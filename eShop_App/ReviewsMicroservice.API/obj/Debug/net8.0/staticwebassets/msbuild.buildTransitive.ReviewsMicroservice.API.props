@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ReviewsMicroservice.API.props" />
+</Project>

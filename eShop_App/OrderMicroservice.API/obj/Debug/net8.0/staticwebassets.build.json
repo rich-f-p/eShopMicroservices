@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0hdvAOlwVpViahTWXTm3QGSRrnk+0NhvVvwFbpqcZJ0=",
+  "Source": "OrderMicroservice.API",
+  "BasePath": "_content/OrderMicroservice.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

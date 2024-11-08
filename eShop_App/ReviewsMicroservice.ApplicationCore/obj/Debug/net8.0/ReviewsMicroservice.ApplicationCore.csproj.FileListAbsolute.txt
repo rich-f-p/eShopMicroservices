@@ -1,0 +1,11 @@
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ReviewsMicroservice.ApplicationCore\bin\Debug\net8.0\ReviewsMicroservice.ApplicationCore.deps.json
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ReviewsMicroservice.ApplicationCore\bin\Debug\net8.0\ReviewsMicroservice.ApplicationCore.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ReviewsMicroservice.ApplicationCore\bin\Debug\net8.0\ReviewsMicroservice.ApplicationCore.pdb
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ReviewsMicroservice.ApplicationCore\obj\Debug\net8.0\ReviewsMicroservice.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ReviewsMicroservice.ApplicationCore\obj\Debug\net8.0\ReviewsMicroservice.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ReviewsMicroservice.ApplicationCore\obj\Debug\net8.0\ReviewsMicroservice.ApplicationCore.AssemblyInfo.cs
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ReviewsMicroservice.ApplicationCore\obj\Debug\net8.0\ReviewsMicroservice.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ReviewsMicroservice.ApplicationCore\obj\Debug\net8.0\ReviewsMicroservice.ApplicationCore.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ReviewsMicroservice.ApplicationCore\obj\Debug\net8.0\refint\ReviewsMicroservice.ApplicationCore.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ReviewsMicroservice.ApplicationCore\obj\Debug\net8.0\ReviewsMicroservice.ApplicationCore.pdb
+C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ReviewsMicroservice.ApplicationCore\obj\Debug\net8.0\ref\ReviewsMicroservice.ApplicationCore.dll
