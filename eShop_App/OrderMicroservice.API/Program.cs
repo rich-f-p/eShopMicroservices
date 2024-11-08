@@ -21,20 +21,21 @@ builder.Services.AddDbContext<OrderMicroDbContext>(option => {
 builder.Services.AddAutoMapper(typeof(Program));
 
 builder.Services.AddScoped<IOrderServiceAsync, OrderServiceAsync>();
-//builder.Services.AddScoped<ICustomerServiceAsync, CustomerServiceAsync>();
-//builder.Services.AddScoped<IPaymentServiceAsync, PaymentServiceAsync>();
-//builder.Services.AddScoped<IShoppingCartServiceAsync, ShoppingCartServiceAsync>();
+builder.Services.AddScoped<ICustomerServiceAsync, CustomerServiceAsync>();
+builder.Services.AddScoped<IPaymentServiceAsync, PaymentServiceAsync>();
+builder.Services.AddScoped<IShoppingCartServiceAsync, ShoppingCartServiceAsync>();
 builder.Services.AddScoped<IShopping_Cart_ItemServiceAsync, Shopping_Cart_ItemServiceAsync>();
 
+
 builder.Services.AddScoped<IOrderRepositoryAsync, OrderRepositoryAsync>();
-builder.Services.AddScoped<IAddressRepositoryAsync,AddressRepositoryAsync>();
-builder.Services.AddScoped<ICustomerRepositoryAsync,CustomerRepositoryAsync>();
+builder.Services.AddScoped<IAddressRepositoryAsync, AddressRepositoryAsync>();
+builder.Services.AddScoped<ICustomerRepositoryAsync, CustomerRepositoryAsync>();
 builder.Services.AddScoped<IOrder_DetailsRepositoryAsync,Order_DetailsRepositoryAsync>();
-builder.Services.AddScoped<IPaymentMethodRepositoryAsync,PaymentMethodRepositoryAsync>();
-builder.Services.AddScoped<IPayment_TypeRepositoryAsync,Payment_TypeRepositoryAsync>();
-builder.Services.AddScoped<IShopping_Cart_ItemRepositoryAsync,Shopping_Cart_ItemRepositoryAsync>();
-builder.Services.AddScoped<IShoppingCartRepositoryAsync,ShoppingCartRepositoryAsync>();
-builder.Services.AddScoped<IUser_AddressRepositoryAsync,User_AddressRepositoryAsync>();
+builder.Services.AddScoped<IPaymentMethodRepositoryAsync, PaymentMethodRepositoryAsync>();
+builder.Services.AddScoped<IPayment_TypeRepositoryAsync, Payment_TypeRepositoryAsync>();
+builder.Services.AddScoped<IShopping_Cart_ItemRepositoryAsync, Shopping_Cart_ItemRepositoryAsync>();
+builder.Services.AddScoped<IShoppingCartRepositoryAsync, ShoppingCartRepositoryAsync>();
+builder.Services.AddScoped<IUser_AddressRepositoryAsync, User_AddressRepositoryAsync>();
 
 var app = builder.Build();
 

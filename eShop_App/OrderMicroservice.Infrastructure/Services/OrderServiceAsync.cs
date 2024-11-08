@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using OrderMicroservice.ApplicationCore.Contracts.Repository;
 using OrderMicroservice.ApplicationCore.Contracts.Services;
 using OrderMicroservice.ApplicationCore.Entities;
 using OrderMicroservice.ApplicationCore.Models.Request;
@@ -14,11 +15,11 @@ namespace OrderMicroservice.Infrastructure.Services
 {
     public class OrderServiceAsync : IOrderServiceAsync
     {
-        private readonly OrderRepositoryAsync orderRepo;
+        private readonly IOrderRepositoryAsync orderRepo;
         private readonly IMapper mapper;
-        private readonly Order_DetailsRepositoryAsync orderDetailsRepo;
+        private readonly IOrder_DetailsRepositoryAsync orderDetailsRepo;
 
-        public OrderServiceAsync(OrderRepositoryAsync orderRepo, IMapper mapper, Order_DetailsRepositoryAsync orderDetailsRepo)
+        public OrderServiceAsync(IOrderRepositoryAsync orderRepo, IOrder_DetailsRepositoryAsync orderDetailsRepo, IMapper mapper)
         {
             this.orderRepo = orderRepo;
             this.mapper = mapper;

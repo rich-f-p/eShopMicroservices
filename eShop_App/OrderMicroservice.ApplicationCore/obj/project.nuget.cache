@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z16rNobhyNo=",
+  "dgSpecHash": "EniTY3FJvzs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShop_App\\OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj",
+  "projectFilePath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\richa\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\richa\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

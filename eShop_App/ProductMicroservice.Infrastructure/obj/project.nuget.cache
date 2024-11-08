@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZnnHQXhH+ME=",
+  "dgSpecHash": "VebGTvl50iU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShop_App\\ProductMicroservice.Infrastructure\\ProductMicroservice.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ProductMicroservice.Infrastructure\\ProductMicroservice.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\richa\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.10\\microsoft.entityframeworkcore.8.0.10.nupkg.sha512",
     "C:\\Users\\richa\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.10\\microsoft.entityframeworkcore.abstractions.8.0.10.nupkg.sha512",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShop_App\\ReviewsMicroservice.ApplicationCore\\ReviewsMicroservice.ApplicationCore.csproj",
+      "projectUniqueName": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.ApplicationCore\\ReviewsMicroservice.ApplicationCore.csproj",
       "projectName": "ReviewsMicroservice.ApplicationCore",
-      "projectPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShop_App\\ReviewsMicroservice.ApplicationCore\\ReviewsMicroservice.ApplicationCore.csproj",
+      "projectPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.ApplicationCore\\ReviewsMicroservice.ApplicationCore.csproj",
       "packagesPath": "C:\\Users\\richa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShop_App\\ReviewsMicroservice.ApplicationCore\\obj\\",
+      "outputPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.ApplicationCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\richa\\AppData\\Roaming\\NuGet\\NuGet.Config",

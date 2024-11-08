@@ -10,9 +10,9 @@ namespace OrderMicroservice.API.Controllers
     [ApiController]
     public class OrderController : ControllerBase
     {
-        private readonly OrderServiceAsync orderServiceAsync;
+        private readonly IOrderServiceAsync orderServiceAsync;
 
-        public OrderController(OrderServiceAsync orderServiceAsync)
+        public OrderController(IOrderServiceAsync orderServiceAsync)
         {
             this.orderServiceAsync = orderServiceAsync;
         }

@@ -9,5 +9,6 @@ namespace OrderMicroservice.ApplicationCore.Contracts.Repository
 {
     public interface IPaymentMethodRepositoryAsync: IRepositoryAsync<PaymentMethod>
     {
+        Task<PaymentMethod> GetPaymentMethodByCustomerIdAsync(int id);
     }
 }

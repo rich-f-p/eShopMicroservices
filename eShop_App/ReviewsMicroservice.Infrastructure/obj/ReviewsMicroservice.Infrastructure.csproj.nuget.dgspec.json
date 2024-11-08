@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShop_App\\ReviewsMicroservice.Infrastructure\\ReviewsMicroservice.Infrastructure.csproj": {}
+    "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.Infrastructure\\ReviewsMicroservice.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShop_App\\ReviewsMicroservice.Infrastructure\\ReviewsMicroservice.Infrastructure.csproj": {
+    "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.Infrastructure\\ReviewsMicroservice.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShop_App\\ReviewsMicroservice.Infrastructure\\ReviewsMicroservice.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.Infrastructure\\ReviewsMicroservice.Infrastructure.csproj",
         "projectName": "ReviewsMicroservice.Infrastructure",
-        "projectPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShop_App\\ReviewsMicroservice.Infrastructure\\ReviewsMicroservice.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.Infrastructure\\ReviewsMicroservice.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\richa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShop_App\\ReviewsMicroservice.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\richa\\AppData\\Roaming\\NuGet\\NuGet.Config",

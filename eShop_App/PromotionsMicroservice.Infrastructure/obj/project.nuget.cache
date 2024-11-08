@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JYZhQhp6dFU=",
+  "dgSpecHash": "2Iczt06KXZo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShop_App\\PromotionsMicroservice.Infrastructure\\PromotionsMicroservice.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.Infrastructure\\PromotionsMicroservice.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

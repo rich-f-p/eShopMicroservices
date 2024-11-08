@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eJvJSXXCrfg=",
+  "dgSpecHash": "X2g7AXbAbRY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShop_App\\ProductMicroservice.API\\ProductMicroservice.API.csproj",
+  "projectFilePath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ProductMicroservice.API\\ProductMicroservice.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\richa\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\richa\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

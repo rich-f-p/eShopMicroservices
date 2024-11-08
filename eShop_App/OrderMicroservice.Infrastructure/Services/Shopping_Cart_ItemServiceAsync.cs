@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using OrderMicroservice.ApplicationCore.Contracts.Repository;
 using OrderMicroservice.ApplicationCore.Contracts.Services;
 using OrderMicroservice.Infrastructure.Repository;
 using System;
@@ -11,9 +12,9 @@ namespace OrderMicroservice.Infrastructure.Services
 {
     public class Shopping_Cart_ItemServiceAsync : IShopping_Cart_ItemServiceAsync
     {
-        private readonly Shopping_Cart_ItemRepositoryAsync shoppingCartItemRepo;
+        private readonly IShopping_Cart_ItemRepositoryAsync shoppingCartItemRepo;
 
-        public Shopping_Cart_ItemServiceAsync(Shopping_Cart_ItemRepositoryAsync shoppingCartItemRepo)
+        public Shopping_Cart_ItemServiceAsync(IShopping_Cart_ItemRepositoryAsync shoppingCartItemRepo)
         {
             this.shoppingCartItemRepo = shoppingCartItemRepo;
         }

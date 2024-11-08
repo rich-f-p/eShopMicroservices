@@ -467,11 +467,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShop_App\\ShippingMicroservice.API\\ShippingMicroservice.API.csproj",
+      "projectUniqueName": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ShippingMicroservice.API\\ShippingMicroservice.API.csproj",
       "projectName": "ShippingMicroservice.API",
-      "projectPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShop_App\\ShippingMicroservice.API\\ShippingMicroservice.API.csproj",
+      "projectPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ShippingMicroservice.API\\ShippingMicroservice.API.csproj",
       "packagesPath": "C:\\Users\\richa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShop_App\\ShippingMicroservice.API\\obj\\",
+      "outputPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ShippingMicroservice.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\richa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -489,8 +489,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShop_App\\ShippingMicroservice.Infrastructure\\ShippingMicroservice.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShop_App\\ShippingMicroservice.Infrastructure\\ShippingMicroservice.Infrastructure.csproj"
+            "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ShippingMicroservice.Infrastructure\\ShippingMicroservice.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ShippingMicroservice.Infrastructure\\ShippingMicroservice.Infrastructure.csproj"
             }
           }
         }

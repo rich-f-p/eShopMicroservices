@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N6UDd9DA6LM=",
+  "dgSpecHash": "jluLXp1c8ME=",
   "success": true,
-  "projectFilePath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShop_App\\ShippingMicroservice.ApplicationCore\\ShippingMicroservice.ApplicationCore.csproj",
+  "projectFilePath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ShippingMicroservice.ApplicationCore\\ShippingMicroservice.ApplicationCore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

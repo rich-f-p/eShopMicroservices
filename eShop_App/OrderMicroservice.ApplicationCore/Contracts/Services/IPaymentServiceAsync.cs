@@ -1,5 +1,4 @@
-﻿using OrderMicroservice.ApplicationCore.Entities;
-using OrderMicroservice.ApplicationCore.Models.Request;
+﻿using OrderMicroservice.ApplicationCore.Models.Request;
 using OrderMicroservice.ApplicationCore.Models.Response;
 using System;
 using System.Collections.Generic;

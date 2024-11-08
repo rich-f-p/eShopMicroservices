@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ShippingMicroservice.ApplicationCore
-build_property.ProjectDir = C:\Users\richa\Desktop\SEP Full Stack\eShop_App\ShippingMicroservice.ApplicationCore\
+build_property.ProjectDir = C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ShippingMicroservice.ApplicationCore\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

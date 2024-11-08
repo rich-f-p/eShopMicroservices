@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using OrderMicroservice.ApplicationCore.Contracts.Services;
 using OrderMicroservice.Infrastructure.Services;
 
 namespace OrderMicroservice.API.Controllers
@@ -8,9 +9,9 @@ namespace OrderMicroservice.API.Controllers
     [ApiController]
     public class ShoppingCartItemController : ControllerBase
     {
-        private readonly Shopping_Cart_ItemServiceAsync shoppingCartItemServiceAsync;
+        private readonly IShopping_Cart_ItemServiceAsync shoppingCartItemServiceAsync;
 
-        public ShoppingCartItemController(Shopping_Cart_ItemServiceAsync shoppingCartItemServiceAsync)
+        public ShoppingCartItemController(IShopping_Cart_ItemServiceAsync shoppingCartItemServiceAsync)
         {
             this.shoppingCartItemServiceAsync = shoppingCartItemServiceAsync;
         }

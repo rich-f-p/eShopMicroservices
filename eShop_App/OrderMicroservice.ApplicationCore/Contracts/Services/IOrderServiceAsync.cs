@@ -1,5 +1,4 @@
-﻿using OrderMicroservice.ApplicationCore.Entities;
-using OrderMicroservice.ApplicationCore.Models.Request;
+﻿using OrderMicroservice.ApplicationCore.Models.Request;
 using OrderMicroservice.ApplicationCore.Models.Response;
 using System;
 using System.Collections.Generic;
@@ -18,5 +17,7 @@ namespace OrderMicroservice.ApplicationCore.Contracts.Services
         Task<int> CancelOrder(int id);
         Task<int> OrderCompleted(int id);
         Task<int> UpdateOrder(OrderRequestModel order,int id);
+        Task<IEnumerable<Order_DetailsResponseModel>> GetDetailsByOrderId(int id);
+
     }
 }

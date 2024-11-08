@@ -4098,11 +4098,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShop_App\\OrderMicroservice.Infrastructure\\OrderMicroservice.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.Infrastructure\\OrderMicroservice.Infrastructure.csproj",
       "projectName": "OrderMicroservice.Infrastructure",
-      "projectPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShop_App\\OrderMicroservice.Infrastructure\\OrderMicroservice.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.Infrastructure\\OrderMicroservice.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\richa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShop_App\\OrderMicroservice.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\richa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4120,8 +4120,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShop_App\\OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj": {
-              "projectPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShop_App\\OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj"
+            "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj": {
+              "projectPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj"
             }
           }
         }

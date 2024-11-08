@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShop_App\\ShippingMicroservice.ApplicationCore\\ShippingMicroservice.ApplicationCore.csproj",
+      "projectUniqueName": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ShippingMicroservice.ApplicationCore\\ShippingMicroservice.ApplicationCore.csproj",
       "projectName": "ShippingMicroservice.ApplicationCore",
-      "projectPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShop_App\\ShippingMicroservice.ApplicationCore\\ShippingMicroservice.ApplicationCore.csproj",
+      "projectPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ShippingMicroservice.ApplicationCore\\ShippingMicroservice.ApplicationCore.csproj",
       "packagesPath": "C:\\Users\\richa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShop_App\\ShippingMicroservice.ApplicationCore\\obj\\",
+      "outputPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ShippingMicroservice.ApplicationCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\richa\\AppData\\Roaming\\NuGet\\NuGet.Config",

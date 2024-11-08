@@ -16,7 +16,7 @@ namespace OrderMicroservice.ApplicationCore.Entities
         public bool IsDefaultAddress { get; set; }
 
         public Customer? Customer { get; set; }
-        public Address Address { get; set; }
+        public Address? Address { get; set; }
 
     }
 }
