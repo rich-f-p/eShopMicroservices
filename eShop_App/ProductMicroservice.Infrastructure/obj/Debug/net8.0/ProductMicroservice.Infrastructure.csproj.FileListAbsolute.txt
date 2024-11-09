@@ -22,3 +22,8 @@ C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ProductMicros
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ProductMicroservice.Infrastructure\obj\Debug\net8.0\refint\ProductMicroservice.Infrastructure.dll
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ProductMicroservice.Infrastructure\obj\Debug\net8.0\ProductMicroservice.Infrastructure.pdb
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ProductMicroservice.Infrastructure\obj\Debug\net8.0\ref\ProductMicroservice.Infrastructure.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ProductMicroservice.Infrastructure\bin\Debug\net8.0\ProductMicroservice.Infrastructure.runtimeconfig.json
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ProductMicroservice.Infrastructure\bin\Debug\net8.0\ProductMicroservice.ApplicationCore.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ProductMicroservice.Infrastructure\bin\Debug\net8.0\ProductMicroservice.ApplicationCore.pdb
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ProductMicroservice.Infrastructure\obj\Debug\net8.0\ProductM.62CD6747.Up2Date
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ProductMicroservice.Infrastructure\obj\Debug\net8.0\ProductMicroservice.Infrastructure.genruntimeconfig.cache

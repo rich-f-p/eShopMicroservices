@@ -1,23 +1,346 @@
 [
   {
-    "ContainingType": "ProductMicroservice.API.Controllers.WeatherForecastController",
-    "Method": "Get",
-    "RelativePath": "WeatherForecast",
+    "ContainingType": "ProductMicroservice.API.Controllers.CatagoryController",
+    "Method": "Delete",
+    "RelativePath": "api/Catagory/Delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductMicroservice.API.Controllers.CatagoryController",
+    "Method": "GetAllCategory",
+    "RelativePath": "api/Catagory/GetAllCategory",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": [
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductMicroservice.API.Controllers.CatagoryController",
+    "Method": "GetCategoryById",
+    "RelativePath": "api/Catagory/GetCategoryById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[ProductMicroservice.API.WeatherForecast, ProductMicroservice.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
       }
     ],
-    "EndpointName": "GetWeatherForecast"
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductMicroservice.API.Controllers.CatagoryController",
+    "Method": "GetCategoryByParentCategoryId",
+    "RelativePath": "api/Catagory/GetCategoryByParentCategoryId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductMicroservice.API.Controllers.CatagoryController",
+    "Method": "SaveCategory",
+    "RelativePath": "api/Catagory/SaveCategory",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "ProductMicroservice.ApplicationCore.Models.Request.Product_CategoryRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductMicroservice.API.Controllers.CatagoryVariationController",
+    "Method": "Delete",
+    "RelativePath": "api/CatagoryVariation/Delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductMicroservice.API.Controllers.CatagoryVariationController",
+    "Method": "GetAll",
+    "RelativePath": "api/CatagoryVariation/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductMicroservice.API.Controllers.CatagoryVariationController",
+    "Method": "GetCategoryVariationByCategoryId",
+    "RelativePath": "api/CatagoryVariation/GetCategoryVariationByCategoryId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductMicroservice.API.Controllers.CatagoryVariationController",
+    "Method": "GetCategoryVariationById",
+    "RelativePath": "api/CatagoryVariation/GetCategoryVariationById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductMicroservice.API.Controllers.CatagoryVariationController",
+    "Method": "Save",
+    "RelativePath": "api/CatagoryVariation/Save",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "ProductMicroservice.ApplicationCore.Models.Request.Category_VariationRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductMicroservice.API.Controllers.ProductController",
+    "Method": "DeleteProduct",
+    "RelativePath": "api/Product/DeleteProduct",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductMicroservice.API.Controllers.ProductController",
+    "Method": "GetListProducts",
+    "RelativePath": "api/Product/GetListProducts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductMicroservice.API.Controllers.ProductController",
+    "Method": "GetProductByCategoryId",
+    "RelativePath": "api/Product/GetProductByCategoryId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductMicroservice.API.Controllers.ProductController",
+    "Method": "GetProductById",
+    "RelativePath": "api/Product/GetProductById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductMicroservice.API.Controllers.ProductController",
+    "Method": "GetProductByName",
+    "RelativePath": "api/Product/GetProductByName",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductMicroservice.API.Controllers.ProductController",
+    "Method": "InActive",
+    "RelativePath": "api/Product/InActive",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductMicroservice.API.Controllers.ProductController",
+    "Method": "Save",
+    "RelativePath": "api/Product/Save",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "ProductMicroservice.ApplicationCore.Models.Request.ProductRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductMicroservice.API.Controllers.ProductController",
+    "Method": "Update",
+    "RelativePath": "api/Product/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "ProductMicroservice.ApplicationCore.Models.Request.ProductRequestModel",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductMicroservice.API.Controllers.ProductVariationController",
+    "Method": "GetProductVariation",
+    "RelativePath": "api/ProductVariation/GetProductVariation",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "variationId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductMicroservice.API.Controllers.ProductVariationController",
+    "Method": "Save",
+    "RelativePath": "api/ProductVariation/Save",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "ProductMicroservice.ApplicationCore.Models.Request.Product_Variation_ValuesRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductMicroservice.API.Controllers.VariationValueController",
+    "Method": "GetVariationId",
+    "RelativePath": "api/VariationValue/GetVariationId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductMicroservice.API.Controllers.VariationValueController",
+    "Method": "Save",
+    "RelativePath": "api/VariationValue/Save",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "ProductMicroservice.ApplicationCore.Models.Request.Variation_ValueRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

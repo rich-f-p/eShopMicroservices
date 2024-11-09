@@ -5,11 +5,11 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OrderMicroservice", "OrderMicroservice", "{2B0ACAF2-9273-4239-807C-3216E1E14D83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderMicroservice.API", "OrderMicroservice.API\OrderMicroservice.API.csproj", "{FB9017F9-F3CC-412E-9789-2BD687B2FB81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderMicroservice.API", "OrderMicroservice.API\OrderMicroservice.API.csproj", "{FB9017F9-F3CC-412E-9789-2BD687B2FB81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderMicroservice.ApplicationCore", "OrderMicroservice.ApplicationCore\OrderMicroservice.ApplicationCore.csproj", "{1D6CC16A-308A-4288-B6B2-AB9595EFA817}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderMicroservice.ApplicationCore", "OrderMicroservice.ApplicationCore\OrderMicroservice.ApplicationCore.csproj", "{1D6CC16A-308A-4288-B6B2-AB9595EFA817}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderMicroservice.Infrastructure", "OrderMicroservice.Infrastructure\OrderMicroservice.Infrastructure.csproj", "{841BA0C4-1906-44B8-A316-E1F30DEE1D90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderMicroservice.Infrastructure", "OrderMicroservice.Infrastructure\OrderMicroservice.Infrastructure.csproj", "{841BA0C4-1906-44B8-A316-E1F30DEE1D90}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProductMicroservice", "ProductMicroservice", "{024FB5DC-ED2D-4D12-AC02-00F19533F259}"
 EndProject
@@ -19,31 +19,29 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReviewsMicroservice", "Revi
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PromotionsMicroservice", "PromotionsMicroservice", "{4481953B-4998-4A5B-8D95-9EC424B468C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductMicroservice.API", "ProductMicroservice.API\ProductMicroservice.API.csproj", "{5F51DDA9-4AEE-4DE4-A2B8-457FF884C094}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductMicroservice.API", "ProductMicroservice.API\ProductMicroservice.API.csproj", "{5F51DDA9-4AEE-4DE4-A2B8-457FF884C094}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductMicroservice.ApplicationCore", "ProductMicroservice.ApplicationCore\ProductMicroservice.ApplicationCore.csproj", "{EC73F60D-FFE5-4AA5-BE00-043F70EB3D18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductMicroservice.ApplicationCore", "ProductMicroservice.ApplicationCore\ProductMicroservice.ApplicationCore.csproj", "{EC73F60D-FFE5-4AA5-BE00-043F70EB3D18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductMicroservice.Infrastructure", "ProductMicroservice.Infrastructure\ProductMicroservice.Infrastructure.csproj", "{BDE2B160-6464-4C64-AF62-DBCE948BEB3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductMicroservice.Infrastructure", "ProductMicroservice.Infrastructure\ProductMicroservice.Infrastructure.csproj", "{BDE2B160-6464-4C64-AF62-DBCE948BEB3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromotionsMicroservice.API", "PromotionsMicroservice.API\PromotionsMicroservice.API.csproj", "{A820DAB0-D87B-457F-B7FD-2EFFA676AAA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PromotionsMicroservice.API", "PromotionsMicroservice.API\PromotionsMicroservice.API.csproj", "{A820DAB0-D87B-457F-B7FD-2EFFA676AAA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromotionsMicroservice.ApplicationCore", "PromotionsMicroservice.ApplicationCore\PromotionsMicroservice.ApplicationCore.csproj", "{5BA5FE2B-2E23-4795-BE42-C95C3FEC85E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PromotionsMicroservice.ApplicationCore", "PromotionsMicroservice.ApplicationCore\PromotionsMicroservice.ApplicationCore.csproj", "{5BA5FE2B-2E23-4795-BE42-C95C3FEC85E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromotionsMicroservice.Infrastructure", "PromotionsMicroservice.Infrastructure\PromotionsMicroservice.Infrastructure.csproj", "{52A2DE13-E85B-4E7D-9134-1A4EB6EF526F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PromotionsMicroservice.Infrastructure", "PromotionsMicroservice.Infrastructure\PromotionsMicroservice.Infrastructure.csproj", "{52A2DE13-E85B-4E7D-9134-1A4EB6EF526F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReviewsMicroservice.API", "ReviewsMicroservice.API\ReviewsMicroservice.API.csproj", "{5FFC5BA2-03F7-4232-9807-9DC0FBCE3B0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReviewsMicroservice.API", "ReviewsMicroservice.API\ReviewsMicroservice.API.csproj", "{5FFC5BA2-03F7-4232-9807-9DC0FBCE3B0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReviewsMicroservice.ApplicationCore", "ReviewsMicroservice.ApplicationCore\ReviewsMicroservice.ApplicationCore.csproj", "{B475A6ED-0A0F-42B2-8FB2-6175ABAB8CE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReviewsMicroservice.ApplicationCore", "ReviewsMicroservice.ApplicationCore\ReviewsMicroservice.ApplicationCore.csproj", "{B475A6ED-0A0F-42B2-8FB2-6175ABAB8CE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReviewsMicroservice.Infrastructure", "ReviewsMicroservice.Infrastructure\ReviewsMicroservice.Infrastructure.csproj", "{75AA3A79-A8E4-47E1-88E8-0D0002B9B012}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReviewsMicroservice.Infrastructure", "ReviewsMicroservice.Infrastructure\ReviewsMicroservice.Infrastructure.csproj", "{75AA3A79-A8E4-47E1-88E8-0D0002B9B012}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShippingMicroservice.API", "ShippingMicroservice.API\ShippingMicroservice.API.csproj", "{43388CEC-DD10-44A6-BD76-23BD0DAFCDE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShippingMicroservice.API", "ShippingMicroservice.API\ShippingMicroservice.API.csproj", "{43388CEC-DD10-44A6-BD76-23BD0DAFCDE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShippingMicroservice.ApplicationCore", "ShippingMicroservice.ApplicationCore\ShippingMicroservice.ApplicationCore.csproj", "{B6E49C8D-A2A2-415B-B956-7438714CA618}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShippingMicroservice.ApplicationCore", "ShippingMicroservice.ApplicationCore\ShippingMicroservice.ApplicationCore.csproj", "{B6E49C8D-A2A2-415B-B956-7438714CA618}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShippingMicroservice.Infrastructure", "ShippingMicroservice.Infrastructure\ShippingMicroservice.Infrastructure.csproj", "{8431F723-F9EF-4542-A8EA-C29651D95C6F}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{AE67E3DB-15BD-407E-94B7-ADDDB4201810}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShippingMicroservice.Infrastructure", "ShippingMicroservice.Infrastructure\ShippingMicroservice.Infrastructure.csproj", "{8431F723-F9EF-4542-A8EA-C29651D95C6F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
