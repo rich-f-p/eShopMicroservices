@@ -21,3 +21,9 @@ C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMic
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMicroservice.Infrastructure\obj\Debug\net8.0\refint\PromotionsMicroservice.Infrastructure.dll
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMicroservice.Infrastructure\obj\Debug\net8.0\PromotionsMicroservice.Infrastructure.pdb
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMicroservice.Infrastructure\obj\Debug\net8.0\ref\PromotionsMicroservice.Infrastructure.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMicroservice.Infrastructure\bin\Debug\net8.0\PromotionsMicroservice.Infrastructure.runtimeconfig.json
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMicroservice.Infrastructure\bin\Debug\net8.0\PromotionsMicroservice.ApplicationCore.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMicroservice.Infrastructure\bin\Debug\net8.0\PromotionsMicroservice.ApplicationCore.pdb
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMicroservice.Infrastructure\obj\Debug\net8.0\PromotionsMicroservice.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMicroservice.Infrastructure\obj\Debug\net8.0\Promotio.E7119F2D.Up2Date
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMicroservice.Infrastructure\obj\Debug\net8.0\PromotionsMicroservice.Infrastructure.genruntimeconfig.cache
