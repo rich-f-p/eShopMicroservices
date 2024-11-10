@@ -21,3 +21,9 @@ C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ReviewsMicros
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ReviewsMicroservice.Infrastructure\obj\Debug\net8.0\refint\ReviewsMicroservice.Infrastructure.dll
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ReviewsMicroservice.Infrastructure\obj\Debug\net8.0\ReviewsMicroservice.Infrastructure.pdb
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ReviewsMicroservice.Infrastructure\obj\Debug\net8.0\ref\ReviewsMicroservice.Infrastructure.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ReviewsMicroservice.Infrastructure\bin\Debug\net8.0\ReviewsMicroservice.Infrastructure.runtimeconfig.json
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ReviewsMicroservice.Infrastructure\bin\Debug\net8.0\ReviewsMicroservice.ApplicationCore.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ReviewsMicroservice.Infrastructure\bin\Debug\net8.0\ReviewsMicroservice.ApplicationCore.pdb
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ReviewsMicroservice.Infrastructure\obj\Debug\net8.0\ReviewsMicroservice.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ReviewsMicroservice.Infrastructure\obj\Debug\net8.0\ReviewsM.862CA1F3.Up2Date
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ReviewsMicroservice.Infrastructure\obj\Debug\net8.0\ReviewsMicroservice.Infrastructure.genruntimeconfig.cache

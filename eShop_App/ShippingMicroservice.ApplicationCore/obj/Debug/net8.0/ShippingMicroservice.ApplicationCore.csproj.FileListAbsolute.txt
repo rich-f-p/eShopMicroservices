@@ -21,3 +21,6 @@ C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ShippingMicro
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ShippingMicroservice.ApplicationCore\obj\Debug\net8.0\refint\ShippingMicroservice.ApplicationCore.dll
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ShippingMicroservice.ApplicationCore\obj\Debug\net8.0\ShippingMicroservice.ApplicationCore.pdb
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ShippingMicroservice.ApplicationCore\obj\Debug\net8.0\ref\ShippingMicroservice.ApplicationCore.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ShippingMicroservice.ApplicationCore\bin\Debug\net8.0\ShippingMicroservice.ApplicationCore.runtimeconfig.json
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ShippingMicroservice.ApplicationCore\obj\Debug\net8.0\ShippingMicroservice.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ShippingMicroservice.ApplicationCore\obj\Debug\net8.0\ShippingMicroservice.ApplicationCore.genruntimeconfig.cache

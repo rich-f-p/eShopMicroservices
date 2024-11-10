@@ -21,3 +21,6 @@ C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ReviewsMicros
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ReviewsMicroservice.ApplicationCore\obj\Debug\net8.0\refint\ReviewsMicroservice.ApplicationCore.dll
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ReviewsMicroservice.ApplicationCore\obj\Debug\net8.0\ReviewsMicroservice.ApplicationCore.pdb
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ReviewsMicroservice.ApplicationCore\obj\Debug\net8.0\ref\ReviewsMicroservice.ApplicationCore.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ReviewsMicroservice.ApplicationCore\bin\Debug\net8.0\ReviewsMicroservice.ApplicationCore.runtimeconfig.json
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ReviewsMicroservice.ApplicationCore\obj\Debug\net8.0\ReviewsMicroservice.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ReviewsMicroservice.ApplicationCore\obj\Debug\net8.0\ReviewsMicroservice.ApplicationCore.genruntimeconfig.cache

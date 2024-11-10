@@ -29,3 +29,5 @@ C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ShippingMicro
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ShippingMicroservice.Infrastructure\obj\Debug\net8.0\refint\ShippingMicroservice.Infrastructure.dll
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ShippingMicroservice.Infrastructure\obj\Debug\net8.0\ShippingMicroservice.Infrastructure.pdb
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ShippingMicroservice.Infrastructure\obj\Debug\net8.0\ref\ShippingMicroservice.Infrastructure.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ShippingMicroservice.Infrastructure\bin\Debug\net8.0\ShippingMicroservice.Infrastructure.runtimeconfig.json
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ShippingMicroservice.Infrastructure\obj\Debug\net8.0\ShippingMicroservice.Infrastructure.genruntimeconfig.cache

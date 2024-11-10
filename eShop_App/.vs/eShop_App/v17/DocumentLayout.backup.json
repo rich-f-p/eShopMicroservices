@@ -3,57 +3,113 @@
   "WorkspaceRootPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.Infrastructure\\Migrations\\20241109112312_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PromotionsMicroservice.Infrastructure\\Migrations\\20241109112312_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A820DAB0-D87B-457F-B7FD-2EFFA676AAA7}|PromotionsMicroservice.API\\PromotionsMicroservice.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\promotionsmicroservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A820DAB0-D87B-457F-B7FD-2EFFA676AAA7}|PromotionsMicroservice.API\\PromotionsMicroservice.API.csproj|solutionrelative:promotionsmicroservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5FFC5BA2-03F7-4232-9807-9DC0FBCE3B0B}|ReviewsMicroservice.API\\ReviewsMicroservice.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\reviewsmicroservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFC5BA2-03F7-4232-9807-9DC0FBCE3B0B}|ReviewsMicroservice.API\\ReviewsMicroservice.API.csproj|solutionrelative:reviewsmicroservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A820DAB0-D87B-457F-B7FD-2EFFA676AAA7}|PromotionsMicroservice.API\\PromotionsMicroservice.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\promotionsmicroservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A820DAB0-D87B-457F-B7FD-2EFFA676AAA7}|PromotionsMicroservice.API\\PromotionsMicroservice.API.csproj|solutionrelative:promotionsmicroservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A820DAB0-D87B-457F-B7FD-2EFFA676AAA7}|PromotionsMicroservice.API\\PromotionsMicroservice.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\promotionsmicroservice.api\\helper\\mapper\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A820DAB0-D87B-457F-B7FD-2EFFA676AAA7}|PromotionsMicroservice.API\\PromotionsMicroservice.API.csproj|solutionrelative:promotionsmicroservice.api\\helper\\mapper\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FFC5BA2-03F7-4232-9807-9DC0FBCE3B0B}|ReviewsMicroservice.API\\ReviewsMicroservice.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\reviewsmicroservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5FFC5BA2-03F7-4232-9807-9DC0FBCE3B0B}|ReviewsMicroservice.API\\ReviewsMicroservice.API.csproj|solutionrelative:reviewsmicroservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F51DDA9-4AEE-4DE4-A2B8-457FF884C094}|ProductMicroservice.API\\ProductMicroservice.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\productmicroservice.api\\productmicroservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5F51DDA9-4AEE-4DE4-A2B8-457FF884C094}|ProductMicroservice.API\\ProductMicroservice.API.csproj|solutionrelative:productmicroservice.api\\productmicroservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A820DAB0-D87B-457F-B7FD-2EFFA676AAA7}|PromotionsMicroservice.API\\PromotionsMicroservice.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\promotionsmicroservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A820DAB0-D87B-457F-B7FD-2EFFA676AAA7}|PromotionsMicroservice.API\\PromotionsMicroservice.API.csproj|solutionrelative:promotionsmicroservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A820DAB0-D87B-457F-B7FD-2EFFA676AAA7}|PromotionsMicroservice.API\\PromotionsMicroservice.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\promotionsmicroservice.api\\promotionsmicroservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A820DAB0-D87B-457F-B7FD-2EFFA676AAA7}|PromotionsMicroservice.API\\PromotionsMicroservice.API.csproj|solutionrelative:promotionsmicroservice.api\\promotionsmicroservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFC5BA2-03F7-4232-9807-9DC0FBCE3B0B}|ReviewsMicroservice.API\\ReviewsMicroservice.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\reviewsmicroservice.api\\controllers\\customerreviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFC5BA2-03F7-4232-9807-9DC0FBCE3B0B}|ReviewsMicroservice.API\\ReviewsMicroservice.API.csproj|solutionrelative:reviewsmicroservice.api\\controllers\\customerreviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA3A79-A8E4-47E1-88E8-0D0002B9B012}|ReviewsMicroservice.Infrastructure\\ReviewsMicroservice.Infrastructure.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\reviewsmicroservice.infrastructure\\services\\reviewserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AA3A79-A8E4-47E1-88E8-0D0002B9B012}|ReviewsMicroservice.Infrastructure\\ReviewsMicroservice.Infrastructure.csproj|solutionrelative:reviewsmicroservice.infrastructure\\services\\reviewserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B475A6ED-0A0F-42B2-8FB2-6175ABAB8CE5}|ReviewsMicroservice.ApplicationCore\\ReviewsMicroservice.ApplicationCore.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\reviewsmicroservice.applicationcore\\contracts\\service\\ireviewserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B475A6ED-0A0F-42B2-8FB2-6175ABAB8CE5}|ReviewsMicroservice.ApplicationCore\\ReviewsMicroservice.ApplicationCore.csproj|solutionrelative:reviewsmicroservice.applicationcore\\contracts\\service\\ireviewserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B475A6ED-0A0F-42B2-8FB2-6175ABAB8CE5}|ReviewsMicroservice.ApplicationCore\\ReviewsMicroservice.ApplicationCore.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\reviewsmicroservice.applicationcore\\reviewsmicroservice.applicationcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B475A6ED-0A0F-42B2-8FB2-6175ABAB8CE5}|ReviewsMicroservice.ApplicationCore\\ReviewsMicroservice.ApplicationCore.csproj|solutionrelative:reviewsmicroservice.applicationcore\\reviewsmicroservice.applicationcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A820DAB0-D87B-457F-B7FD-2EFFA676AAA7}|PromotionsMicroservice.API\\PromotionsMicroservice.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\promotionsmicroservice.api\\controllers\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A820DAB0-D87B-457F-B7FD-2EFFA676AAA7}|PromotionsMicroservice.API\\PromotionsMicroservice.API.csproj|solutionrelative:promotionsmicroservice.api\\controllers\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52A2DE13-E85B-4E7D-9134-1A4EB6EF526F}|PromotionsMicroservice.Infrastructure\\PromotionsMicroservice.Infrastructure.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\promotionsmicroservice.infrastructure\\data\\promotionmicroservicedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52A2DE13-E85B-4E7D-9134-1A4EB6EF526F}|PromotionsMicroservice.Infrastructure\\PromotionsMicroservice.Infrastructure.csproj|solutionrelative:promotionsmicroservice.infrastructure\\data\\promotionmicroservicedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FFC5BA2-03F7-4232-9807-9DC0FBCE3B0B}|ReviewsMicroservice.API\\ReviewsMicroservice.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\reviewsmicroservice.api\\helper\\mapper\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFC5BA2-03F7-4232-9807-9DC0FBCE3B0B}|ReviewsMicroservice.API\\ReviewsMicroservice.API.csproj|solutionrelative:reviewsmicroservice.api\\helper\\mapper\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52A2DE13-E85B-4E7D-9134-1A4EB6EF526F}|PromotionsMicroservice.Infrastructure\\PromotionsMicroservice.Infrastructure.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\promotionsmicroservice.infrastructure\\repository\\baserepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52A2DE13-E85B-4E7D-9134-1A4EB6EF526F}|PromotionsMicroservice.Infrastructure\\PromotionsMicroservice.Infrastructure.csproj|solutionrelative:promotionsmicroservice.infrastructure\\repository\\baserepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A820DAB0-D87B-457F-B7FD-2EFFA676AAA7}|PromotionsMicroservice.API\\PromotionsMicroservice.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\promotionsmicroservice.api\\helper\\mapper\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A820DAB0-D87B-457F-B7FD-2EFFA676AAA7}|PromotionsMicroservice.API\\PromotionsMicroservice.API.csproj|solutionrelative:promotionsmicroservice.api\\helper\\mapper\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52A2DE13-E85B-4E7D-9134-1A4EB6EF526F}|PromotionsMicroservice.Infrastructure\\PromotionsMicroservice.Infrastructure.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\promotionsmicroservice.infrastructure\\repository\\promotion_detailsrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52A2DE13-E85B-4E7D-9134-1A4EB6EF526F}|PromotionsMicroservice.Infrastructure\\PromotionsMicroservice.Infrastructure.csproj|solutionrelative:promotionsmicroservice.infrastructure\\repository\\promotion_detailsrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75AA3A79-A8E4-47E1-88E8-0D0002B9B012}|ReviewsMicroservice.Infrastructure\\ReviewsMicroservice.Infrastructure.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\reviewsmicroservice.infrastructure\\repository\\reviewrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AA3A79-A8E4-47E1-88E8-0D0002B9B012}|ReviewsMicroservice.Infrastructure\\ReviewsMicroservice.Infrastructure.csproj|solutionrelative:reviewsmicroservice.infrastructure\\repository\\reviewrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B475A6ED-0A0F-42B2-8FB2-6175ABAB8CE5}|ReviewsMicroservice.ApplicationCore\\ReviewsMicroservice.ApplicationCore.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\reviewsmicroservice.applicationcore\\contracts\\repository\\ireviewrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B475A6ED-0A0F-42B2-8FB2-6175ABAB8CE5}|ReviewsMicroservice.ApplicationCore\\ReviewsMicroservice.ApplicationCore.csproj|solutionrelative:reviewsmicroservice.applicationcore\\contracts\\repository\\ireviewrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B475A6ED-0A0F-42B2-8FB2-6175ABAB8CE5}|ReviewsMicroservice.ApplicationCore\\ReviewsMicroservice.ApplicationCore.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\reviewsmicroservice.applicationcore\\entities\\customer_review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B475A6ED-0A0F-42B2-8FB2-6175ABAB8CE5}|ReviewsMicroservice.ApplicationCore\\ReviewsMicroservice.ApplicationCore.csproj|solutionrelative:reviewsmicroservice.applicationcore\\entities\\customer_review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B475A6ED-0A0F-42B2-8FB2-6175ABAB8CE5}|ReviewsMicroservice.ApplicationCore\\ReviewsMicroservice.ApplicationCore.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\reviewsmicroservice.applicationcore\\contracts\\repository\\irepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B475A6ED-0A0F-42B2-8FB2-6175ABAB8CE5}|ReviewsMicroservice.ApplicationCore\\ReviewsMicroservice.ApplicationCore.csproj|solutionrelative:reviewsmicroservice.applicationcore\\contracts\\repository\\irepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA3A79-A8E4-47E1-88E8-0D0002B9B012}|ReviewsMicroservice.Infrastructure\\ReviewsMicroservice.Infrastructure.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\reviewsmicroservice.infrastructure\\reviewsmicroservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{75AA3A79-A8E4-47E1-88E8-0D0002B9B012}|ReviewsMicroservice.Infrastructure\\ReviewsMicroservice.Infrastructure.csproj|solutionrelative:reviewsmicroservice.infrastructure\\reviewsmicroservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA3A79-A8E4-47E1-88E8-0D0002B9B012}|ReviewsMicroservice.Infrastructure\\ReviewsMicroservice.Infrastructure.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\reviewsmicroservice.infrastructure\\repository\\baserepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AA3A79-A8E4-47E1-88E8-0D0002B9B012}|ReviewsMicroservice.Infrastructure\\ReviewsMicroservice.Infrastructure.csproj|solutionrelative:reviewsmicroservice.infrastructure\\repository\\baserepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B475A6ED-0A0F-42B2-8FB2-6175ABAB8CE5}|ReviewsMicroservice.ApplicationCore\\ReviewsMicroservice.ApplicationCore.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\reviewsmicroservice.applicationcore\\models\\response\\reviewresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B475A6ED-0A0F-42B2-8FB2-6175ABAB8CE5}|ReviewsMicroservice.ApplicationCore\\ReviewsMicroservice.ApplicationCore.csproj|solutionrelative:reviewsmicroservice.applicationcore\\models\\response\\reviewresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B475A6ED-0A0F-42B2-8FB2-6175ABAB8CE5}|ReviewsMicroservice.ApplicationCore\\ReviewsMicroservice.ApplicationCore.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\reviewsmicroservice.applicationcore\\models\\request\\reviewrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B475A6ED-0A0F-42B2-8FB2-6175ABAB8CE5}|ReviewsMicroservice.ApplicationCore\\ReviewsMicroservice.ApplicationCore.csproj|solutionrelative:reviewsmicroservice.applicationcore\\models\\request\\reviewrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA3A79-A8E4-47E1-88E8-0D0002B9B012}|ReviewsMicroservice.Infrastructure\\ReviewsMicroservice.Infrastructure.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\reviewsmicroservice.infrastructure\\data\\reviewmicroservicedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AA3A79-A8E4-47E1-88E8-0D0002B9B012}|ReviewsMicroservice.Infrastructure\\ReviewsMicroservice.Infrastructure.csproj|solutionrelative:reviewsmicroservice.infrastructure\\data\\reviewmicroservicedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{52A2DE13-E85B-4E7D-9134-1A4EB6EF526F}|PromotionsMicroservice.Infrastructure\\PromotionsMicroservice.Infrastructure.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\promotionsmicroservice.infrastructure\\repository\\promotionsalerepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52A2DE13-E85B-4E7D-9134-1A4EB6EF526F}|PromotionsMicroservice.Infrastructure\\PromotionsMicroservice.Infrastructure.csproj|solutionrelative:promotionsmicroservice.infrastructure\\repository\\promotionsalerepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BA5FE2B-2E23-4795-BE42-C95C3FEC85E9}|PromotionsMicroservice.ApplicationCore\\PromotionsMicroservice.ApplicationCore.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\promotionsmicroservice.applicationcore\\contracts\\repository\\ipromotionsalerepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BA5FE2B-2E23-4795-BE42-C95C3FEC85E9}|PromotionsMicroservice.ApplicationCore\\PromotionsMicroservice.ApplicationCore.csproj|solutionrelative:promotionsmicroservice.applicationcore\\contracts\\repository\\ipromotionsalerepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{52A2DE13-E85B-4E7D-9134-1A4EB6EF526F}|PromotionsMicroservice.Infrastructure\\PromotionsMicroservice.Infrastructure.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\promotionsmicroservice.infrastructure\\repository\\promotion_detailsrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52A2DE13-E85B-4E7D-9134-1A4EB6EF526F}|PromotionsMicroservice.Infrastructure\\PromotionsMicroservice.Infrastructure.csproj|solutionrelative:promotionsmicroservice.infrastructure\\repository\\promotion_detailsrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52A2DE13-E85B-4E7D-9134-1A4EB6EF526F}|PromotionsMicroservice.Infrastructure\\PromotionsMicroservice.Infrastructure.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\promotionsmicroservice.infrastructure\\promotionsmicroservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{52A2DE13-E85B-4E7D-9134-1A4EB6EF526F}|PromotionsMicroservice.Infrastructure\\PromotionsMicroservice.Infrastructure.csproj|solutionrelative:promotionsmicroservice.infrastructure\\promotionsmicroservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFC5BA2-03F7-4232-9807-9DC0FBCE3B0B}|ReviewsMicroservice.API\\ReviewsMicroservice.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\reviewsmicroservice.api\\reviewsmicroservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5FFC5BA2-03F7-4232-9807-9DC0FBCE3B0B}|ReviewsMicroservice.API\\ReviewsMicroservice.API.csproj|solutionrelative:reviewsmicroservice.api\\reviewsmicroservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 333,
+          "DockedHeight": 200,
           "SelectedChildIndex": 1,
           "Children": [
             {
@@ -63,144 +119,320 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20241109112312_Init.cs",
-              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.Infrastructure\\Migrations\\20241109112312_Init.cs",
-              "RelativeDocumentMoniker": "PromotionsMicroservice.Infrastructure\\Migrations\\20241109112312_Init.cs",
-              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.Infrastructure\\Migrations\\20241109112312_Init.cs",
-              "RelativeToolTip": "PromotionsMicroservice.Infrastructure\\Migrations\\20241109112312_Init.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA9AAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.API\\Program.cs",
+              "RelativeDocumentMoniker": "ReviewsMicroservice.API\\Program.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.API\\Program.cs",
+              "RelativeToolTip": "ReviewsMicroservice.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T11:23:12.264Z",
+              "WhenOpened": "2024-11-10T10:51:29.173Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.API\\appsettings.json",
-              "RelativeDocumentMoniker": "PromotionsMicroservice.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.API\\appsettings.json",
-              "RelativeToolTip": "PromotionsMicroservice.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-09T11:22:14.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.API\\Program.cs",
               "RelativeDocumentMoniker": "PromotionsMicroservice.API\\Program.cs",
               "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.API\\Program.cs",
               "RelativeToolTip": "PromotionsMicroservice.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T11:19:22.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductMicroservice.API",
-              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ProductMicroservice.API\\ProductMicroservice.API.csproj",
-              "RelativeDocumentMoniker": "ProductMicroservice.API\\ProductMicroservice.API.csproj",
-              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ProductMicroservice.API\\ProductMicroservice.API.csproj",
-              "RelativeToolTip": "ProductMicroservice.API\\ProductMicroservice.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-09T11:16:31.652Z",
+              "WhenOpened": "2024-11-10T10:51:07.095Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ApplicationMapper.cs",
-              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.API\\Helper\\Mapper\\ApplicationMapper.cs",
-              "RelativeDocumentMoniker": "PromotionsMicroservice.API\\Helper\\Mapper\\ApplicationMapper.cs",
-              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.API\\Helper\\Mapper\\ApplicationMapper.cs",
-              "RelativeToolTip": "PromotionsMicroservice.API\\Helper\\Mapper\\ApplicationMapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T11:16:27.828Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.API\\appsettings.json",
+              "RelativeDocumentMoniker": "PromotionsMicroservice.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.API\\appsettings.json",
+              "RelativeToolTip": "PromotionsMicroservice.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-10T10:50:29.32Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Promotion.cs",
-              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.API\\Controllers\\Promotion.cs",
-              "RelativeDocumentMoniker": "PromotionsMicroservice.API\\Controllers\\Promotion.cs",
-              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.API\\Controllers\\Promotion.cs",
-              "RelativeToolTip": "PromotionsMicroservice.API\\Controllers\\Promotion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T11:10:45.894Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PromotionMicroserviceDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.Infrastructure\\Data\\PromotionMicroserviceDbContext.cs",
-              "RelativeDocumentMoniker": "PromotionsMicroservice.Infrastructure\\Data\\PromotionMicroserviceDbContext.cs",
-              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.Infrastructure\\Data\\PromotionMicroserviceDbContext.cs",
-              "RelativeToolTip": "PromotionsMicroservice.Infrastructure\\Data\\PromotionMicroserviceDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T11:10:36.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BaseRepositoryAsync.cs",
-              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.Infrastructure\\Repository\\BaseRepositoryAsync.cs",
-              "RelativeDocumentMoniker": "PromotionsMicroservice.Infrastructure\\Repository\\BaseRepositoryAsync.cs",
-              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.Infrastructure\\Repository\\BaseRepositoryAsync.cs",
-              "RelativeToolTip": "PromotionsMicroservice.Infrastructure\\Repository\\BaseRepositoryAsync.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T11:10:32.187Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IPromotionSaleRepositoryAsync.cs",
-              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.ApplicationCore\\Contracts\\Repository\\IPromotionSaleRepositoryAsync.cs",
-              "RelativeDocumentMoniker": "PromotionsMicroservice.ApplicationCore\\Contracts\\Repository\\IPromotionSaleRepositoryAsync.cs",
-              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.ApplicationCore\\Contracts\\Repository\\IPromotionSaleRepositoryAsync.cs",
-              "RelativeToolTip": "PromotionsMicroservice.ApplicationCore\\Contracts\\Repository\\IPromotionSaleRepositoryAsync.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T10:59:47.539Z",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ReviewsMicroservice.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.API\\appsettings.json",
+              "RelativeToolTip": "ReviewsMicroservice.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-10T10:50:18.814Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "Promotion.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.API\\Controllers\\Promotion.cs",
+              "RelativeDocumentMoniker": "PromotionsMicroservice.API\\Controllers\\Promotion.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.API\\Controllers\\Promotion.cs",
+              "RelativeToolTip": "PromotionsMicroservice.API\\Controllers\\Promotion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T10:38:23.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PromotionsMicroservice.API",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.API\\PromotionsMicroservice.API.csproj",
+              "RelativeDocumentMoniker": "PromotionsMicroservice.API\\PromotionsMicroservice.API.csproj",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.API\\PromotionsMicroservice.API.csproj",
+              "RelativeToolTip": "PromotionsMicroservice.API\\PromotionsMicroservice.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-10T10:38:17.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerReviewController.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.API\\Controllers\\CustomerReviewController.cs",
+              "RelativeDocumentMoniker": "ReviewsMicroservice.API\\Controllers\\CustomerReviewController.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.API\\Controllers\\CustomerReviewController.cs",
+              "RelativeToolTip": "ReviewsMicroservice.API\\Controllers\\CustomerReviewController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowEYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T10:37:08.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationMapper.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.API\\Helper\\Mapper\\ApplicationMapper.cs",
+              "RelativeDocumentMoniker": "PromotionsMicroservice.API\\Helper\\Mapper\\ApplicationMapper.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.API\\Helper\\Mapper\\ApplicationMapper.cs",
+              "RelativeToolTip": "PromotionsMicroservice.API\\Helper\\Mapper\\ApplicationMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T10:35:34.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationMapper.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.API\\Helper\\Mapper\\ApplicationMapper.cs",
+              "RelativeDocumentMoniker": "ReviewsMicroservice.API\\Helper\\Mapper\\ApplicationMapper.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.API\\Helper\\Mapper\\ApplicationMapper.cs",
+              "RelativeToolTip": "ReviewsMicroservice.API\\Helper\\Mapper\\ApplicationMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T10:35:23.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRepositoryAsync.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.ApplicationCore\\Contracts\\Repository\\IRepositoryAsync.cs",
+              "RelativeDocumentMoniker": "ReviewsMicroservice.ApplicationCore\\Contracts\\Repository\\IRepositoryAsync.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.ApplicationCore\\Contracts\\Repository\\IRepositoryAsync.cs",
+              "RelativeToolTip": "ReviewsMicroservice.ApplicationCore\\Contracts\\Repository\\IRepositoryAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T10:04:26.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReviewResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.ApplicationCore\\Models\\Response\\ReviewResponseModel.cs",
+              "RelativeDocumentMoniker": "ReviewsMicroservice.ApplicationCore\\Models\\Response\\ReviewResponseModel.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.ApplicationCore\\Models\\Response\\ReviewResponseModel.cs",
+              "RelativeToolTip": "ReviewsMicroservice.ApplicationCore\\Models\\Response\\ReviewResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T10:00:29.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReviewRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.ApplicationCore\\Models\\Request\\ReviewRequestModel.cs",
+              "RelativeDocumentMoniker": "ReviewsMicroservice.ApplicationCore\\Models\\Request\\ReviewRequestModel.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.ApplicationCore\\Models\\Request\\ReviewRequestModel.cs",
+              "RelativeToolTip": "ReviewsMicroservice.ApplicationCore\\Models\\Request\\ReviewRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T10:00:28.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseRepositoryAsync.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.Infrastructure\\Repository\\BaseRepositoryAsync.cs",
+              "RelativeDocumentMoniker": "ReviewsMicroservice.Infrastructure\\Repository\\BaseRepositoryAsync.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.Infrastructure\\Repository\\BaseRepositoryAsync.cs",
+              "RelativeToolTip": "ReviewsMicroservice.Infrastructure\\Repository\\BaseRepositoryAsync.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T09:41:14.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReviewServiceAsync.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.Infrastructure\\Services\\ReviewServiceAsync.cs",
+              "RelativeDocumentMoniker": "ReviewsMicroservice.Infrastructure\\Services\\ReviewServiceAsync.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.Infrastructure\\Services\\ReviewServiceAsync.cs",
+              "RelativeToolTip": "ReviewsMicroservice.Infrastructure\\Services\\ReviewServiceAsync.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDcAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T09:25:01.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "PromotionSaleRepositoryAsync.cs",
               "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.Infrastructure\\Repository\\PromotionSaleRepositoryAsync.cs",
               "RelativeDocumentMoniker": "PromotionsMicroservice.Infrastructure\\Repository\\PromotionSaleRepositoryAsync.cs",
               "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.Infrastructure\\Repository\\PromotionSaleRepositoryAsync.cs",
               "RelativeToolTip": "PromotionsMicroservice.Infrastructure\\Repository\\PromotionSaleRepositoryAsync.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T10:57:05.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-10T09:23:02.359Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 22,
               "Title": "Promotion_DetailsRepositoryAsync.cs",
               "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.Infrastructure\\Repository\\Promotion_DetailsRepositoryAsync.cs",
               "RelativeDocumentMoniker": "PromotionsMicroservice.Infrastructure\\Repository\\Promotion_DetailsRepositoryAsync.cs",
               "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.Infrastructure\\Repository\\Promotion_DetailsRepositoryAsync.cs",
               "RelativeToolTip": "PromotionsMicroservice.Infrastructure\\Repository\\Promotion_DetailsRepositoryAsync.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T10:56:30.72Z",
+              "WhenOpened": "2024-11-10T09:22:53.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PromotionsMicroservice.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.Infrastructure\\PromotionsMicroservice.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "PromotionsMicroservice.Infrastructure\\PromotionsMicroservice.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.Infrastructure\\PromotionsMicroservice.Infrastructure.csproj",
+              "RelativeToolTip": "PromotionsMicroservice.Infrastructure\\PromotionsMicroservice.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-10T09:22:49.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReviewRepositoryAsync.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.Infrastructure\\Repository\\ReviewRepositoryAsync.cs",
+              "RelativeDocumentMoniker": "ReviewsMicroservice.Infrastructure\\Repository\\ReviewRepositoryAsync.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.Infrastructure\\Repository\\ReviewRepositoryAsync.cs",
+              "RelativeToolTip": "ReviewsMicroservice.Infrastructure\\Repository\\ReviewRepositoryAsync.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwDcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T09:09:47.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReviewsMicroservice.ApplicationCore.csproj",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.ApplicationCore\\ReviewsMicroservice.ApplicationCore.csproj",
+              "RelativeDocumentMoniker": "ReviewsMicroservice.ApplicationCore\\ReviewsMicroservice.ApplicationCore.csproj",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.ApplicationCore\\ReviewsMicroservice.ApplicationCore.csproj",
+              "RelativeToolTip": "ReviewsMicroservice.ApplicationCore\\ReviewsMicroservice.ApplicationCore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-10T09:09:21.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ReviewsMicroservice.API.csproj",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.API\\ReviewsMicroservice.API.csproj",
+              "RelativeDocumentMoniker": "ReviewsMicroservice.API\\ReviewsMicroservice.API.csproj",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.API\\ReviewsMicroservice.API.csproj",
+              "RelativeToolTip": "ReviewsMicroservice.API\\ReviewsMicroservice.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-10T09:08:51.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReviewMicroserviceDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.Infrastructure\\Data\\ReviewMicroserviceDbContext.cs",
+              "RelativeDocumentMoniker": "ReviewsMicroservice.Infrastructure\\Data\\ReviewMicroserviceDbContext.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.Infrastructure\\Data\\ReviewMicroserviceDbContext.cs",
+              "RelativeToolTip": "ReviewsMicroservice.Infrastructure\\Data\\ReviewMicroserviceDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T09:05:22.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReviewsMicroservice.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.Infrastructure\\ReviewsMicroservice.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "ReviewsMicroservice.Infrastructure\\ReviewsMicroservice.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.Infrastructure\\ReviewsMicroservice.Infrastructure.csproj",
+              "RelativeToolTip": "ReviewsMicroservice.Infrastructure\\ReviewsMicroservice.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-10T09:04:28.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Customer_Review.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.ApplicationCore\\Entities\\Customer_Review.cs",
+              "RelativeDocumentMoniker": "ReviewsMicroservice.ApplicationCore\\Entities\\Customer_Review.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.ApplicationCore\\Entities\\Customer_Review.cs",
+              "RelativeToolTip": "ReviewsMicroservice.ApplicationCore\\Entities\\Customer_Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T09:04:17.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IReviewRepositoryAsync.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.ApplicationCore\\Contracts\\Repository\\IReviewRepositoryAsync.cs",
+              "RelativeDocumentMoniker": "ReviewsMicroservice.ApplicationCore\\Contracts\\Repository\\IReviewRepositoryAsync.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.ApplicationCore\\Contracts\\Repository\\IReviewRepositoryAsync.cs",
+              "RelativeToolTip": "ReviewsMicroservice.ApplicationCore\\Contracts\\Repository\\IReviewRepositoryAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T08:45:56.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IReviewServiceAsync.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.ApplicationCore\\Contracts\\Service\\IReviewServiceAsync.cs",
+              "RelativeDocumentMoniker": "ReviewsMicroservice.ApplicationCore\\Contracts\\Service\\IReviewServiceAsync.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.ApplicationCore\\Contracts\\Service\\IReviewServiceAsync.cs",
+              "RelativeToolTip": "ReviewsMicroservice.ApplicationCore\\Contracts\\Service\\IReviewServiceAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T08:44:38.943Z",
               "EditorCaption": ""
             }
           ]
