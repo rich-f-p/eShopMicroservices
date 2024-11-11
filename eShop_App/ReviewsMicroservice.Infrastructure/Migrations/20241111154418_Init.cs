@@ -26,7 +26,7 @@ namespace ReviewsMicroservice.Infrastructure.Migrations
                     Rating_Value = table.Column<int>(type: "int", nullable: false),
                     Comment = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Review_Date = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    AdminApproval = table.Column<string>(type: "nvarchar(max)", nullable: false, defaultValue: "UnderReview")
+                    AdminApproval = table.Column<string>(type: "nvarchar(max)", nullable: true, defaultValue: "UnderReview")
                 },
                 constraints: table =>
                 {

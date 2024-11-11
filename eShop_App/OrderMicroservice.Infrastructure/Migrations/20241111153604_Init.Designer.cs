@@ -12,7 +12,7 @@ using OrderMicroservice.Infrastructure.Data;
 namespace OrderMicroservice.Infrastructure.Migrations
 {
     [DbContext(typeof(OrderMicroDbContext))]
-    [Migration("20241107032009_Init")]
+    [Migration("20241111153604_Init")]
     partial class Init
     {
         /// <inheritdoc />
@@ -55,7 +55,7 @@ namespace OrderMicroservice.Infrastructure.Migrations
 
                     b.Property<string>("ZipCode")
                         .IsRequired()
-                        .HasColumnType("varchar(5)");
+                        .HasColumnType("varchar(9)");
 
                     b.HasKey("Id");
 

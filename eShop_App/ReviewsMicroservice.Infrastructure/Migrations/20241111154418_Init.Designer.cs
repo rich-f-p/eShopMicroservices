@@ -12,8 +12,8 @@ using ReviewsMicroservice.Infrastructure.Data;
 namespace ReviewsMicroservice.Infrastructure.Migrations
 {
     [DbContext(typeof(ReviewMicroserviceDbContext))]
-    [Migration("20241111115230_change approval")]
-    partial class changeapproval
+    [Migration("20241111154418_Init")]
+    partial class Init
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

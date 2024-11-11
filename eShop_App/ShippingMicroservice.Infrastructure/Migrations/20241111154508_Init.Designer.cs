@@ -12,7 +12,7 @@ using ShippingMicroservice.Infrastructure.Data;
 namespace ShippingMicroservice.Infrastructure.Migrations
 {
     [DbContext(typeof(ShippingMicroserviceDbContext))]
-    [Migration("20241111113732_Init")]
+    [Migration("20241111154508_Init")]
     partial class Init
     {
         /// <inheritdoc />

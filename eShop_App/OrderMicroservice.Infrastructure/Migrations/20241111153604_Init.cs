@@ -20,7 +20,7 @@ namespace OrderMicroservice.Infrastructure.Migrations
                     Street1 = table.Column<string>(type: "varchar(50)", nullable: false),
                     Street2 = table.Column<string>(type: "varchar(50)", nullable: false),
                     City = table.Column<string>(type: "varchar(50)", nullable: false),
-                    ZipCode = table.Column<string>(type: "varchar(5)", nullable: false),
+                    ZipCode = table.Column<string>(type: "varchar(9)", nullable: false),
                     State = table.Column<string>(type: "varchar(52)", nullable: false),
                     Country = table.Column<string>(type: "varchar(56)", nullable: false)
                 },

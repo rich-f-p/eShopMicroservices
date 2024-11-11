@@ -52,7 +52,7 @@ namespace OrderMicroservice.Infrastructure.Migrations
 
                     b.Property<string>("ZipCode")
                         .IsRequired()
-                        .HasColumnType("varchar(5)");
+                        .HasColumnType("varchar(9)");
 
                     b.HasKey("Id");
 

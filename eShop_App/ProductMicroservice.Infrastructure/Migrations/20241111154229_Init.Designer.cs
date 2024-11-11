@@ -12,7 +12,7 @@ using ProductMicroservice.Infrastructure.Data;
 namespace ProductMicroservice.Infrastructure.Migrations
 {
     [DbContext(typeof(ProductMicroserviceDbContext))]
-    [Migration("20241111124320_Init")]
+    [Migration("20241111154229_Init")]
     partial class Init
     {
         /// <inheritdoc />
