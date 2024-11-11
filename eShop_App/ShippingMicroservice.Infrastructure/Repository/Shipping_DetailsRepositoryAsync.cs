@@ -22,7 +22,7 @@ namespace ShippingMicroservice.Infrastructure.Repository
 
         public async Task<IEnumerable<Shipping_Details>> GetDetailsByShipper(int id)
         {
-            return await context.Shipping_Details.Where(x=>x.Order_Id==id).ToListAsync();
+            return await context.Shipping_Details.Where(x=>x.Shipper_Id==id).ToListAsync();
         }
     }
 }

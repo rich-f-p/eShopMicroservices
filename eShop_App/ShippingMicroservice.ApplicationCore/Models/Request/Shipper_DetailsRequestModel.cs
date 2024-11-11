@@ -10,7 +10,7 @@ namespace ShippingMicroservice.ApplicationCore.Models.Request
     {
         public int Id { get; set; }
         public int Order_Id { get; set; }
-        public int Shipping_Id { get; set; }
+        public int Shipper_Id { get; set; }
         public string? Shipping_Status { get; set; }
         public string? Tracking_Number { get; set; }
     }
