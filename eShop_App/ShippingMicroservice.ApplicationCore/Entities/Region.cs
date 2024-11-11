@@ -11,5 +11,7 @@ namespace ShippingMicroservice.ApplicationCore.Entities
         //KEY
         public int Id { get; set; }
         public string Name { get; set; }
+
+        public ICollection<Shipper_Region>? Shippers { get; set; }
     }
 }

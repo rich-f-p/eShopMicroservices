@@ -15,12 +15,6 @@
 			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
 		</PackageReference>
 	</ItemGroup>
-	
-  <ItemGroup>
-    <Folder Include="Data\" />
-    <Folder Include="Repository\" />
-    <Folder Include="Services\" />
-  </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\ShippingMicroservice.ApplicationCore\ShippingMicroservice.ApplicationCore.csproj" />

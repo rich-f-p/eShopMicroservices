@@ -1,0 +1,192 @@
+[
+  {
+    "ContainingType": "ShippingMicroservice.API.Controllers.ShippingController",
+    "Method": "GetAll",
+    "RelativePath": "api/shipper",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShippingMicroservice.API.Controllers.ShippingController",
+    "Method": "postShipper",
+    "RelativePath": "api/shipper",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "ShippingMicroservice.ApplicationCore.Models.Request.ShipperRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShippingMicroservice.API.Controllers.ShippingController",
+    "Method": "update",
+    "RelativePath": "api/shipper",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "ShippingMicroservice.ApplicationCore.Models.Request.ShipperRequestModel",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShippingMicroservice.API.Controllers.ShippingController",
+    "Method": "GetById",
+    "RelativePath": "api/shipper/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShippingMicroservice.API.Controllers.ShippingController",
+    "Method": "delete",
+    "RelativePath": "api/shipper/delete-{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShippingMicroservice.API.Controllers.ShippingController",
+    "Method": "GetByRegion",
+    "RelativePath": "api/shipper/region/{region}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "region",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShippingMicroservice.API.Controllers.ShippingDetailsController",
+    "Method": "GetAll",
+    "RelativePath": "api/ShippingDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShippingMicroservice.API.Controllers.ShippingDetailsController",
+    "Method": "postDetail",
+    "RelativePath": "api/ShippingDetails",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "ShippingMicroservice.ApplicationCore.Models.Request.Shipper_DetailsRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShippingMicroservice.API.Controllers.ShippingDetailsController",
+    "Method": "update",
+    "RelativePath": "api/ShippingDetails",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "ShippingMicroservice.ApplicationCore.Models.Request.Shipper_DetailsRequestModel",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShippingMicroservice.API.Controllers.ShippingDetailsController",
+    "Method": "GetById",
+    "RelativePath": "api/ShippingDetails/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShippingMicroservice.API.Controllers.ShippingDetailsController",
+    "Method": "delete",
+    "RelativePath": "api/ShippingDetails/delete-{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShippingMicroservice.API.Controllers.ShippingDetailsController",
+    "Method": "GetByShipper",
+    "RelativePath": "api/ShippingDetails/Shipper/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
