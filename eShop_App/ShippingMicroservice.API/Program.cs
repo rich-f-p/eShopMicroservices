@@ -15,7 +15,9 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<ShippingMicroserviceDbContext>(option => {
-    option.UseSqlServer(builder.Configuration.GetConnectionString("ShippingMicroserviceDb"));
+    //option.UseSqlServer(builder.Configuration.GetConnectionString("ShippingMicroserviceDb"));
+    option.UseSqlServer(Environment.GetEnvironmentVariable("ShippingConnectionDb"));
+
 });
 
 builder.Services.AddAutoMapper(typeof(Program));

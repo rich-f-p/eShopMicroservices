@@ -15,7 +15,9 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<PromotionMicroserviceDbContext>(option => {
-    option.UseSqlServer(builder.Configuration.GetConnectionString("PromotionMicroserviceDb"));
+    //option.UseSqlServer(builder.Configuration.GetConnectionString("PromotionMicroserviceDb"));
+    option.UseSqlServer(Environment.GetEnvironmentVariable("PromotionConnectionDb"));
+
 });
 
 builder.Services.AddAutoMapper(typeof(Program));

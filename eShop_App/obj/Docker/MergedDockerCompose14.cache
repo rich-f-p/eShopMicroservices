@@ -1,0 +1,83 @@
+name: dockercompose13683130133906402508
+services:
+  ordermicroservice.api:
+    build:
+      context: C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App
+      dockerfile: OrderMicroservice.API/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+    image: ordermicroserviceapi
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 8080
+      protocol: tcp
+    - mode: ingress
+      target: 8080
+      published: "55446"
+      protocol: tcp
+  productmicroservice.api:
+    build:
+      context: C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App
+      dockerfile: ProductMicroservice.API/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+    image: productmicroserviceapi
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 8080
+      protocol: tcp
+    - mode: ingress
+      target: 8080
+      published: "55447"
+      protocol: tcp
+  promotionsmicroservice.api:
+    build:
+      context: C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App
+      dockerfile: PromotionsMicroservice.API/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+    image: promotionsmicroserviceapi
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 8080
+      protocol: tcp
+  reviewsmicroservice.api:
+    build:
+      context: C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App
+      dockerfile: ReviewsMicroservice.API/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+    image: reviewsmicroserviceapi
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 8080
+      protocol: tcp
+  shippingmicroservice.api:
+    build:
+      context: C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App
+      dockerfile: ShippingMicroservice.API/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+    image: shippingmicroserviceapi
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 8080
+      protocol: tcp
+networks:
+  default:
+    name: dockercompose13683130133906402508_default

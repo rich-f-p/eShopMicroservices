@@ -15,7 +15,9 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<ReviewMicroserviceDbContext>(option => {
-    option.UseSqlServer(builder.Configuration.GetConnectionString("CustomerReviewMicroserviceDb"));
+    //option.UseSqlServer(builder.Configuration.GetConnectionString("CustomerReviewMicroserviceDb"));
+    option.UseSqlServer(Environment.GetEnvironmentVariable("ReviewsConnectionDb"));
+
 });
 
 builder.Services.AddAutoMapper(typeof(Program));

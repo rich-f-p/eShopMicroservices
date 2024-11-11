@@ -1,0 +1,44 @@
+services:
+  ordermicroservice.api:
+    image: ${DOCKER_REGISTRY-}ordermicroserviceapi
+    build:
+      context: .
+      dockerfile: OrderMicroservice.API/Dockerfile
+    ports:
+        - 55446:8080 
+
+  productmicroservice.api:
+    image: ${DOCKER_REGISTRY-}productmicroserviceapi
+    build:
+      context: .
+      dockerfile: ProductMicroservice.API/Dockerfile
+    ports:
+        - 55447:8080 
+
+
+  promotionsmicroservice.api:
+    image: ${DOCKER_REGISTRY-}promotionsmicroserviceapi
+    build:
+      context: .
+      dockerfile: PromotionsMicroservice.API/Dockerfile
+    ports:
+        - 55448:8080 
+
+
+  reviewsmicroservice.api:
+    image: ${DOCKER_REGISTRY-}reviewsmicroserviceapi
+    build:
+      context: .
+      dockerfile: ReviewsMicroservice.API/Dockerfile
+    ports:
+        - 55449:8080
+
+
+  shippingmicroservice.api:
+    image: ${DOCKER_REGISTRY-}shippingmicroserviceapi
+    build:
+      context: .
+      dockerfile: ShippingMicroservice.API/Dockerfile
+    ports:
+        - 55450:8080 
+

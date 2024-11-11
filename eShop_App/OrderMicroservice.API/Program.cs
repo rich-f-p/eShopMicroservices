@@ -15,7 +15,8 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<OrderMicroDbContext>(option => {
-    option.UseSqlServer(builder.Configuration.GetConnectionString("OrderMicroserviceDb"));
+    //option.UseSqlServer(builder.Configuration.GetConnectionString("OrderMicroserviceDb"));
+    option.UseSqlServer(Environment.GetEnvironmentVariable("OrderConnectionDb"));
 });
 
 builder.Services.AddAutoMapper(typeof(Program));
