@@ -3,6 +3,74 @@
   "WorkspaceRootPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5BA5FE2B-2E23-4795-BE42-C95C3FEC85E9}|PromotionsMicroservice.ApplicationCore\\PromotionsMicroservice.ApplicationCore.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\promotionsmicroservice.applicationcore\\models\\request\\promotionrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA5FE2B-2E23-4795-BE42-C95C3FEC85E9}|PromotionsMicroservice.ApplicationCore\\PromotionsMicroservice.ApplicationCore.csproj|solutionrelative:promotionsmicroservice.applicationcore\\models\\request\\promotionrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.Infrastructure\\Migrations\\20241111122629_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PromotionsMicroservice.Infrastructure\\Migrations\\20241111122629_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.Infrastructure\\Migrations\\20241111122504_update date values.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PromotionsMicroservice.Infrastructure\\Migrations\\20241111122504_update date values.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA5FE2B-2E23-4795-BE42-C95C3FEC85E9}|PromotionsMicroservice.ApplicationCore\\PromotionsMicroservice.ApplicationCore.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\promotionsmicroservice.applicationcore\\models\\response\\promotionresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA5FE2B-2E23-4795-BE42-C95C3FEC85E9}|PromotionsMicroservice.ApplicationCore\\PromotionsMicroservice.ApplicationCore.csproj|solutionrelative:promotionsmicroservice.applicationcore\\models\\response\\promotionresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA5FE2B-2E23-4795-BE42-C95C3FEC85E9}|PromotionsMicroservice.ApplicationCore\\PromotionsMicroservice.ApplicationCore.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\promotionsmicroservice.applicationcore\\entities\\promotionsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA5FE2B-2E23-4795-BE42-C95C3FEC85E9}|PromotionsMicroservice.ApplicationCore\\PromotionsMicroservice.ApplicationCore.csproj|solutionrelative:promotionsmicroservice.applicationcore\\entities\\promotionsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52A2DE13-E85B-4E7D-9134-1A4EB6EF526F}|PromotionsMicroservice.Infrastructure\\PromotionsMicroservice.Infrastructure.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\promotionsmicroservice.infrastructure\\repository\\promotionsalerepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52A2DE13-E85B-4E7D-9134-1A4EB6EF526F}|PromotionsMicroservice.Infrastructure\\PromotionsMicroservice.Infrastructure.csproj|solutionrelative:promotionsmicroservice.infrastructure\\repository\\promotionsalerepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52A2DE13-E85B-4E7D-9134-1A4EB6EF526F}|PromotionsMicroservice.Infrastructure\\PromotionsMicroservice.Infrastructure.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\promotionsmicroservice.infrastructure\\repository\\promotion_detailsrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52A2DE13-E85B-4E7D-9134-1A4EB6EF526F}|PromotionsMicroservice.Infrastructure\\PromotionsMicroservice.Infrastructure.csproj|solutionrelative:promotionsmicroservice.infrastructure\\repository\\promotion_detailsrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52A2DE13-E85B-4E7D-9134-1A4EB6EF526F}|PromotionsMicroservice.Infrastructure\\PromotionsMicroservice.Infrastructure.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\promotionsmicroservice.infrastructure\\services\\promotionserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52A2DE13-E85B-4E7D-9134-1A4EB6EF526F}|PromotionsMicroservice.Infrastructure\\PromotionsMicroservice.Infrastructure.csproj|solutionrelative:promotionsmicroservice.infrastructure\\services\\promotionserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA3A79-A8E4-47E1-88E8-0D0002B9B012}|ReviewsMicroservice.Infrastructure\\ReviewsMicroservice.Infrastructure.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\reviewsmicroservice.infrastructure\\services\\reviewserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AA3A79-A8E4-47E1-88E8-0D0002B9B012}|ReviewsMicroservice.Infrastructure\\ReviewsMicroservice.Infrastructure.csproj|solutionrelative:reviewsmicroservice.infrastructure\\services\\reviewserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA3A79-A8E4-47E1-88E8-0D0002B9B012}|ReviewsMicroservice.Infrastructure\\ReviewsMicroservice.Infrastructure.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\reviewsmicroservice.infrastructure\\repository\\baserepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AA3A79-A8E4-47E1-88E8-0D0002B9B012}|ReviewsMicroservice.Infrastructure\\ReviewsMicroservice.Infrastructure.csproj|solutionrelative:reviewsmicroservice.infrastructure\\repository\\baserepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA3A79-A8E4-47E1-88E8-0D0002B9B012}|ReviewsMicroservice.Infrastructure\\ReviewsMicroservice.Infrastructure.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\reviewsmicroservice.infrastructure\\repository\\reviewrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AA3A79-A8E4-47E1-88E8-0D0002B9B012}|ReviewsMicroservice.Infrastructure\\ReviewsMicroservice.Infrastructure.csproj|solutionrelative:reviewsmicroservice.infrastructure\\repository\\reviewrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.Infrastructure\\Migrations\\20241111115230_change approval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReviewsMicroservice.Infrastructure\\Migrations\\20241111115230_change approval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B475A6ED-0A0F-42B2-8FB2-6175ABAB8CE5}|ReviewsMicroservice.ApplicationCore\\ReviewsMicroservice.ApplicationCore.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\reviewsmicroservice.applicationcore\\entities\\customer_review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B475A6ED-0A0F-42B2-8FB2-6175ABAB8CE5}|ReviewsMicroservice.ApplicationCore\\ReviewsMicroservice.ApplicationCore.csproj|solutionrelative:reviewsmicroservice.applicationcore\\entities\\customer_review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B475A6ED-0A0F-42B2-8FB2-6175ABAB8CE5}|ReviewsMicroservice.ApplicationCore\\ReviewsMicroservice.ApplicationCore.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\reviewsmicroservice.applicationcore\\models\\request\\reviewrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B475A6ED-0A0F-42B2-8FB2-6175ABAB8CE5}|ReviewsMicroservice.ApplicationCore\\ReviewsMicroservice.ApplicationCore.csproj|solutionrelative:reviewsmicroservice.applicationcore\\models\\request\\reviewrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B475A6ED-0A0F-42B2-8FB2-6175ABAB8CE5}|ReviewsMicroservice.ApplicationCore\\ReviewsMicroservice.ApplicationCore.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\reviewsmicroservice.applicationcore\\models\\response\\reviewresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B475A6ED-0A0F-42B2-8FB2-6175ABAB8CE5}|ReviewsMicroservice.ApplicationCore\\ReviewsMicroservice.ApplicationCore.csproj|solutionrelative:reviewsmicroservice.applicationcore\\models\\response\\reviewresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.applicationcore\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:ordermicroservice.applicationcore\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ShippingMicroservice.Infrastructure\\Migrations\\20241111113732_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ShippingMicroservice.Infrastructure\\Migrations\\20241111113732_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B6E49C8D-A2A2-415B-B956-7438714CA618}|ShippingMicroservice.ApplicationCore\\ShippingMicroservice.ApplicationCore.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\shippingmicroservice.applicationcore\\entities\\shipping_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6E49C8D-A2A2-415B-B956-7438714CA618}|ShippingMicroservice.ApplicationCore\\ShippingMicroservice.ApplicationCore.csproj|solutionrelative:shippingmicroservice.applicationcore\\entities\\shipping_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +89,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B6E49C8D-A2A2-415B-B956-7438714CA618}|ShippingMicroservice.ApplicationCore\\ShippingMicroservice.ApplicationCore.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\shippingmicroservice.applicationcore\\models\\request\\shipperrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6E49C8D-A2A2-415B-B956-7438714CA618}|ShippingMicroservice.ApplicationCore\\ShippingMicroservice.ApplicationCore.csproj|solutionrelative:shippingmicroservice.applicationcore\\models\\request\\shipperrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.applicationcore\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D6CC16A-308A-4288-B6B2-AB9595EFA817}|OrderMicroservice.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:ordermicroservice.applicationcore\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ShippingMicroservice.Infrastructure\\Migrations\\20241111112228_getbyshipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -98,7 +162,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,7 +170,215 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241111122629_Init.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.Infrastructure\\Migrations\\20241111122629_Init.cs",
+              "RelativeDocumentMoniker": "PromotionsMicroservice.Infrastructure\\Migrations\\20241111122629_Init.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.Infrastructure\\Migrations\\20241111122629_Init.cs",
+              "RelativeToolTip": "PromotionsMicroservice.Infrastructure\\Migrations\\20241111122629_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:26:29.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241111122504_update date values.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.Infrastructure\\Migrations\\20241111122504_update date values.cs",
+              "RelativeDocumentMoniker": "PromotionsMicroservice.Infrastructure\\Migrations\\20241111122504_update date values.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.Infrastructure\\Migrations\\20241111122504_update date values.cs",
+              "RelativeToolTip": "PromotionsMicroservice.Infrastructure\\Migrations\\20241111122504_update date values.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:25:04.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PromotionResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.ApplicationCore\\Models\\Response\\PromotionResponseModel.cs",
+              "RelativeDocumentMoniker": "PromotionsMicroservice.ApplicationCore\\Models\\Response\\PromotionResponseModel.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.ApplicationCore\\Models\\Response\\PromotionResponseModel.cs",
+              "RelativeToolTip": "PromotionsMicroservice.ApplicationCore\\Models\\Response\\PromotionResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:05:58.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PromotionSale.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.ApplicationCore\\Entities\\PromotionSale.cs",
+              "RelativeDocumentMoniker": "PromotionsMicroservice.ApplicationCore\\Entities\\PromotionSale.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.ApplicationCore\\Entities\\PromotionSale.cs",
+              "RelativeToolTip": "PromotionsMicroservice.ApplicationCore\\Entities\\PromotionSale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:22:02.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Promotion_DetailsRepositoryAsync.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.Infrastructure\\Repository\\Promotion_DetailsRepositoryAsync.cs",
+              "RelativeDocumentMoniker": "PromotionsMicroservice.Infrastructure\\Repository\\Promotion_DetailsRepositoryAsync.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.Infrastructure\\Repository\\Promotion_DetailsRepositoryAsync.cs",
+              "RelativeToolTip": "PromotionsMicroservice.Infrastructure\\Repository\\Promotion_DetailsRepositoryAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:13:50.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "PromotionSaleRepositoryAsync.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.Infrastructure\\Repository\\PromotionSaleRepositoryAsync.cs",
+              "RelativeDocumentMoniker": "PromotionsMicroservice.Infrastructure\\Repository\\PromotionSaleRepositoryAsync.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.Infrastructure\\Repository\\PromotionSaleRepositoryAsync.cs",
+              "RelativeToolTip": "PromotionsMicroservice.Infrastructure\\Repository\\PromotionSaleRepositoryAsync.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBgAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:13:48.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PromotionServiceAsync.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.Infrastructure\\Services\\PromotionServiceAsync.cs",
+              "RelativeDocumentMoniker": "PromotionsMicroservice.Infrastructure\\Services\\PromotionServiceAsync.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.Infrastructure\\Services\\PromotionServiceAsync.cs",
+              "RelativeToolTip": "PromotionsMicroservice.Infrastructure\\Services\\PromotionServiceAsync.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:13:26.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PromotionRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.ApplicationCore\\Models\\Request\\PromotionRequestModel.cs",
+              "RelativeDocumentMoniker": "PromotionsMicroservice.ApplicationCore\\Models\\Request\\PromotionRequestModel.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\PromotionsMicroservice.ApplicationCore\\Models\\Request\\PromotionRequestModel.cs",
+              "RelativeToolTip": "PromotionsMicroservice.ApplicationCore\\Models\\Request\\PromotionRequestModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:06:54.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReviewServiceAsync.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.Infrastructure\\Services\\ReviewServiceAsync.cs",
+              "RelativeDocumentMoniker": "ReviewsMicroservice.Infrastructure\\Services\\ReviewServiceAsync.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.Infrastructure\\Services\\ReviewServiceAsync.cs",
+              "RelativeToolTip": "ReviewsMicroservice.Infrastructure\\Services\\ReviewServiceAsync.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAUwEsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:02:00.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseRepositoryAsync.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.Infrastructure\\Repository\\BaseRepositoryAsync.cs",
+              "RelativeDocumentMoniker": "ReviewsMicroservice.Infrastructure\\Repository\\BaseRepositoryAsync.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.Infrastructure\\Repository\\BaseRepositoryAsync.cs",
+              "RelativeToolTip": "ReviewsMicroservice.Infrastructure\\Repository\\BaseRepositoryAsync.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:59:42.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReviewRepositoryAsync.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.Infrastructure\\Repository\\ReviewRepositoryAsync.cs",
+              "RelativeDocumentMoniker": "ReviewsMicroservice.Infrastructure\\Repository\\ReviewRepositoryAsync.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.Infrastructure\\Repository\\ReviewRepositoryAsync.cs",
+              "RelativeToolTip": "ReviewsMicroservice.Infrastructure\\Repository\\ReviewRepositoryAsync.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:59:34.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241111115230_change approval.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.Infrastructure\\Migrations\\20241111115230_change approval.cs",
+              "RelativeDocumentMoniker": "ReviewsMicroservice.Infrastructure\\Migrations\\20241111115230_change approval.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.Infrastructure\\Migrations\\20241111115230_change approval.cs",
+              "RelativeToolTip": "ReviewsMicroservice.Infrastructure\\Migrations\\20241111115230_change approval.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:52:31.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReviewResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.ApplicationCore\\Models\\Response\\ReviewResponseModel.cs",
+              "RelativeDocumentMoniker": "ReviewsMicroservice.ApplicationCore\\Models\\Response\\ReviewResponseModel.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.ApplicationCore\\Models\\Response\\ReviewResponseModel.cs",
+              "RelativeToolTip": "ReviewsMicroservice.ApplicationCore\\Models\\Response\\ReviewResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:45:51.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Customer_Review.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.ApplicationCore\\Entities\\Customer_Review.cs",
+              "RelativeDocumentMoniker": "ReviewsMicroservice.ApplicationCore\\Entities\\Customer_Review.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.ApplicationCore\\Entities\\Customer_Review.cs",
+              "RelativeToolTip": "ReviewsMicroservice.ApplicationCore\\Entities\\Customer_Review.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wBQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:41:40.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReviewRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.ApplicationCore\\Models\\Request\\ReviewRequestModel.cs",
+              "RelativeDocumentMoniker": "ReviewsMicroservice.ApplicationCore\\Models\\Request\\ReviewRequestModel.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ReviewsMicroservice.ApplicationCore\\Models\\Request\\ReviewRequestModel.cs",
+              "RelativeToolTip": "ReviewsMicroservice.ApplicationCore\\Models\\Request\\ReviewRequestModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:41:54.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241111113732_Init.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ShippingMicroservice.Infrastructure\\Migrations\\20241111113732_Init.cs",
+              "RelativeDocumentMoniker": "ShippingMicroservice.Infrastructure\\Migrations\\20241111113732_Init.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ShippingMicroservice.Infrastructure\\Migrations\\20241111113732_Init.cs",
+              "RelativeToolTip": "ShippingMicroservice.Infrastructure\\Migrations\\20241111113732_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:37:32.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Address.cs",
               "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.ApplicationCore\\Entities\\Address.cs",
               "RelativeDocumentMoniker": "OrderMicroservice.ApplicationCore\\Entities\\Address.cs",
@@ -119,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 22,
               "Title": "20241111112228_getbyshipper.cs",
               "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ShippingMicroservice.Infrastructure\\Migrations\\20241111112228_getbyshipper.cs",
               "RelativeDocumentMoniker": "ShippingMicroservice.Infrastructure\\Migrations\\20241111112228_getbyshipper.cs",
@@ -127,12 +399,11 @@
               "RelativeToolTip": "ShippingMicroservice.Infrastructure\\Migrations\\20241111112228_getbyshipper.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwC0AAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T11:22:28.453Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T11:22:28.453Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 24,
               "Title": "Shipper_DetailsResponseModel.cs",
               "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ShippingMicroservice.ApplicationCore\\Models\\Response\\Shipper_DetailsResponseModel.cs",
               "RelativeDocumentMoniker": "ShippingMicroservice.ApplicationCore\\Models\\Response\\Shipper_DetailsResponseModel.cs",
@@ -140,12 +411,11 @@
               "RelativeToolTip": "ShippingMicroservice.ApplicationCore\\Models\\Response\\Shipper_DetailsResponseModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T11:21:05.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T11:21:05.889Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 23,
               "Title": "Shipping_DetailsRepositoryAsync.cs",
               "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ShippingMicroservice.Infrastructure\\Repository\\Shipping_DetailsRepositoryAsync.cs",
               "RelativeDocumentMoniker": "ShippingMicroservice.Infrastructure\\Repository\\Shipping_DetailsRepositoryAsync.cs",
@@ -153,12 +423,11 @@
               "RelativeToolTip": "ShippingMicroservice.Infrastructure\\Repository\\Shipping_DetailsRepositoryAsync.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T11:20:06.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T11:20:06.3Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 20,
               "Title": "Region.cs",
               "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ShippingMicroservice.ApplicationCore\\Entities\\Region.cs",
               "RelativeDocumentMoniker": "ShippingMicroservice.ApplicationCore\\Entities\\Region.cs",
@@ -166,12 +435,11 @@
               "RelativeToolTip": "ShippingMicroservice.ApplicationCore\\Entities\\Region.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T09:13:42.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T09:13:42.818Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 19,
               "Title": "Shipper.cs",
               "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ShippingMicroservice.ApplicationCore\\Entities\\Shipper.cs",
               "RelativeDocumentMoniker": "ShippingMicroservice.ApplicationCore\\Entities\\Shipper.cs",
@@ -179,12 +447,11 @@
               "RelativeToolTip": "ShippingMicroservice.ApplicationCore\\Entities\\Shipper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T10:17:17.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T10:17:17.123Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 21,
               "Title": "ShipperRequestModel.cs",
               "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ShippingMicroservice.ApplicationCore\\Models\\Request\\ShipperRequestModel.cs",
               "RelativeDocumentMoniker": "ShippingMicroservice.ApplicationCore\\Models\\Request\\ShipperRequestModel.cs",
@@ -192,12 +459,11 @@
               "RelativeToolTip": "ShippingMicroservice.ApplicationCore\\Models\\Request\\ShipperRequestModel.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAiwAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T10:17:04.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T10:17:04.924Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 18,
               "Title": "Shipper_Region.cs",
               "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ShippingMicroservice.ApplicationCore\\Entities\\Shipper_Region.cs",
               "RelativeDocumentMoniker": "ShippingMicroservice.ApplicationCore\\Entities\\Shipper_Region.cs",
@@ -205,12 +471,11 @@
               "RelativeToolTip": "ShippingMicroservice.ApplicationCore\\Entities\\Shipper_Region.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T09:14:20.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T09:14:20.812Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 17,
               "Title": "Shipping_Details.cs",
               "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ShippingMicroservice.ApplicationCore\\Entities\\Shipping_Details.cs",
               "RelativeDocumentMoniker": "ShippingMicroservice.ApplicationCore\\Entities\\Shipping_Details.cs",
@@ -223,7 +488,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 25,
               "Title": "Shipper_DetailsRequestModel.cs",
               "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ShippingMicroservice.ApplicationCore\\Models\\Request\\Shipper_DetailsRequestModel.cs",
               "RelativeDocumentMoniker": "ShippingMicroservice.ApplicationCore\\Models\\Request\\Shipper_DetailsRequestModel.cs",
@@ -231,12 +496,11 @@
               "RelativeToolTip": "ShippingMicroservice.ApplicationCore\\Models\\Request\\Shipper_DetailsRequestModel.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAA2wAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T09:49:25.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T09:49:25.46Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 26,
               "Title": "ShippingDetailsServiceAsync.cs",
               "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ShippingMicroservice.Infrastructure\\Services\\ShippingDetailsServiceAsync.cs",
               "RelativeDocumentMoniker": "ShippingMicroservice.Infrastructure\\Services\\ShippingDetailsServiceAsync.cs",
@@ -244,12 +508,11 @@
               "RelativeToolTip": "ShippingMicroservice.Infrastructure\\Services\\ShippingDetailsServiceAsync.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T11:19:50.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T11:19:50.971Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 27,
               "Title": "ApplicationMapper.cs",
               "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ShippingMicroservice.API\\Helper\\Mapper\\ApplicationMapper.cs",
               "RelativeDocumentMoniker": "ShippingMicroservice.API\\Helper\\Mapper\\ApplicationMapper.cs",
@@ -257,12 +520,11 @@
               "RelativeToolTip": "ShippingMicroservice.API\\Helper\\Mapper\\ApplicationMapper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T11:14:14.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T11:14:14.968Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 32,
               "Title": "20241111095108_Init.cs",
               "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ShippingMicroservice.Infrastructure\\Migrations\\20241111095108_Init.cs",
               "RelativeDocumentMoniker": "ShippingMicroservice.Infrastructure\\Migrations\\20241111095108_Init.cs",
@@ -274,7 +536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 28,
               "Title": "ShipperRepositoryAsync.cs",
               "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ShippingMicroservice.Infrastructure\\Repository\\ShipperRepositoryAsync.cs",
               "RelativeDocumentMoniker": "ShippingMicroservice.Infrastructure\\Repository\\ShipperRepositoryAsync.cs",
@@ -282,12 +544,11 @@
               "RelativeToolTip": "ShippingMicroservice.Infrastructure\\Repository\\ShipperRepositoryAsync.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAwwCEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T10:46:28.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T10:46:28.315Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 29,
               "Title": "RegionRequestModel.cs",
               "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ShippingMicroservice.ApplicationCore\\Models\\Request\\RegionRequestModel.cs",
               "RelativeDocumentMoniker": "ShippingMicroservice.ApplicationCore\\Models\\Request\\RegionRequestModel.cs",
@@ -299,7 +560,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 30,
               "Title": "ShippingController.cs",
               "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ShippingMicroservice.API\\Controllers\\ShippingController.cs",
               "RelativeDocumentMoniker": "ShippingMicroservice.API\\Controllers\\ShippingController.cs",
@@ -311,7 +572,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 31,
               "Title": "ShippingDetailsController.cs",
               "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ShippingMicroservice.API\\Controllers\\ShippingDetailsController.cs",
               "RelativeDocumentMoniker": "ShippingMicroservice.API\\Controllers\\ShippingDetailsController.cs",
@@ -323,7 +584,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 34,
               "Title": "Shipper_RegionResponseModel.cs",
               "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ShippingMicroservice.ApplicationCore\\Models\\Response\\Shipper_RegionResponseModel.cs",
               "RelativeDocumentMoniker": "ShippingMicroservice.ApplicationCore\\Models\\Response\\Shipper_RegionResponseModel.cs",
@@ -335,7 +596,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 36,
               "Title": "Product_Variation_Values.cs",
               "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ProductMicroservice.ApplicationCore\\Entities\\Product_Variation_Values.cs",
               "RelativeDocumentMoniker": "ProductMicroservice.ApplicationCore\\Entities\\Product_Variation_Values.cs",
@@ -347,7 +608,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 33,
               "Title": "ShipperResponseModel.cs",
               "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ShippingMicroservice.ApplicationCore\\Models\\Response\\ShipperResponseModel.cs",
               "RelativeDocumentMoniker": "ShippingMicroservice.ApplicationCore\\Models\\Response\\ShipperResponseModel.cs",
@@ -359,7 +620,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 35,
               "Title": "ShippingMicroserviceDbContext.cs",
               "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ShippingMicroservice.Infrastructure\\Data\\ShippingMicroserviceDbContext.cs",
               "RelativeDocumentMoniker": "ShippingMicroservice.Infrastructure\\Data\\ShippingMicroserviceDbContext.cs",
@@ -371,7 +632,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 37,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\ShippingMicroservice.API\\Program.cs",
               "RelativeDocumentMoniker": "ShippingMicroservice.API\\Program.cs",

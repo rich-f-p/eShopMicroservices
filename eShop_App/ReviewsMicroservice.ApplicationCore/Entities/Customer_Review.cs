@@ -18,6 +18,6 @@ namespace ReviewsMicroservice.ApplicationCore.Entities
         public int Rating_Value { get; set; }
         public string Comment { get; set; }
         public DateTime Review_Date { get; set; }
-        public string AdminApproval { get; set; }
+        public string? AdminApproval { get; set; }
     }
 }

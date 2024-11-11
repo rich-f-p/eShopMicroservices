@@ -8,19 +8,19 @@ using System.Threading.Tasks;
 namespace ReviewsMicroservice.ApplicationCore.Models.Request
 {
     public class ReviewRequestModel
-    {
+    { 
         public int Id { get; set; }
-        public string? customerId { get; set; }
-        [Range(2,256, ErrorMessage = "min{1} max{2}")]
-        public string CustomerName { get; set; }
-        public string? OrderId { get; set; }
+        public int Customer_Id { get; set; }
+        [StringLength(256, MinimumLength = 2, ErrorMessage = "min{2} max{1}")]
+        public string Customer_Name { get; set; }
+        public int Order_Id { get; set; }
         public DateTime Order_Date { get; set; }
-        public string? ProductId { get; set; }
-        [Range(2, 255, ErrorMessage = "min{1} max{2}")]
-        public string ProductName { get; set; }
-        public double RatingValue { get; set; }
-        [Range(2, 500, ErrorMessage = "min{1} max{2}")]
+        public int Product_Id { get; set; }
+        [StringLength(255, MinimumLength = 2, ErrorMessage = "min{2} max{1}")]
+        public string Product_Name { get; set; }
+        public int Rating_Value { get; set; }
+        [StringLength(500, MinimumLength = 2, ErrorMessage = "min{2} max{1}")]
         public string Comment { get; set; }
-        public DateTime ReviewDate { get; set; }
+        public DateTime Review_Date { get; set; }
     }
 }

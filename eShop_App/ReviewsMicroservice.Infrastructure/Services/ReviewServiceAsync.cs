@@ -7,6 +7,7 @@ using ReviewsMicroservice.ApplicationCore.Models.Response;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -70,6 +71,10 @@ namespace ReviewsMicroservice.Infrastructure.Services
 
         public async Task<int> UpdateReviewAsync(ReviewRequestModel model)
         {
+            if (model.Id < 1)
+            {
+                throw new Exception("id is less than 1");
+            }
             return await reviewsRepo.UpdateAsync(mapper.Map<Customer_Review>(model));
         }
     }

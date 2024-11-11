@@ -22,7 +22,7 @@ namespace PromotionsMicroservice.Infrastructure.Repository
         public async Task<IEnumerable<PromotionSale>> GetActivePromotionsAsync()
         {
             DateTime today = DateTime.Now;
-            return context.Promotion.Where(x => DateTime.Parse(x.Start_Date) < today && today < DateTime.Parse(x.End_Date));
+            return context.Promotion.Where(x => x.Start_Date <= today && today <= x.End_Date);
         }
 
         public async Task<PromotionSale> PromotionByProductNameAsync(string name)

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReviewsMicroservice.ApplicationCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1360d8614419d306df9b51ee8b747dfecd94720")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a3068cf0681161045312a8981c54239df45fb7c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReviewsMicroservice.ApplicationCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReviewsMicroservice.ApplicationCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

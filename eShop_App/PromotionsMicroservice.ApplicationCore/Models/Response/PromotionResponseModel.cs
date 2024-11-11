@@ -13,8 +13,8 @@ namespace PromotionsMicroservice.ApplicationCore.Models.Response
         public string Name { get; set; }
         public string Description { get; set; }
         public double Discount { get; set; }
-        public string Start_Date { get; set; }
-        public string End_Date { get; set; }
+        public DateTime Start_Date { get; set; }
+        public DateTime End_Date { get; set; }
 
         public ICollection<Promotion_Details>? Details { get; set; }
     }

@@ -12,7 +12,7 @@ using PromotionsMicroservice.Infrastructure.Data;
 namespace PromotionsMicroservice.Infrastructure.Migrations
 {
     [DbContext(typeof(PromotionMicroserviceDbContext))]
-    [Migration("20241109112312_Init")]
+    [Migration("20241111122629_Init")]
     partial class Init
     {
         /// <inheritdoc />
@@ -40,17 +40,15 @@ namespace PromotionsMicroservice.Infrastructure.Migrations
                     b.Property<double>("Discount")
                         .HasColumnType("float");
 
-                    b.Property<string>("End_Date")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<DateTime>("End_Date")
+                        .HasColumnType("datetime2");
 
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Start_Date")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<DateTime>("Start_Date")
+                        .HasColumnType("datetime2");
 
                     b.HasKey("Id");
 
