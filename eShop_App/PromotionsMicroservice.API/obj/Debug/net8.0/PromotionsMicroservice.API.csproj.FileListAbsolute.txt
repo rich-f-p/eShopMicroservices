@@ -178,3 +178,10 @@ C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMic
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMicroservice.API\bin\Debug\net8.0\PromotionsMicroservice.Infrastructure.dll
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMicroservice.API\bin\Debug\net8.0\PromotionsMicroservice.Infrastructure.pdb
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMicroservice.API\bin\Debug\net8.0\PromotionsMicroservice.ApplicationCore.pdb
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMicroservice.API\bin\Debug\net8.0\Azure.Core.Amqp.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMicroservice.API\bin\Debug\net8.0\Azure.Messaging.ServiceBus.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMicroservice.API\bin\Debug\net8.0\Azure.Storage.Common.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMicroservice.API\bin\Debug\net8.0\Azure.Storage.Queues.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMicroservice.API\bin\Debug\net8.0\Microsoft.Azure.Amqp.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMicroservice.API\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMicroservice.API\bin\Debug\net8.0\System.IO.Hashing.dll

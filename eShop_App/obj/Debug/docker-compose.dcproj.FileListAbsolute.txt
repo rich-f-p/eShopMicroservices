@@ -68,3 +68,8 @@ C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\bin\Debug\Shi
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\bin\Debug\RabbitMqHelper.dll
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\bin\Debug\RabbitMQ.Client.dll
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\bin\Debug\RabbitMqHelper.pdb
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\bin\Debug\Azure.Messaging.ServiceBus.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\bin\Debug\Azure.Core.Amqp.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\bin\Debug\System.Memory.Data.dll

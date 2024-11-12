@@ -1,5 +1,7 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Azure.Messaging.ServiceBus;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using PromotionsMicroservice.API.MessageService;
 using PromotionsMicroservice.ApplicationCore.Contracts.Service;
 using PromotionsMicroservice.ApplicationCore.Models.Request;
 
@@ -10,10 +12,11 @@ namespace PromotionsMicroservice.API.Controllers
     public class Promotion : ControllerBase
     {
         private readonly IPromotionServiceAsync promotionService;
-
-        public Promotion(IPromotionServiceAsync promotionService)
+        QueueService queue;
+        public Promotion(IPromotionServiceAsync promotionService, IConfiguration configuration)
         {
             this.promotionService = promotionService;
+            queue = new QueueService(configuration);
         }
         [HttpGet]
         public async Task<IActionResult> Get()
@@ -23,6 +26,10 @@ namespace PromotionsMicroservice.API.Controllers
         [HttpPost]
         public async Task<IActionResult> PostPromotion(PromotionRequestModel model)
         {
+            //await queue.SendMessageAsync<PromotionRequestModel>(model, "promotionqueue");//testing:queue
+            await queue.ScheduledMessage<string>(model.Name + ": starting.", "promotionqueue", model.Start_Date);
+            await queue.ScheduledMessage<string>(model.Name + ": ended.", "promotionqueue", model.End_Date);
+            
             return Ok(await promotionService.SavePromotion(model));
         }
         [HttpPut]
@@ -34,7 +41,7 @@ namespace PromotionsMicroservice.API.Controllers
             }
             return BadRequest("Id doesnt match");
         }
-        [HttpPost]
+        [HttpGet]
         [Route("{id}")]
         public async Task<IActionResult> GetPromotionById(int id)
         {
@@ -58,5 +65,7 @@ namespace PromotionsMicroservice.API.Controllers
         {
             return Ok(await promotionService.GetActivePromotions());
         }
+
+
     }
 }
