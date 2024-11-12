@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cf6dIfC1hew=",
+  "dgSpecHash": "bmsTiJ0RMUE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\RabbitMqHelper\\RabbitMqHelper.csproj",
+  "projectFilePath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\RabbitMqHelper\\RabbitMqHelper.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\richa\\.nuget\\packages\\rabbitmq.client\\7.0.0\\rabbitmq.client.7.0.0.nupkg.sha512",
     "C:\\Users\\richa\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",

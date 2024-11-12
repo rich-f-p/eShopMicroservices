@@ -17,13 +17,13 @@ namespace RabbitMqHelper
             factory.ClientProvidedName = providerName;
         }
 
-        public async Task AddMessageToQueueAsync(string message, string exchangeName,string queueName, string routingKey)
+        public async Task AddMessageToQueueAsync(string message, string exchangeName, string queueName, string routingKey)
         {
             IConnection con = await factory.CreateConnectionAsync();
             var channel = await con.CreateChannelAsync();
             await channel.ExchangeDeclareAsync(exchangeName, ExchangeType.Direct);
-            await channel.QueueDeclareAsync(queueName,false,false,false);
-            await channel.QueueBindAsync(queueName,exchangeName,routingKey);
+            await channel.QueueDeclareAsync(queueName, false, false, false);
+            await channel.QueueBindAsync(queueName, exchangeName, routingKey);
             byte[] messageBodyBytes = Encoding.UTF8.GetBytes(message);
             await channel.BasicPublishAsync(exchangeName, routingKey, messageBodyBytes);
             await channel.CloseAsync();

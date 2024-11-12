@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\RabbitMqHelper\\RabbitMqHelper.csproj": {}
+    "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\RabbitMqHelper\\RabbitMqHelper.csproj": {}
   },
   "projects": {
-    "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\RabbitMqHelper\\RabbitMqHelper.csproj": {
+    "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\RabbitMqHelper\\RabbitMqHelper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\RabbitMqHelper\\RabbitMqHelper.csproj",
+        "projectUniqueName": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\RabbitMqHelper\\RabbitMqHelper.csproj",
         "projectName": "RabbitMqHelper",
-        "projectPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\RabbitMqHelper\\RabbitMqHelper.csproj",
+        "projectPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\RabbitMqHelper\\RabbitMqHelper.csproj",
         "packagesPath": "C:\\Users\\richa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\RabbitMqHelper\\obj\\",
+        "outputPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\RabbitMqHelper\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\richa\\AppData\\Roaming\\NuGet\\NuGet.Config",

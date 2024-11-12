@@ -4704,8 +4704,8 @@
     },
     "RabbitMqHelper/1.0.0": {
       "type": "project",
-      "path": "../../RabbitMqHelper/RabbitMqHelper.csproj",
-      "msbuildProject": "../../RabbitMqHelper/RabbitMqHelper.csproj"
+      "path": "../RabbitMqHelper/RabbitMqHelper.csproj",
+      "msbuildProject": "../RabbitMqHelper/RabbitMqHelper.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4751,8 +4751,8 @@
             "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.Infrastructure\\OrderMicroservice.Infrastructure.csproj": {
               "projectPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.Infrastructure\\OrderMicroservice.Infrastructure.csproj"
             },
-            "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\RabbitMqHelper\\RabbitMqHelper.csproj": {
-              "projectPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\RabbitMqHelper\\RabbitMqHelper.csproj"
+            "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\RabbitMqHelper\\RabbitMqHelper.csproj": {
+              "projectPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\RabbitMqHelper\\RabbitMqHelper.csproj"
             }
           }
         }

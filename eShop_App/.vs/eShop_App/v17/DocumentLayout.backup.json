@@ -3,7 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{563843B7-D433-42D2-9EC7-6B3821261C71}|..\\RabbitMqHelper\\RabbitMqHelper.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\rabbitmqhelper\\messagequeue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A47E05B7-4C23-43AB-B18E-A5B1C94E9092}|RabbitMqHelper\\RabbitMqHelper.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\rabbitmqhelper\\messagequeue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47E05B7-4C23-43AB-B18E-A5B1C94E9092}|RabbitMqHelper\\RabbitMqHelper.csproj|solutionrelative:rabbitmqhelper\\messagequeue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB9017F9-F3CC-412E-9789-2BD687B2FB81}|OrderMicroservice.API\\OrderMicroservice.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -29,8 +30,21 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessageQueue.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\RabbitMqHelper\\MessageQueue.cs",
+              "RelativeDocumentMoniker": "RabbitMqHelper\\MessageQueue.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\RabbitMqHelper\\MessageQueue.cs",
+              "RelativeToolTip": "RabbitMqHelper\\MessageQueue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:33:15.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "docker-compose",
+              "Title": "docker-compose.dcproj",
               "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\docker-compose.dcproj",
               "RelativeDocumentMoniker": "docker-compose.dcproj",
               "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\docker-compose.dcproj",
@@ -38,19 +52,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-11-12T13:06:34.033Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MessageQueue.cs",
-              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\RabbitMqHelper\\MessageQueue.cs",
-              "RelativeDocumentMoniker": "..\\RabbitMqHelper\\MessageQueue.cs",
-              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\RabbitMqHelper\\MessageQueue.cs",
-              "RelativeToolTip": "..\\RabbitMqHelper\\MessageQueue.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwCcAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T12:40:14.34Z",
               "EditorCaption": ""
             },
             {
