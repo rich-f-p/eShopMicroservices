@@ -96,6 +96,22 @@
   },
   {
     "ContainingType": "OrderMicroservice.API.Controllers.OrderController",
+    "Method": "GetOrderById",
+    "RelativePath": "api/Order/GetOrderById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OrderMicroservice.API.Controllers.OrderController",
     "Method": "OrderCompleted",
     "RelativePath": "api/Order/OrderCompleted",
     "HttpMethod": "POST",

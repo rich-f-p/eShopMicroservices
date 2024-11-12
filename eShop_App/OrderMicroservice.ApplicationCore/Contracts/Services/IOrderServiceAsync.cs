@@ -18,6 +18,7 @@ namespace OrderMicroservice.ApplicationCore.Contracts.Services
         Task<int> OrderCompleted(int id);
         Task<int> UpdateOrder(OrderRequestModel order,int id);
         Task<IEnumerable<Order_DetailsResponseModel>> GetDetailsByOrderId(int id);
+        Task<OrderResponseModel> GetOrderById(int id);
 
     }
 }

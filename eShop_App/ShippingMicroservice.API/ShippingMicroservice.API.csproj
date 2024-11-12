@@ -24,4 +24,8 @@
     <ProjectReference Include="..\ShippingMicroservice.Infrastructure\ShippingMicroservice.Infrastructure.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Models\Response\" />
+  </ItemGroup>
+
 </Project>

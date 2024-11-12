@@ -1,12 +1,6 @@
-﻿using OrderMicroservice.ApplicationCore.Entities;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations.Schema;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.ComponentModel.DataAnnotations.Schema;
 
-namespace OrderMicroservice.ApplicationCore.Models.Request
+namespace ShippingMicroservice.API.Models.Request
 {
     public class OrderRequestModel
     {
@@ -26,8 +20,5 @@ namespace OrderMicroservice.ApplicationCore.Models.Request
         public decimal BillAmount { get; set; }
         [Column(TypeName = "varchar(30)")]
         public string Order_Status { get; set; }
-
-        //order can have more than one order_details
-        //public IList<Order_Details>? Details { get; }
     }
 }

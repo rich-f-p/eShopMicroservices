@@ -58,5 +58,12 @@ namespace OrderMicroservice.API.Controllers
         {
             return Ok(await orderServiceAsync.UpdateOrder(model,id));
         }
+        //GetOrderById
+        [HttpGet]
+        public async Task<IActionResult> GetOrderById(int id)
+        {
+            return Ok(await orderServiceAsync.GetOrderById(id));
+        }
+
     }
 }

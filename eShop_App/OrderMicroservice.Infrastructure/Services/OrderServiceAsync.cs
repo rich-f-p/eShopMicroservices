@@ -65,6 +65,15 @@ namespace OrderMicroservice.Infrastructure.Services
             }
             return 0;
         }
+        public async Task<OrderResponseModel> GetOrderById(int id)
+        {
+            var model = await orderRepo.GetByIdAsync(id);
+            if(model != null)
+            {
+                return mapper.Map<OrderResponseModel>(model);
+            }
+            throw new Exception("no match found");
+        }
 
     //OrderDetails
         public async Task<IEnumerable<Order_DetailsResponseModel>> GetDetailsByOrderId(int id)
