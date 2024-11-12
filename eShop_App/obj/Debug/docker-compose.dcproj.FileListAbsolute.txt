@@ -65,3 +65,6 @@ C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\bin\Debug\Rev
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\bin\Debug\ReviewsMicroservice.Infrastructure.pdb
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\bin\Debug\ShippingMicroservice.ApplicationCore.pdb
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\bin\Debug\ShippingMicroservice.Infrastructure.pdb
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\bin\Debug\RabbitMqHelper.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\bin\Debug\RabbitMQ.Client.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\bin\Debug\RabbitMqHelper.pdb

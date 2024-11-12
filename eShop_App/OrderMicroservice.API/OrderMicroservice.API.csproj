@@ -21,6 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\RabbitMqHelper\RabbitMqHelper.csproj" />
     <ProjectReference Include="..\OrderMicroservice.Infrastructure\OrderMicroservice.Infrastructure.csproj" />
   </ItemGroup>
 

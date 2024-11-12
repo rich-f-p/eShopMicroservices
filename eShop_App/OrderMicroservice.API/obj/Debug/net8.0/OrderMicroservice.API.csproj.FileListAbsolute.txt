@@ -293,3 +293,6 @@ C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\OrderMicroser
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\OrderMicroservice.API\obj\Debug\net8.0\OrderMicroservice.API.pdb
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\OrderMicroservice.API\obj\Debug\net8.0\OrderMicroservice.API.genruntimeconfig.cache
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\OrderMicroservice.API\obj\Debug\net8.0\ref\OrderMicroservice.API.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\OrderMicroservice.API\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\OrderMicroservice.API\bin\Debug\net8.0\RabbitMqHelper.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\OrderMicroservice.API\bin\Debug\net8.0\RabbitMqHelper.pdb

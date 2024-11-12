@@ -1,0 +1,13 @@
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\RabbitMqHelper\bin\Debug\net8.0\RabbitMqHelper.deps.json
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\RabbitMqHelper\bin\Debug\net8.0\RabbitMqHelper.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\RabbitMqHelper\bin\Debug\net8.0\RabbitMqHelper.pdb
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\RabbitMqHelper\obj\Debug\net8.0\RabbitMqHelper.csproj.AssemblyReference.cache
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\RabbitMqHelper\obj\Debug\net8.0\RabbitMqHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\RabbitMqHelper\obj\Debug\net8.0\RabbitMqHelper.AssemblyInfoInputs.cache
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\RabbitMqHelper\obj\Debug\net8.0\RabbitMqHelper.AssemblyInfo.cs
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\RabbitMqHelper\obj\Debug\net8.0\RabbitMqHelper.csproj.CoreCompileInputs.cache
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\RabbitMqHelper\obj\Debug\net8.0\RabbitMqHelper.sourcelink.json
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\RabbitMqHelper\obj\Debug\net8.0\RabbitMqHelper.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\RabbitMqHelper\obj\Debug\net8.0\refint\RabbitMqHelper.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\RabbitMqHelper\obj\Debug\net8.0\RabbitMqHelper.pdb
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\RabbitMqHelper\obj\Debug\net8.0\ref\RabbitMqHelper.dll
