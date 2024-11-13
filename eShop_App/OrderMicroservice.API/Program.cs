@@ -1,3 +1,4 @@
+using JwtAuthenticationManager;
 using Microsoft.EntityFrameworkCore;
 using OrderMicroservice.ApplicationCore.Contracts.Repository;
 using OrderMicroservice.ApplicationCore.Contracts.Services;
@@ -13,6 +14,8 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+//authentication extension middleware !!!
+builder.Services.AddCustomJwtAuth();
 
 builder.Services.AddDbContext<OrderMicroDbContext>(option => {
     //option.UseSqlServer(builder.Configuration.GetConnectionString("OrderMicroserviceDb"));
@@ -46,6 +49,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+//authentication injection!!!
+app.UseAuthentication();
 
 app.UseAuthorization();
 

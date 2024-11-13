@@ -27,7 +27,12 @@ namespace Authentication.Infrastructure.Services
         }
         public async Task<int> CustomerRegisterAsync(CustomerRegisterModel model)
         {
-            return await userRepo.InsertAsync(mapper.Map<User>(model));
+            //CheckIfRoleExist("Customer");
+            var UserId = await userRepo.InsertAsync(mapper.Map<User>(model));
+            var userRole = new User_Role();
+            userRole.UserId = UserId;
+            userRole.RoleId = 2;
+            return await u_RoleRepo.InsertAsync(userRole);
         }
 
         public async Task<int> DeleteAsync(int id)
@@ -52,9 +57,12 @@ namespace Authentication.Infrastructure.Services
 
         public async Task<int> RegisterAdminAsync(RegisterModel model)
         {
-            var userId = await userRepo.InsertAsync(mapper.Map<User>(model));
-
-            return userId;
+            //CheckIfRoleExist("Admin");
+            var UserId = await userRepo.InsertAsync(mapper.Map<User>(model));
+            var userRole = new User_Role();
+            userRole.UserId = UserId;
+            userRole.RoleId = 1;
+            return await u_RoleRepo.InsertAsync(userRole);
         }
 
         public async Task<int> UpdateAsync(UpdateModel model)

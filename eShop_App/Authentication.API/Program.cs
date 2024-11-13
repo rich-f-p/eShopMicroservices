@@ -14,6 +14,10 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+//authentication extension middleware
+builder.Services.AddCustomJwtAuth();
+
+builder.Services.AddCustomJwtAuth();
 builder.Services.AddSingleton<JwtTokenHandler>();
 
 builder.Services.AddDbContext<AuthenticationMicroserviceDbContext>(option => {
@@ -37,6 +41,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+//authentication injection
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();

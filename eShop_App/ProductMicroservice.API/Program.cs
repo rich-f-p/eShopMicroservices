@@ -1,3 +1,4 @@
+using JwtAuthenticationManager;
 using Microsoft.EntityFrameworkCore;
 using ProductMicroservice.ApplicationCore.Contracts.Repository;
 using ProductMicroservice.ApplicationCore.Contracts.Service;
@@ -13,6 +14,8 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+//authentication extension middleware !!!
+builder.Services.AddCustomJwtAuth();
 
 builder.Services.AddDbContext<ProductMicroserviceDbContext>(option => {
     //option.UseSqlServer(builder.Configuration.GetConnectionString("ProductMicroserviceDb"));
@@ -42,6 +45,9 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+//authentication injection
+app.UseAuthentication();
 
 app.UseAuthorization();
 

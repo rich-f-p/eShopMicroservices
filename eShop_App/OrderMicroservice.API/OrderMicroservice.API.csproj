@@ -21,6 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\JwtAuthenticationManager\JwtAuthenticationManager.csproj" />
     <ProjectReference Include="..\OrderMicroservice.Infrastructure\OrderMicroservice.Infrastructure.csproj" />
     <ProjectReference Include="..\RabbitMqHelper\RabbitMqHelper.csproj" />
   </ItemGroup>

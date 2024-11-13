@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using OrderMicroservice.ApplicationCore.Contracts.Services;
 using OrderMicroservice.Infrastructure.Services;
@@ -7,6 +8,7 @@ namespace OrderMicroservice.API.Controllers
 {
     [Route("api/[controller]/[action]")]
     [ApiController]
+    [Authorize]
     public class ShoppingCartItemController : ControllerBase
     {
         private readonly IShopping_Cart_ItemServiceAsync shoppingCartItemServiceAsync;

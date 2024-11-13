@@ -1,3 +1,4 @@
+using JwtAuthenticationManager;
 using Microsoft.EntityFrameworkCore;
 using ShippingMicroservice.ApplicationCore.Contracts.Repository;
 using ShippingMicroservice.ApplicationCore.Contracts.Services;
@@ -13,6 +14,8 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+//authentication extension middleware !!!
+builder.Services.AddCustomJwtAuth();
 
 builder.Services.AddDbContext<ShippingMicroserviceDbContext>(option => {
     //option.UseSqlServer(builder.Configuration.GetConnectionString("ShippingMicroserviceDb"));
@@ -39,6 +42,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+//authentication injection!!!
+app.UseAuthentication();
 
 app.UseAuthorization();
 

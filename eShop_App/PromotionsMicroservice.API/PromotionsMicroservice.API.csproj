@@ -23,6 +23,7 @@
 	</ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\JwtAuthenticationManager\JwtAuthenticationManager.csproj" />
     <ProjectReference Include="..\PromotionsMicroservice.Infrastructure\PromotionsMicroservice.Infrastructure.csproj" />
   </ItemGroup>
 

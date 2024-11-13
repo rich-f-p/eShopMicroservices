@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using OrderMicroservice.ApplicationCore.Contracts.Services;
 using OrderMicroservice.ApplicationCore.Models.Request;
@@ -11,6 +12,7 @@ namespace OrderMicroservice.API.Controllers
 {
     [Route("api/[controller]/[action]")]
     [ApiController]
+    [Authorize]
     public class OrderController : ControllerBase
     {
         private readonly IOrderServiceAsync orderServiceAsync;

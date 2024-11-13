@@ -1,6 +1,7 @@
 ﻿using Authentication.ApplicationCore.Contracts.Services;
 using Authentication.ApplicationCore.Models.Request;
 using JwtAuthenticationManager;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -8,6 +9,7 @@ namespace Authentication.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class AuthenticationController : ControllerBase
     {
         private readonly JwtTokenHandler tokenHandler;

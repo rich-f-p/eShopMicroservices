@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using ProductMicroservice.ApplicationCore.Contracts.Service;
 using ProductMicroservice.ApplicationCore.Models.Request;
@@ -7,6 +8,7 @@ namespace ProductMicroservice.API.Controllers
 {
     [Route("api/[controller]/[action]")]
     [ApiController]
+    [Authorize]
     public class CatagoryController : ControllerBase
     {
         private readonly ICategoryServiceAsync serviceAsync;

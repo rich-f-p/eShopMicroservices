@@ -1,3 +1,4 @@
+using JwtAuthenticationManager;
 using Microsoft.EntityFrameworkCore;
 using ReviewsMicroservice.ApplicationCore.Contracts.Repository;
 using ReviewsMicroservice.ApplicationCore.Contracts.Service;
@@ -13,6 +14,8 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+//authentication extension middleware !!!
+builder.Services.AddCustomJwtAuth();
 
 builder.Services.AddDbContext<ReviewMicroserviceDbContext>(option => {
     //option.UseSqlServer(builder.Configuration.GetConnectionString("CustomerReviewMicroserviceDb"));
@@ -36,6 +39,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+//authentication injection!!!
+app.UseAuthentication();
 
 app.UseAuthorization();
 

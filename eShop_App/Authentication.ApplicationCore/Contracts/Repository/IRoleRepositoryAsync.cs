@@ -9,5 +9,6 @@ namespace Authentication.ApplicationCore.Contracts.Repository
 {
     public interface IRoleRepositoryAsync : IRepositoryAsync<Role>
     {
+        Task<int> CheckIfRoleExist(string role);
     }
 }

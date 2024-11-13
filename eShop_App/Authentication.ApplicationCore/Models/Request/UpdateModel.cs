@@ -9,6 +9,7 @@ namespace Authentication.ApplicationCore.Models.Request
 {
     public class UpdateModel
     {
+        public int Id { get; set; }
         [Column(TypeName = "varchar(100)")]
         public string FirstName { get; set; }
         [Column(TypeName = "varchar(100)")]
@@ -19,7 +20,7 @@ namespace Authentication.ApplicationCore.Models.Request
         public string EmailId { get; set; }
         [Column(TypeName = "varchar(100)")]
         public string Password { get; set; }
-        //[Column(TypeName = "varchar(100)")]
-        //public string Salt { get; set; }
+        [Column(TypeName = "varchar(100)")]
+        public string Salt { get; set; }
     }
 }
