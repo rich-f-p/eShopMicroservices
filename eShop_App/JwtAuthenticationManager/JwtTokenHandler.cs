@@ -19,9 +19,9 @@ namespace JwtAuthenticationManager
             
         }
 
-        public AuthenticationResponse GenerateJwtToken(string Username, string Password)
+        public AuthenticationResponse GenerateJwtToken(AuthenticationRequest userAccount)
         {
-            if(string.IsNullOrEmpty(Username) || string.IsNullOrEmpty(Password))
+            if(string.IsNullOrEmpty(userAccount.UserName) || string.IsNullOrEmpty(userAccount.Password))
             {
                 return null;
             }
@@ -31,7 +31,8 @@ namespace JwtAuthenticationManager
             var tokenKey = Encoding.ASCII.GetBytes(JWT_SECURITY_KEY);
             var claimsIdentity = new ClaimsIdentity(new List<Claim>
             {
-                new Claim(JwtRegisteredClaimNames.Name,Username)
+                new Claim(JwtRegisteredClaimNames.Name,userAccount.UserName),
+                new Claim(ClaimTypes.Role,userAccount.Role),
 
             });
             var signInCredentials = new SigningCredentials(new SymmetricSecurityKey(tokenKey),SecurityAlgorithms.HmacSha256Signature);
@@ -47,7 +48,7 @@ namespace JwtAuthenticationManager
 
             return new AuthenticationResponse
             {
-                UserName = Username,
+                UserName = userAccount.UserName,
                 JwtToken = token,
                 ExpiresIn = (int)tokenExpiry.Subtract(DateTime.Now).TotalSeconds
             };

@@ -12,7 +12,7 @@ namespace OrderMicroservice.API.Controllers
 {
     [Route("api/[controller]/[action]")]
     [ApiController]
-    [Authorize]
+    [Authorize(Roles ="Customer")]
     public class OrderController : ControllerBase
     {
         private readonly IOrderServiceAsync orderServiceAsync;

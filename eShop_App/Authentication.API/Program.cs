@@ -17,7 +17,6 @@ builder.Services.AddSwaggerGen();
 //authentication extension middleware
 builder.Services.AddCustomJwtAuth();
 
-builder.Services.AddCustomJwtAuth();
 builder.Services.AddSingleton<JwtTokenHandler>();
 
 builder.Services.AddDbContext<AuthenticationMicroserviceDbContext>(option => {

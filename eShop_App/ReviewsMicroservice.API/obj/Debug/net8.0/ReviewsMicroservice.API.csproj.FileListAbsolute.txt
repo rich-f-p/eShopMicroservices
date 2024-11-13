@@ -178,3 +178,7 @@ C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ReviewsMicros
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ReviewsMicroservice.API\bin\Debug\net8.0\ReviewsMicroservice.Infrastructure.dll
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ReviewsMicroservice.API\bin\Debug\net8.0\ReviewsMicroservice.Infrastructure.pdb
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ReviewsMicroservice.API\bin\Debug\net8.0\ReviewsMicroservice.ApplicationCore.pdb
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ReviewsMicroservice.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ReviewsMicroservice.API\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ReviewsMicroservice.API\bin\Debug\net8.0\JwtAuthenticationManager.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ReviewsMicroservice.API\bin\Debug\net8.0\JwtAuthenticationManager.pdb

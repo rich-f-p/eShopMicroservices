@@ -9,7 +9,7 @@ namespace Authentication.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
+    //[Authorize]
     public class AuthenticationController : ControllerBase
     {
         private readonly JwtTokenHandler tokenHandler;
@@ -26,9 +26,15 @@ namespace Authentication.API.Controllers
         public async Task<ActionResult<AuthenticationResponse>> Login(LoginModel model)
         {
             var result = await authService.LoginAsync(model);
-            if (result > 0)
+            var request = new AuthenticationRequest()
             {
-                var authenticationResponse = tokenHandler.GenerateJwtToken(model.Username, model.Password);
+                UserName = result.Username,
+                Password = result.Password,
+                Role = result.Role
+            };
+            if (result !=null)
+            {
+                var authenticationResponse = tokenHandler.GenerateJwtToken(request);
                 if (authenticationResponse != null)
                 {
                     return authenticationResponse;
@@ -44,18 +50,21 @@ namespace Authentication.API.Controllers
         }
         [HttpPost]
         [Route("update")]
+        [Authorize(Roles ="Admin")]
         public async Task<IActionResult> Update(UpdateModel model)
         {
             return Ok(await authService.UpdateAsync(model));
         }
         [HttpDelete]
         [Route("Delete")]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Delete(int id)
         {
             return Ok(await authService.DeleteAsync(id));
         }
         [HttpGet]
         [Route("GetAllUsers")]
+        [Authorize(Roles ="Admin")]
         public async Task<IActionResult> GetAllUsers()
         {
             return Ok(await authService.GetAllAsync());
@@ -68,6 +77,7 @@ namespace Authentication.API.Controllers
         }
         [HttpGet]
         [Route("GetUser")]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> GetUser(int id) 
         {
             return Ok(await authService.GetUserByIdAsync(id));

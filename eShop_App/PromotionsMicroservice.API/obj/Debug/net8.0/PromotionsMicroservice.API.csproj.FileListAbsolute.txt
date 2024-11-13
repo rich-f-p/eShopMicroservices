@@ -185,3 +185,7 @@ C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMic
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMicroservice.API\bin\Debug\net8.0\Microsoft.Azure.Amqp.dll
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMicroservice.API\bin\Debug\net8.0\System.ClientModel.dll
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMicroservice.API\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMicroservice.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMicroservice.API\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMicroservice.API\bin\Debug\net8.0\JwtAuthenticationManager.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\PromotionsMicroservice.API\bin\Debug\net8.0\JwtAuthenticationManager.pdb

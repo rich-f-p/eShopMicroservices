@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShippingMicroservice.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0b88da919fbd5d69ef25306e6890dee80e81a79")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68e6286d025017d73a587eb1b1399d43ab9b172f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShippingMicroservice.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShippingMicroservice.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

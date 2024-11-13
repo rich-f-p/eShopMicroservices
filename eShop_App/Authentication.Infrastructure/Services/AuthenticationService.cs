@@ -2,6 +2,7 @@
 using Authentication.ApplicationCore.Contracts.Services;
 using Authentication.ApplicationCore.Entities;
 using Authentication.ApplicationCore.Models.Request;
+using Authentication.ApplicationCore.Models.Response;
 using AutoMapper;
 using System;
 using System.Collections.Generic;
@@ -50,9 +51,9 @@ namespace Authentication.Infrastructure.Services
             return mapper.Map<CustomerRegisterModel>(await userRepo.GetByIdAsync(id));
         }
 
-        public async Task<int> LoginAsync(LoginModel model)
+        public async Task<UserLoginResponseModel> LoginAsync(LoginModel model)
         {
-            return await userRepo.LoginAsync(model);
+            return mapper.Map<UserLoginResponseModel>( await userRepo.LoginAsync(model));
         }
 
         public async Task<int> RegisterAdminAsync(RegisterModel model)

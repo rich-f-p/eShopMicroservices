@@ -182,3 +182,7 @@ C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ShippingMicro
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ShippingMicroservice.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ShippingMicroservice.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ShippingMicroservice.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ShippingMicroservice.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ShippingMicroservice.API\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ShippingMicroservice.API\bin\Debug\net8.0\JwtAuthenticationManager.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\ShippingMicroservice.API\bin\Debug\net8.0\JwtAuthenticationManager.pdb

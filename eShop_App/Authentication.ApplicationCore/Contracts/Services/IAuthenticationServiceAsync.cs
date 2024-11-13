@@ -1,4 +1,5 @@
 ﻿using Authentication.ApplicationCore.Models.Request;
+using Authentication.ApplicationCore.Models.Response;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,7 +11,7 @@ namespace Authentication.ApplicationCore.Contracts.Services
     public interface IAuthenticationServiceAsync
     {
         //post login
-        Task<int> LoginAsync(LoginModel model);
+        Task<UserLoginResponseModel> LoginAsync(LoginModel model);
         //post register-admin
         Task<int> RegisterAdminAsync(RegisterModel model);
         //post update
