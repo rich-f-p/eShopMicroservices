@@ -8,7 +8,8 @@
         "productmicroservice.api": "StartDebugging",
         "promotionsmicroservice.api": "StartDebugging",
         "reviewsmicroservice.api": "StartDebugging",
-        "shippingmicroservice.api": "StartDebugging"
+        "shippingmicroservice.api": "StartDebugging",
+        "authentication.api": "StartDebugging"
       }
     }
   }

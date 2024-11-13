@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PromotionsMicroservice.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8db05b071abb782596f279e99f058bff6c4985e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd2cc6502e4d120192124ae1d440e74ccd5cd343")]
 [assembly: System.Reflection.AssemblyProductAttribute("PromotionsMicroservice.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PromotionsMicroservice.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

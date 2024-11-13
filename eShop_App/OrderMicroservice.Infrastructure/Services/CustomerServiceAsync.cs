@@ -35,7 +35,6 @@ namespace OrderMicroservice.Infrastructure.Services
 
         public async Task<int> SaveCustomerAddress(AddressRequestModel address, int customerId)
         {
-            Console.WriteLine(address.Street2);
             var test = mapper.Map<Address>(address);
             
             var addressId = await addressRepo.InsertAsync(test);
