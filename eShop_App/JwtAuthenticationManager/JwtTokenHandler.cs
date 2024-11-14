@@ -1,4 +1,5 @@
-﻿using Microsoft.IdentityModel.Tokens;
+﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.IdentityModel.Tokens;
 using System;
 using System.Collections.Generic;
 using System.IdentityModel.Tokens.Jwt;
@@ -19,9 +20,9 @@ namespace JwtAuthenticationManager
             
         }
 
-        public AuthenticationResponse GenerateJwtToken(AuthenticationRequest userAccount)
+        public AuthenticationResponse GenerateJwtToken(AuthenticationRequest request)
         {
-            if(string.IsNullOrEmpty(userAccount.UserName) || string.IsNullOrEmpty(userAccount.Password))
+            if(string.IsNullOrEmpty(request.UserName) || string.IsNullOrEmpty(request.Password))
             {
                 return null;
             }
@@ -31,10 +32,12 @@ namespace JwtAuthenticationManager
             var tokenKey = Encoding.ASCII.GetBytes(JWT_SECURITY_KEY);
             var claimsIdentity = new ClaimsIdentity(new List<Claim>
             {
-                new Claim(JwtRegisteredClaimNames.Name,userAccount.UserName),
-                new Claim(ClaimTypes.Role,userAccount.Role),
-
+                new Claim(JwtRegisteredClaimNames.Name,request.UserName),
             });
+            foreach(var r in request.Role)
+            {
+                claimsIdentity.AddClaim(new Claim(ClaimTypes.Role, r));
+            }
             var signInCredentials = new SigningCredentials(new SymmetricSecurityKey(tokenKey),SecurityAlgorithms.HmacSha256Signature);
 
             var securityTokenDescriptor = new SecurityTokenDescriptor();
@@ -48,7 +51,7 @@ namespace JwtAuthenticationManager
 
             return new AuthenticationResponse
             {
-                UserName = userAccount.UserName,
+                UserName = request.UserName,
                 JwtToken = token,
                 ExpiresIn = (int)tokenExpiry.Subtract(DateTime.Now).TotalSeconds
             };

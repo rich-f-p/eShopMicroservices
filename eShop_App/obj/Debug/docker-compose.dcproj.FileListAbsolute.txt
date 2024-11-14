@@ -78,8 +78,6 @@ C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\bin\Debug\Aut
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\bin\Debug\Authentication.API.runtimeconfig.json
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\bin\Debug\Authentication.API.exe
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\bin\Debug\JwtAuthenticationManager.dll
-C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\bin\Debug\Authentication.ApplicationCore.dll
-C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\bin\Debug\Authentication.Infrastructure.dll
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\bin\Debug\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\bin\Debug\Microsoft.IdentityModel.Tokens.dll
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
@@ -90,5 +88,8 @@ C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\bin\Debug\Mic
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\bin\Debug\Authentication.API.pdb
 C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\bin\Debug\JwtAuthenticationManager.pdb
-C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\bin\Debug\Authentication.ApplicationCore.pdb
-C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\bin\Debug\Authentication.Infrastructure.pdb
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\bin\Debug\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\bin\Debug\Microsoft.Extensions.Identity.Core.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\bin\Debug\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\richa\Desktop\SEP Full Stack\eShopMicroservices\eShop_App\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OrderMicroservice.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68e6286d025017d73a587eb1b1399d43ab9b172f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc3c5b6e10d07083eb689bd50ec583cd7f185c16")]
 [assembly: System.Reflection.AssemblyProductAttribute("OrderMicroservice.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OrderMicroservice.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

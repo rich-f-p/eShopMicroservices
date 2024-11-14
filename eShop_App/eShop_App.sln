@@ -53,13 +53,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AuthenticationMicroservice"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Authentication.API", "Authentication.API\Authentication.API.csproj", "{7F497A8A-3BAA-4B1F-9CBD-D31D9CAE9599}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Authentication.ApplicationCore", "Authentication.ApplicationCore\Authentication.ApplicationCore.csproj", "{5D43E7AA-FBF2-4070-897A-1FFECCB6E328}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Authentication.Infrastructure", "Authentication.Infrastructure\Authentication.Infrastructure.csproj", "{1417D197-0605-4F5D-AA35-4714DA0ED2F4}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JWT", "JWT", "{71E1113D-511A-4C32-9EE7-8D01E74BE2EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtAuthenticationManager", "JwtAuthenticationManager\JwtAuthenticationManager.csproj", "{49A14107-1C54-40BC-844F-BB9BEF2DFB1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JwtAuthenticationManager", "JwtAuthenticationManager\JwtAuthenticationManager.csproj", "{49A14107-1C54-40BC-844F-BB9BEF2DFB1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EShopFunction", "EShopFunction\EShopFunction.csproj", "{B2231323-854D-4CF7-88DD-61920C111F49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -139,18 +137,14 @@ Global
 		{7F497A8A-3BAA-4B1F-9CBD-D31D9CAE9599}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F497A8A-3BAA-4B1F-9CBD-D31D9CAE9599}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F497A8A-3BAA-4B1F-9CBD-D31D9CAE9599}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5D43E7AA-FBF2-4070-897A-1FFECCB6E328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5D43E7AA-FBF2-4070-897A-1FFECCB6E328}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5D43E7AA-FBF2-4070-897A-1FFECCB6E328}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5D43E7AA-FBF2-4070-897A-1FFECCB6E328}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1417D197-0605-4F5D-AA35-4714DA0ED2F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1417D197-0605-4F5D-AA35-4714DA0ED2F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1417D197-0605-4F5D-AA35-4714DA0ED2F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1417D197-0605-4F5D-AA35-4714DA0ED2F4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{49A14107-1C54-40BC-844F-BB9BEF2DFB1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{49A14107-1C54-40BC-844F-BB9BEF2DFB1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49A14107-1C54-40BC-844F-BB9BEF2DFB1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49A14107-1C54-40BC-844F-BB9BEF2DFB1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2231323-854D-4CF7-88DD-61920C111F49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2231323-854D-4CF7-88DD-61920C111F49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2231323-854D-4CF7-88DD-61920C111F49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2231323-854D-4CF7-88DD-61920C111F49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -173,8 +167,6 @@ Global
 		{8431F723-F9EF-4542-A8EA-C29651D95C6F} = {6AA3A6CB-A6C5-4021-A959-06E42851BD95}
 		{A47E05B7-4C23-43AB-B18E-A5B1C94E9092} = {8C82005C-24B8-4CEC-87B0-50114665C52F}
 		{7F497A8A-3BAA-4B1F-9CBD-D31D9CAE9599} = {3C8283F4-AB59-40A7-9F09-4F5537542171}
-		{5D43E7AA-FBF2-4070-897A-1FFECCB6E328} = {3C8283F4-AB59-40A7-9F09-4F5537542171}
-		{1417D197-0605-4F5D-AA35-4714DA0ED2F4} = {3C8283F4-AB59-40A7-9F09-4F5537542171}
 		{49A14107-1C54-40BC-844F-BB9BEF2DFB1C} = {71E1113D-511A-4C32-9EE7-8D01E74BE2EA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution

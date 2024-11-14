@@ -1,6 +1,4 @@
-﻿using Authentication.ApplicationCore.Entities;
-using Authentication.ApplicationCore.Models.Request;
-using Authentication.ApplicationCore.Models.Response;
+﻿using Authentication.API.Models;
 using AutoMapper;
 
 namespace Authentication.API.Helper.Mapper
@@ -9,10 +7,10 @@ namespace Authentication.API.Helper.Mapper
     {
         public ApplicationMapper()
         {
-            CreateMap<User,CustomerRegisterModel>().ReverseMap();
-            CreateMap<User,RegisterModel>().ReverseMap();
-            CreateMap<User,UpdateModel>().ReverseMap();
-            CreateMap<User,UserLoginResponseModel>().ReverseMap();
+            CreateMap<AuthUser,CustomerRegisterModel>().ReverseMap();
+            CreateMap<AuthUser,RegisterModel>().ReverseMap();
+            CreateMap<AuthUser,LoginResponseModel>().ReverseMap();
+            CreateMap<UpdateModel,AuthUser>().ReverseMap();
         }
     }
 }

@@ -1,9 +1,8 @@
-using Authentication.ApplicationCore.Contracts.Repository;
-using Authentication.ApplicationCore.Contracts.Services;
-using Authentication.Infrastructure.Data;
-using Authentication.Infrastructure.Repository;
-using Authentication.Infrastructure.Services;
+using Authentication.API.Data;
+using Authentication.API.Models;
+using Authentication.API.Repository;
 using JwtAuthenticationManager;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -23,13 +22,12 @@ builder.Services.AddDbContext<AuthenticationMicroserviceDbContext>(option => {
     //option.UseSqlServer(builder.Configuration.GetConnectionString("AuthenticationMicroserviceDb"));
     option.UseSqlServer(Environment.GetEnvironmentVariable("AuthenticationConnectionDb"));
 });
+builder.Services.AddIdentity<AuthUser,IdentityRole>()
+    .AddEntityFrameworkStores<AuthenticationMicroserviceDbContext>().AddDefaultTokenProviders();
+
 builder.Services.AddAutoMapper(typeof(Program));
 
-builder.Services.AddScoped<IRoleRepositoryAsync, RoleRepositoryAsync>();
-builder.Services.AddScoped<IUserRepositoryAsync, UserRepositoryAsync>();
-builder.Services.AddScoped<IUser_RoleRepositoryAsync, User_RoleRepositoryAsync>();
-
-builder.Services.AddScoped<IAuthenticationServiceAsync, AuthenticationService>();
+builder.Services.AddScoped<IAccountRepository, AccountRepository>();
 
 var app = builder.Build();
 

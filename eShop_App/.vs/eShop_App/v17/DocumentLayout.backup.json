@@ -3,12 +3,108 @@
   "WorkspaceRootPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7F497A8A-3BAA-4B1F-9CBD-D31D9CAE9599}|Authentication.API\\Authentication.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\authentication.api\\repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F497A8A-3BAA-4B1F-9CBD-D31D9CAE9599}|Authentication.API\\Authentication.API.csproj|solutionrelative:authentication.api\\repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F497A8A-3BAA-4B1F-9CBD-D31D9CAE9599}|Authentication.API\\Authentication.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\authentication.api\\repository\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F497A8A-3BAA-4B1F-9CBD-D31D9CAE9599}|Authentication.API\\Authentication.API.csproj|solutionrelative:authentication.api\\repository\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F497A8A-3BAA-4B1F-9CBD-D31D9CAE9599}|Authentication.API\\Authentication.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\authentication.api\\models\\updatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F497A8A-3BAA-4B1F-9CBD-D31D9CAE9599}|Authentication.API\\Authentication.API.csproj|solutionrelative:authentication.api\\models\\updatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7F497A8A-3BAA-4B1F-9CBD-D31D9CAE9599}|Authentication.API\\Authentication.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\authentication.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F497A8A-3BAA-4B1F-9CBD-D31D9CAE9599}|Authentication.API\\Authentication.API.csproj|solutionrelative:authentication.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F497A8A-3BAA-4B1F-9CBD-D31D9CAE9599}|Authentication.API\\Authentication.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\authentication.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F497A8A-3BAA-4B1F-9CBD-D31D9CAE9599}|Authentication.API\\Authentication.API.csproj|solutionrelative:authentication.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F497A8A-3BAA-4B1F-9CBD-D31D9CAE9599}|Authentication.API\\Authentication.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\authentication.api\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F497A8A-3BAA-4B1F-9CBD-D31D9CAE9599}|Authentication.API\\Authentication.API.csproj|solutionrelative:authentication.api\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Migrations\\20241114170527_changes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Authentication.API\\Migrations\\20241114170527_changes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F497A8A-3BAA-4B1F-9CBD-D31D9CAE9599}|Authentication.API\\Authentication.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\authentication.api\\models\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F497A8A-3BAA-4B1F-9CBD-D31D9CAE9599}|Authentication.API\\Authentication.API.csproj|solutionrelative:authentication.api\\models\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F497A8A-3BAA-4B1F-9CBD-D31D9CAE9599}|Authentication.API\\Authentication.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\authentication.api\\models\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F497A8A-3BAA-4B1F-9CBD-D31D9CAE9599}|Authentication.API\\Authentication.API.csproj|solutionrelative:authentication.api\\models\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F497A8A-3BAA-4B1F-9CBD-D31D9CAE9599}|Authentication.API\\Authentication.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\authentication.api\\data\\authenticationmicroservicedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F497A8A-3BAA-4B1F-9CBD-D31D9CAE9599}|Authentication.API\\Authentication.API.csproj|solutionrelative:authentication.api\\data\\authenticationmicroservicedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A14107-1C54-40BC-844F-BB9BEF2DFB1C}|JwtAuthenticationManager\\JwtAuthenticationManager.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\jwtauthenticationmanager\\jwttokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49A14107-1C54-40BC-844F-BB9BEF2DFB1C}|JwtAuthenticationManager\\JwtAuthenticationManager.csproj|solutionrelative:jwtauthenticationmanager\\jwttokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A14107-1C54-40BC-844F-BB9BEF2DFB1C}|JwtAuthenticationManager\\JwtAuthenticationManager.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\jwtauthenticationmanager\\authenticationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49A14107-1C54-40BC-844F-BB9BEF2DFB1C}|JwtAuthenticationManager\\JwtAuthenticationManager.csproj|solutionrelative:jwtauthenticationmanager\\authenticationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A14107-1C54-40BC-844F-BB9BEF2DFB1C}|JwtAuthenticationManager\\JwtAuthenticationManager.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\jwtauthenticationmanager\\jwtauthenticationmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{49A14107-1C54-40BC-844F-BB9BEF2DFB1C}|JwtAuthenticationManager\\JwtAuthenticationManager.csproj|solutionrelative:jwtauthenticationmanager\\jwtauthenticationmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F497A8A-3BAA-4B1F-9CBD-D31D9CAE9599}|Authentication.API\\Authentication.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\authentication.api\\models\\loginresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F497A8A-3BAA-4B1F-9CBD-D31D9CAE9599}|Authentication.API\\Authentication.API.csproj|solutionrelative:authentication.api\\models\\loginresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9017F9-F3CC-412E-9789-2BD687B2FB81}|OrderMicroservice.API\\OrderMicroservice.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\ordermicroservice.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9017F9-F3CC-412E-9789-2BD687B2FB81}|OrderMicroservice.API\\OrderMicroservice.API.csproj|solutionrelative:ordermicroservice.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F497A8A-3BAA-4B1F-9CBD-D31D9CAE9599}|Authentication.API\\Authentication.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\authentication.api\\helper\\mapper\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F497A8A-3BAA-4B1F-9CBD-D31D9CAE9599}|Authentication.API\\Authentication.API.csproj|solutionrelative:authentication.api\\helper\\mapper\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Migrations\\20241114151659_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Authentication.API\\Migrations\\20241114151659_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Migrations\\20241114150535_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Authentication.API\\Migrations\\20241114150535_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F497A8A-3BAA-4B1F-9CBD-D31D9CAE9599}|Authentication.API\\Authentication.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\authentication.api\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F497A8A-3BAA-4B1F-9CBD-D31D9CAE9599}|Authentication.API\\Authentication.API.csproj|solutionrelative:authentication.api\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F497A8A-3BAA-4B1F-9CBD-D31D9CAE9599}|Authentication.API\\Authentication.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\authentication.api\\models\\customerregistermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F497A8A-3BAA-4B1F-9CBD-D31D9CAE9599}|Authentication.API\\Authentication.API.csproj|solutionrelative:authentication.api\\models\\customerregistermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F497A8A-3BAA-4B1F-9CBD-D31D9CAE9599}|Authentication.API\\Authentication.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\authentication.api\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F497A8A-3BAA-4B1F-9CBD-D31D9CAE9599}|Authentication.API\\Authentication.API.csproj|solutionrelative:authentication.api\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F497A8A-3BAA-4B1F-9CBD-D31D9CAE9599}|Authentication.API\\Authentication.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\authentication.api\\authentication.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F497A8A-3BAA-4B1F-9CBD-D31D9CAE9599}|Authentication.API\\Authentication.API.csproj|solutionrelative:authentication.api\\authentication.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F497A8A-3BAA-4B1F-9CBD-D31D9CAE9599}|Authentication.API\\Authentication.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\authentication.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7F497A8A-3BAA-4B1F-9CBD-D31D9CAE9599}|Authentication.API\\Authentication.API.csproj|solutionrelative:authentication.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F497A8A-3BAA-4B1F-9CBD-D31D9CAE9599}|Authentication.API\\Authentication.API.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\authentication.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7F497A8A-3BAA-4B1F-9CBD-D31D9CAE9599}|Authentication.API\\Authentication.API.csproj|solutionrelative:authentication.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2231323-854D-4CF7-88DD-61920C111F49}|EShopFunction\\EShopFunction.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\eshopfunction\\httporder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2231323-854D-4CF7-88DD-61920C111F49}|EShopFunction\\EShopFunction.csproj|solutionrelative:eshopfunction\\httporder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2231323-854D-4CF7-88DD-61920C111F49}|EShopFunction\\EShopFunction.csproj|c:\\users\\richa\\desktop\\sep full stack\\eshopmicroservices\\eshop_app\\eshopfunction\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B2231323-854D-4CF7-88DD-61920C111F49}|EShopFunction\\EShopFunction.csproj|solutionrelative:eshopfunction\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 333,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +122,340 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "UpdateModel.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Models\\UpdateModel.cs",
+              "RelativeDocumentMoniker": "Authentication.API\\Models\\UpdateModel.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Models\\UpdateModel.cs",
+              "RelativeToolTip": "Authentication.API\\Models\\UpdateModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:58:56.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Models\\Roles.cs",
+              "RelativeDocumentMoniker": "Authentication.API\\Models\\Roles.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Models\\Roles.cs",
+              "RelativeToolTip": "Authentication.API\\Models\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:50:04.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Repository\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Authentication.API\\Repository\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Repository\\AccountRepository.cs",
+              "RelativeToolTip": "Authentication.API\\Repository\\AccountRepository.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAA2wEAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T13:43:46.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241114170527_changes.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Migrations\\20241114170527_changes.cs",
+              "RelativeDocumentMoniker": "Authentication.API\\Migrations\\20241114170527_changes.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Migrations\\20241114170527_changes.cs",
+              "RelativeToolTip": "Authentication.API\\Migrations\\20241114170527_changes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T17:05:28.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Authentication.API\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Authentication.API\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAADwv00AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T16:29:56.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthUser.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Models\\AuthUser.cs",
+              "RelativeDocumentMoniker": "Authentication.API\\Models\\AuthUser.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Models\\AuthUser.cs",
+              "RelativeToolTip": "Authentication.API\\Models\\AuthUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T13:09:34.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Program.cs",
               "RelativeDocumentMoniker": "Authentication.API\\Program.cs",
               "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Program.cs",
               "RelativeToolTip": "Authentication.API\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxUAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T17:25:09.551Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthenticationController.cs",
-              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Controllers\\AuthenticationController.cs",
-              "RelativeDocumentMoniker": "Authentication.API\\Controllers\\AuthenticationController.cs",
-              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Controllers\\AuthenticationController.cs",
-              "RelativeToolTip": "Authentication.API\\Controllers\\AuthenticationController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAYwDQAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "JwtAuthenticationManager",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\JwtAuthenticationManager\\JwtAuthenticationManager.csproj",
+              "RelativeDocumentMoniker": "JwtAuthenticationManager\\JwtAuthenticationManager.csproj",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\JwtAuthenticationManager\\JwtAuthenticationManager.csproj",
+              "RelativeToolTip": "JwtAuthenticationManager\\JwtAuthenticationManager.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-14T13:45:16.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationMapper.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Helper\\Mapper\\ApplicationMapper.cs",
+              "RelativeDocumentMoniker": "Authentication.API\\Helper\\Mapper\\ApplicationMapper.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Helper\\Mapper\\ApplicationMapper.cs",
+              "RelativeToolTip": "Authentication.API\\Helper\\Mapper\\ApplicationMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T16:29:56.509Z",
+              "WhenOpened": "2024-11-14T13:28:56.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Repository\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "Authentication.API\\Repository\\IAccountRepository.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Repository\\IAccountRepository.cs",
+              "RelativeToolTip": "Authentication.API\\Repository\\IAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:25:05.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Models\\UserRoles.cs",
+              "RelativeDocumentMoniker": "Authentication.API\\Models\\UserRoles.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Models\\UserRoles.cs",
+              "RelativeToolTip": "Authentication.API\\Models\\UserRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:49:58.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthenticationMicroserviceDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Data\\AuthenticationMicroserviceDbContext.cs",
+              "RelativeDocumentMoniker": "Authentication.API\\Data\\AuthenticationMicroserviceDbContext.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Data\\AuthenticationMicroserviceDbContext.cs",
+              "RelativeToolTip": "Authentication.API\\Data\\AuthenticationMicroserviceDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T13:06:03.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JwtTokenHandler.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\JwtAuthenticationManager\\JwtTokenHandler.cs",
+              "RelativeDocumentMoniker": "JwtAuthenticationManager\\JwtTokenHandler.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\JwtAuthenticationManager\\JwtTokenHandler.cs",
+              "RelativeToolTip": "JwtAuthenticationManager\\JwtTokenHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAzwCYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T13:45:21.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthenticationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\JwtAuthenticationManager\\AuthenticationRequest.cs",
+              "RelativeDocumentMoniker": "JwtAuthenticationManager\\AuthenticationRequest.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\JwtAuthenticationManager\\AuthenticationRequest.cs",
+              "RelativeToolTip": "JwtAuthenticationManager\\AuthenticationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:16:22.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Models\\LoginResponseModel.cs",
+              "RelativeDocumentMoniker": "Authentication.API\\Models\\LoginResponseModel.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Models\\LoginResponseModel.cs",
+              "RelativeToolTip": "Authentication.API\\Models\\LoginResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T13:09:18.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241114150535_Init.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Migrations\\20241114150535_Init.cs",
+              "RelativeDocumentMoniker": "Authentication.API\\Migrations\\20241114150535_Init.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Migrations\\20241114150535_Init.cs",
+              "RelativeToolTip": "Authentication.API\\Migrations\\20241114150535_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:05:35.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "OrderMicroservice.API\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\OrderMicroservice.API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "OrderMicroservice.API\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T17:44:12.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241114151659_Init.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Migrations\\20241114151659_Init.cs",
+              "RelativeDocumentMoniker": "Authentication.API\\Migrations\\20241114151659_Init.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Migrations\\20241114151659_Init.cs",
+              "RelativeToolTip": "Authentication.API\\Migrations\\20241114151659_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:16:59.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Authentication.API\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Authentication.API\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T13:08:37.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CustomerRegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Models\\CustomerRegisterModel.cs",
+              "RelativeDocumentMoniker": "Authentication.API\\Models\\CustomerRegisterModel.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Models\\CustomerRegisterModel.cs",
+              "RelativeToolTip": "Authentication.API\\Models\\CustomerRegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T13:08:52.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "Authentication.API\\Models\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "Authentication.API\\Models\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T13:09:25.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Authentication.API",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Authentication.API.csproj",
+              "RelativeDocumentMoniker": "Authentication.API\\Authentication.API.csproj",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Authentication.API.csproj",
+              "RelativeToolTip": "Authentication.API\\Authentication.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-14T09:16:07.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Dockerfile",
+              "RelativeDocumentMoniker": "Authentication.API\\Dockerfile",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\Dockerfile",
+              "RelativeToolTip": "Authentication.API\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-14T13:00:22.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Authentication.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\Authentication.API\\appsettings.json",
+              "RelativeToolTip": "Authentication.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T13:02:00.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HttpOrder.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\EShopFunction\\HttpOrder.cs",
+              "RelativeDocumentMoniker": "EShopFunction\\HttpOrder.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\EShopFunction\\HttpOrder.cs",
+              "RelativeToolTip": "EShopFunction\\HttpOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:09:57.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\EShopFunction\\local.settings.json",
+              "RelativeDocumentMoniker": "EShopFunction\\local.settings.json",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\eShopMicroservices\\eShop_App\\EShopFunction\\local.settings.json",
+              "RelativeToolTip": "EShopFunction\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T10:12:16.824Z",
               "EditorCaption": ""
             }
           ]
