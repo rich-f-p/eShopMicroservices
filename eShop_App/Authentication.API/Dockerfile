@@ -4,7 +4,7 @@
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
 USER app
 WORKDIR /app
-ENV AuthenticationConnectionDb="Data Source=host.docker.internal,1433;Initial Catalog=AuthenticationMicroserviceDb;User ID=SA;Password=BatchSep@2024;Trust Server Certificate=True"
+ENV AuthenticationConnectionDb="Server=tcp:rrferry.database.windows.net,1433;Initial Catalog=auth-db;Persist Security Info=False;User ID=rrferry;Password=ThisisSQL1;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
 EXPOSE 8080
 
 
