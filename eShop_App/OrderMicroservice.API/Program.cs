@@ -44,11 +44,11 @@ builder.Services.AddScoped<IUser_AddressRepositoryAsync, User_AddressRepositoryA
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
+//if (app.Environment.IsDevelopment())
+//{
     app.UseSwagger();
     app.UseSwaggerUI();
-}
+//}
 //authentication injection!!!
 app.UseAuthentication();
 

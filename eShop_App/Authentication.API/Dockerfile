@@ -13,8 +13,6 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
 COPY ["Authentication.API/Authentication.API.csproj", "Authentication.API/"]
-COPY ["Authentication.Infrastructure/Authentication.Infrastructure.csproj", "Authentication.Infrastructure/"]
-COPY ["Authentication.ApplicationCore/Authentication.ApplicationCore.csproj", "Authentication.ApplicationCore/"]
 COPY ["JwtAuthenticationManager/JwtAuthenticationManager.csproj", "JwtAuthenticationManager/"]
 RUN dotnet restore "./Authentication.API/Authentication.API.csproj"
 COPY . .

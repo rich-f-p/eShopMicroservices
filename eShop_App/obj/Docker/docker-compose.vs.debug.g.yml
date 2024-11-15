@@ -40,7 +40,6 @@ services:
       args:
         LAUNCHING_FROM_VS: true
         BUILD_CONFIGURATION: Debug
-      target: base
       labels:
         com.microsoft.created-by: "visual-studio"
         com.microsoft.visual-studio.project-name: "OrderMicroservice.API"
@@ -75,7 +74,6 @@ services:
       args:
         LAUNCHING_FROM_VS: true
         BUILD_CONFIGURATION: Debug
-      target: base
       labels:
         com.microsoft.created-by: "visual-studio"
         com.microsoft.visual-studio.project-name: "ProductMicroservice.API"
@@ -110,7 +108,6 @@ services:
       args:
         LAUNCHING_FROM_VS: true
         BUILD_CONFIGURATION: Debug
-      target: base
       labels:
         com.microsoft.created-by: "visual-studio"
         com.microsoft.visual-studio.project-name: "PromotionsMicroservice.API"
@@ -145,7 +142,6 @@ services:
       args:
         LAUNCHING_FROM_VS: true
         BUILD_CONFIGURATION: Debug
-      target: base
       labels:
         com.microsoft.created-by: "visual-studio"
         com.microsoft.visual-studio.project-name: "ReviewsMicroservice.API"
@@ -180,7 +176,6 @@ services:
       args:
         LAUNCHING_FROM_VS: true
         BUILD_CONFIGURATION: Debug
-      target: base
       labels:
         com.microsoft.created-by: "visual-studio"
         com.microsoft.visual-studio.project-name: "ShippingMicroservice.API"

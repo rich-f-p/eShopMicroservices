@@ -35,11 +35,11 @@ builder.Services.AddScoped<IPromotion_DetailsRepositoryAsync, Promotion_DetailsR
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
+//if (app.Environment.IsDevelopment())
+//{
     app.UseSwagger();
     app.UseSwaggerUI();
-}
+//}
 //authentication injection!!!
 app.UseAuthentication();
 

@@ -37,11 +37,11 @@ builder.Services.AddScoped<IShipping_DetailsRepositoryAsync,Shipping_DetailsRepo
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
+//if (app.Environment.IsDevelopment())
+//{
     app.UseSwagger();
     app.UseSwaggerUI();
-}
+//}
 //authentication injection!!!
 app.UseAuthentication();
 
